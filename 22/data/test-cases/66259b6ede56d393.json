@@ -1,0 +1,414 @@
+{
+  "uid" : "66259b6ede56d393",
+  "name" : "Damm - VeranoDamm",
+  "fullName" : "damm.script.promociones.DAMM012.testAuto",
+  "historyId" : "a1965f5a6946be0a03705a5497b5ae5d",
+  "time" : {
+    "start" : 1633439796169,
+    "stop" : 1633439864115,
+    "duration" : 67946
+  },
+  "description" : "Restricción de Edad Aceptada",
+  "descriptionHtml" : "<p>Restricción de Edad Aceptada</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "Restricción de Edad Aceptada",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "OK - *** EJECUCIÓN PRUEBA: DAMM012 ***",
+      "time" : {
+        "start" : 1633439796309,
+        "stop" : 1633439797620,
+        "duration" : 1311
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "msg",
+        "value" : "*** EJECUCIÓN PRUEBA: DAMM012 ***"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "OK - WINDOWS: Directorio por defecto para las descargas: C:\\Users\\mmerajar\\Documents\\Proyectos\\TFG\\Implementación\\AutoTestingDamm\\downloads\\",
+      "time" : {
+        "start" : 1633439806060,
+        "stop" : 1633439806061,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "msg",
+        "value" : "WINDOWS: Directorio por defecto para las descargas: C:\\Users\\mmerajar\\Documents\\Proyectos\\TFG\\Implementación\\AutoTestingDamm\\downloads\\"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "OK - Entorno: PRO - Navegamos a la URL de la aplicacion: https://www.damm.com/es/veranodamm",
+      "time" : {
+        "start" : 1633439814231,
+        "stop" : 1633439814232,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "msg",
+        "value" : "Entorno: PRO - Navegamos a la URL de la aplicacion: https://www.damm.com/es/veranodamm"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "OK - Se verifica que existe el botón de aceptar cookies en VeranoDamm.",
+      "time" : {
+        "start" : 1633439817325,
+        "stop" : 1633439817326,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "msg",
+        "value" : "Se verifica que existe el botón de aceptar cookies en VeranoDamm."
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "OK - Se verifica que la restricción de Edad.",
+      "time" : {
+        "start" : 1633439818380,
+        "stop" : 1633439818381,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "msg",
+        "value" : "Se verifica que la restricción de Edad."
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "OK - \\** PRUEBA DAMM012: OK **/",
+      "time" : {
+        "start" : 1633439818382,
+        "stop" : 1633439818382,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "msg",
+        "value" : "\\** PRUEBA DAMM012: OK **/"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "OK - *** EJECUCIÓN PRUEBA: DAMM012 ***",
+      "time" : {
+        "start" : 1633439822397,
+        "stop" : 1633439822397,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "msg",
+        "value" : "*** EJECUCIÓN PRUEBA: DAMM012 ***"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "OK - WINDOWS: Directorio por defecto para las descargas: C:\\Users\\mmerajar\\Documents\\Proyectos\\TFG\\Implementación\\AutoTestingDamm\\downloads\\",
+      "time" : {
+        "start" : 1633439828484,
+        "stop" : 1633439828485,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "msg",
+        "value" : "WINDOWS: Directorio por defecto para las descargas: C:\\Users\\mmerajar\\Documents\\Proyectos\\TFG\\Implementación\\AutoTestingDamm\\downloads\\"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "OK - Entorno: PRO - Navegamos a la URL de la aplicacion: https://www.damm.com/es/veranodamm",
+      "time" : {
+        "start" : 1633439835958,
+        "stop" : 1633439835960,
+        "duration" : 2
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "msg",
+        "value" : "Entorno: PRO - Navegamos a la URL de la aplicacion: https://www.damm.com/es/veranodamm"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "OK - Se verifica que existe el botón de aceptar cookies en VeranoDamm.",
+      "time" : {
+        "start" : 1633439839005,
+        "stop" : 1633439839006,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "msg",
+        "value" : "Se verifica que existe el botón de aceptar cookies en VeranoDamm."
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "OK - Se verifica que la restricción de Edad.",
+      "time" : {
+        "start" : 1633439839819,
+        "stop" : 1633439839820,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "msg",
+        "value" : "Se verifica que la restricción de Edad."
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "OK - \\** PRUEBA DAMM012: OK **/",
+      "time" : {
+        "start" : 1633439839820,
+        "stop" : 1633439839820,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "msg",
+        "value" : "\\** PRUEBA DAMM012: OK **/"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "OK - *** EJECUCIÓN PRUEBA: DAMM012 ***",
+      "time" : {
+        "start" : 1633439843528,
+        "stop" : 1633439843529,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "msg",
+        "value" : "*** EJECUCIÓN PRUEBA: DAMM012 ***"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "OK - WINDOWS: Directorio por defecto para las descargas: C:\\Users\\mmerajar\\Documents\\Proyectos\\TFG\\Implementación\\AutoTestingDamm\\downloads\\",
+      "time" : {
+        "start" : 1633439849605,
+        "stop" : 1633439849606,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "msg",
+        "value" : "WINDOWS: Directorio por defecto para las descargas: C:\\Users\\mmerajar\\Documents\\Proyectos\\TFG\\Implementación\\AutoTestingDamm\\downloads\\"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "OK - Entorno: PRO - Navegamos a la URL de la aplicacion: https://www.damm.com/es/veranodamm",
+      "time" : {
+        "start" : 1633439856500,
+        "stop" : 1633439856501,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "msg",
+        "value" : "Entorno: PRO - Navegamos a la URL de la aplicacion: https://www.damm.com/es/veranodamm"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "OK - Se verifica que existe el botón de aceptar cookies en VeranoDamm.",
+      "time" : {
+        "start" : 1633439859579,
+        "stop" : 1633439859580,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "msg",
+        "value" : "Se verifica que existe el botón de aceptar cookies en VeranoDamm."
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "OK - Se verifica que la restricción de Edad.",
+      "time" : {
+        "start" : 1633439860403,
+        "stop" : 1633439860404,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "msg",
+        "value" : "Se verifica que la restricción de Edad."
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "OK - \\** PRUEBA DAMM012: OK **/",
+      "time" : {
+        "start" : 1633439860404,
+        "stop" : 1633439860405,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "msg",
+        "value" : "\\** PRUEBA DAMM012: OK **/"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 18,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "damm.script.promociones.DAMM012"
+  }, {
+    "name" : "testClass",
+    "value" : "damm.script.promociones.DAMM012"
+  }, {
+    "name" : "testMethod",
+    "value" : "testAuto"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "damm.script.promociones.DAMM012"
+  }, {
+    "name" : "host",
+    "value" : "BCN-10WTDB3"
+  }, {
+    "name" : "thread",
+    "value" : "25752@BCN-10WTDB3.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "browserName",
+    "value" : "CHROME"
+  }, {
+    "name" : "testName",
+    "value" : "Damm - VeranoDamm - Restricción de Edad Aceptada"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e7a5c7a06521382",
+      "status" : "failed",
+      "statusDetails" : "expected [false] but found [true]",
+      "time" : {
+        "start" : 1633439612723,
+        "stop" : 1633439633235,
+        "duration" : 20512
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "66259b6ede56d393.json",
+  "parameterValues" : [ "CHROME", "Damm - VeranoDamm - Restricción de Edad Aceptada" ]
+}

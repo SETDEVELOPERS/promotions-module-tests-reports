@@ -1,0 +1,251 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "BCN-10WTDB3",
+    "children" : [ {
+      "name" : "20924@BCN-10WTDB3.main(1)",
+      "children" : [ {
+        "name" : "Damm - VeranoDamm",
+        "uid" : "1e5d8bbb17e88ed0",
+        "parentUid" : "123c2f4df273cf1b3806bd0c407b7fc4",
+        "status" : "failed",
+        "time" : {
+          "start" : 1633002043163,
+          "stop" : 1633002047359,
+          "duration" : 4196
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "CHROME", "Damm - VeranoDamm - Verificar Banner VeranoDamm" ]
+      } ],
+      "uid" : "123c2f4df273cf1b3806bd0c407b7fc4"
+    }, {
+      "name" : "34004@BCN-10WTDB3.main(1)",
+      "children" : [ {
+        "name" : "Damm - VeranoDamm",
+        "uid" : "898ae8f33534a7f",
+        "parentUid" : "f12960019f4f195b1f58ab804a89ecac",
+        "status" : "failed",
+        "time" : {
+          "start" : 1633001430787,
+          "stop" : 1633001435058,
+          "duration" : 4271
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "CHROME", "Damm - VeranoDamm - Verificar Banner VeranoDamm" ]
+      } ],
+      "uid" : "f12960019f4f195b1f58ab804a89ecac"
+    }, {
+      "name" : "21348@BCN-10WTDB3.main(1)",
+      "children" : [ {
+        "name" : "Damm - VeranoDamm",
+        "uid" : "e7a5c7a06521382",
+        "parentUid" : "9625ba058fb73d1c06bbf88ebe20d4b9",
+        "status" : "failed",
+        "time" : {
+          "start" : 1633439612723,
+          "stop" : 1633439633235,
+          "duration" : 20512
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "CHROME", "Damm - VeranoDamm - Restricción de Edad Aceptada" ]
+      } ],
+      "uid" : "9625ba058fb73d1c06bbf88ebe20d4b9"
+    }, {
+      "name" : "19980@BCN-10WTDB3.main(1)",
+      "children" : [ {
+        "name" : "Damm - GastroEstrella",
+        "uid" : "4a973292d49f4a0c",
+        "parentUid" : "1744a88cc14a90c7174b2143b714f757",
+        "status" : "passed",
+        "time" : {
+          "start" : 1633006229927,
+          "stop" : 1633006298860,
+          "duration" : 68933
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "CHROME", "Damm - GastroEstrella - Aceptacion Cookies" ]
+      } ],
+      "uid" : "1744a88cc14a90c7174b2143b714f757"
+    }, {
+      "name" : "11300@BCN-10WTDB3.main(1)",
+      "children" : [ {
+        "name" : "Damm - GastroEstrella",
+        "uid" : "12c821e6a5cd91c0",
+        "parentUid" : "4dcc96197ae50232209822a04cecbd0d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1633002196213,
+          "stop" : 1633002221465,
+          "duration" : 25252
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "CHROME", "Damm - GastroEstrella - Aceptacion Cookies" ]
+      } ],
+      "uid" : "4dcc96197ae50232209822a04cecbd0d"
+    }, {
+      "name" : "34392@BCN-10WTDB3.main(1)",
+      "children" : [ {
+        "name" : "Damm - GastroEstrella",
+        "uid" : "a8dfff854c11d75",
+        "parentUid" : "fcfa52c7490d73871857d9ecf890f29b",
+        "status" : "failed",
+        "time" : {
+          "start" : 1633002011060,
+          "stop" : 1633002016657,
+          "duration" : 5597
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "CHROME", "Damm - GastroEstrella - Verificar Banner GastroEstrella" ]
+      } ],
+      "uid" : "fcfa52c7490d73871857d9ecf890f29b"
+    }, {
+      "name" : "26184@BCN-10WTDB3.main(1)",
+      "children" : [ {
+        "name" : "Damm - GastroEstrella",
+        "uid" : "d5cac9e9377d616f",
+        "parentUid" : "982600e8ef852f8da94d3a2e5f6bc9eb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1633001928682,
+          "stop" : 1633001950600,
+          "duration" : 21918
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "CHROME", "Damm - GastroEstrella - Aceptacion Cookies" ]
+      } ],
+      "uid" : "982600e8ef852f8da94d3a2e5f6bc9eb"
+    }, {
+      "name" : "28068@BCN-10WTDB3.main(1)",
+      "children" : [ {
+        "name" : "Damm - GastroEstrella",
+        "uid" : "c823488da721af07",
+        "parentUid" : "76b183526a6902eeded50d9643874faa",
+        "status" : "passed",
+        "time" : {
+          "start" : 1633007836214,
+          "stop" : 1633007915247,
+          "duration" : 79033
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "CHROME", "Damm - GastroEstrella - Aceptacion Cookies" ]
+      } ],
+      "uid" : "76b183526a6902eeded50d9643874faa"
+    }, {
+      "name" : "25752@BCN-10WTDB3.main(1)",
+      "children" : [ {
+        "name" : "Damm - VeranoDamm",
+        "uid" : "66259b6ede56d393",
+        "parentUid" : "733cdbb0c107ba03f1ca83becb109639",
+        "status" : "passed",
+        "time" : {
+          "start" : 1633439796169,
+          "stop" : 1633439864115,
+          "duration" : 67946
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "CHROME", "Damm - VeranoDamm - Restricción de Edad Aceptada" ]
+      } ],
+      "uid" : "733cdbb0c107ba03f1ca83becb109639"
+    }, {
+      "name" : "32652@BCN-10WTDB3.main(1)",
+      "children" : [ {
+        "name" : "Damm - VeranoDamm",
+        "uid" : "29eba1d44909104",
+        "parentUid" : "cd4e2b770ac90d46de569fb2604f2814",
+        "status" : "failed",
+        "time" : {
+          "start" : 1633001995383,
+          "stop" : 1633001999577,
+          "duration" : 4194
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "CHROME", "Damm - VeranoDamm - Verificar Banner VeranoDamm" ]
+      } ],
+      "uid" : "cd4e2b770ac90d46de569fb2604f2814"
+    }, {
+      "name" : "2512@BCN-10WTDB3.main(1)",
+      "children" : [ {
+        "name" : "Damm - GastroEstrella",
+        "uid" : "e2d5eeee80fea19d",
+        "parentUid" : "c576e23c308644a62114713f06c6a806",
+        "status" : "passed",
+        "time" : {
+          "start" : 1633004351869,
+          "stop" : 1633004374390,
+          "duration" : 22521
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "CHROME", "Damm - GastroEstrella - Aceptacion Cookies" ]
+      } ],
+      "uid" : "c576e23c308644a62114713f06c6a806"
+    }, {
+      "name" : "26284@BCN-10WTDB3.main(1)",
+      "children" : [ {
+        "name" : "Damm - GastroEstrella",
+        "uid" : "ebbe1746fba7148d",
+        "parentUid" : "e6a26582296897aa0677728d24073653",
+        "status" : "passed",
+        "time" : {
+          "start" : 1633068463852,
+          "stop" : 1633068537862,
+          "duration" : 74010
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "CHROME", "Damm - GastroEstrella - Aceptacion Cookies" ]
+      } ],
+      "uid" : "e6a26582296897aa0677728d24073653"
+    }, {
+      "name" : "21732@BCN-10WTDB3.main(1)",
+      "children" : [ {
+        "name" : "Damm - GastroEstrella",
+        "uid" : "a71cde2963409f1c",
+        "parentUid" : "1edc83b9b64329758bd6a33207a72b3a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1633001391528,
+          "stop" : 1633001396738,
+          "duration" : 5210
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "CHROME", "Damm - GastroEstrella - Verificar Banner GastroEstrella" ]
+      } ],
+      "uid" : "1edc83b9b64329758bd6a33207a72b3a"
+    } ],
+    "uid" : "f46cc8e4ee49ccceca36630505aa2676"
+  }, {
+    "name" : "SVQ-H1KMZM2",
+    "children" : [ {
+      "name" : "2164@SVQ-H1KMZM2.main(1)",
+      "children" : [ {
+        "name" : "Damm - GastroEstrella",
+        "uid" : "cf3f8fe6f0e0096c",
+        "parentUid" : "7e2e25b26f38b60e23792ea933b51943",
+        "status" : "passed",
+        "time" : {
+          "start" : 1633001524476,
+          "stop" : 1633001597550,
+          "duration" : 73074
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "CHROME", "Damm - GastroEstrella - Aceptacion Cookies" ]
+      } ],
+      "uid" : "7e2e25b26f38b60e23792ea933b51943"
+    } ],
+    "uid" : "3bbec95ea570a36b807cb706a6bb3ca8"
+  } ],
+  "name" : "timeline"
+}

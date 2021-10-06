@@ -1,0 +1,169 @@
+{
+  "uid" : "12c821e6a5cd91c0",
+  "name" : "Damm - GastroEstrella",
+  "fullName" : "damm.script.promociones.DAMM001.testAuto",
+  "historyId" : "59d9eb3ff0658d67776cff7ed88f02ff",
+  "time" : {
+    "start" : 1633002196213,
+    "stop" : 1633002221465,
+    "duration" : 25252
+  },
+  "description" : "Aceptacion Cookies GastroEstrella",
+  "descriptionHtml" : "<p>Aceptacion Cookies GastroEstrella</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "Aceptacion Cookies GastroEstrella",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "OK - *** EJECUCIÓN PRUEBA: DAMM001 ***",
+      "time" : {
+        "start" : 1633002196315,
+        "stop" : 1633002197325,
+        "duration" : 1010
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "msg",
+        "value" : "*** EJECUCIÓN PRUEBA: DAMM001 ***"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "OK - WINDOWS: Directorio por defecto para las descargas: C:\\Users\\mmerajar\\Documents\\Proyectos\\TFG\\Implementación\\AutoTestingDamm\\downloads\\",
+      "time" : {
+        "start" : 1633002202907,
+        "stop" : 1633002202908,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "msg",
+        "value" : "WINDOWS: Directorio por defecto para las descargas: C:\\Users\\mmerajar\\Documents\\Proyectos\\TFG\\Implementación\\AutoTestingDamm\\downloads\\"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "OK - Entorno: PRO - Navegamos a la URL de la aplicacion: https://www.estrelladamm.com/es/gastroestrella",
+      "time" : {
+        "start" : 1633002213562,
+        "stop" : 1633002213563,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "msg",
+        "value" : "Entorno: PRO - Navegamos a la URL de la aplicacion: https://www.estrelladamm.com/es/gastroestrella"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "OK - Se verifica que el boton 'Aceptar Cookies' existe",
+      "time" : {
+        "start" : 1633002216859,
+        "stop" : 1633002216860,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "msg",
+        "value" : "Se verifica que el boton 'Aceptar Cookies' existe"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "OK - \\** PRUEBA DAMM001: OK **/",
+      "time" : {
+        "start" : 1633002216861,
+        "stop" : 1633002216862,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "msg",
+        "value" : "\\** PRUEBA DAMM001: OK **/"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 5,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "damm.script.promociones.DAMM001"
+  }, {
+    "name" : "testClass",
+    "value" : "damm.script.promociones.DAMM001"
+  }, {
+    "name" : "testMethod",
+    "value" : "testAuto"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "damm.script.promociones.DAMM001"
+  }, {
+    "name" : "host",
+    "value" : "BCN-10WTDB3"
+  }, {
+    "name" : "thread",
+    "value" : "11300@BCN-10WTDB3.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "browserName",
+    "value" : "CHROME"
+  }, {
+    "name" : "testName",
+    "value" : "Damm - GastroEstrella - Aceptacion Cookies"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "12c821e6a5cd91c0.json",
+  "parameterValues" : [ "CHROME", "Damm - GastroEstrella - Aceptacion Cookies" ]
+}

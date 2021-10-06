@@ -1,0 +1,70 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "children" : [ {
+    "name" : "Damm - GastroEstrella",
+    "uid" : "a8dfff854c11d75",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1633002011060,
+      "stop" : 1633002016657,
+      "duration" : 5597
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "CHROME", "Damm - GastroEstrella - Verificar Banner GastroEstrella" ]
+  }, {
+    "name" : "Damm - VeranoDamm",
+    "uid" : "1e5d8bbb17e88ed0",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1633002043163,
+      "stop" : 1633002047359,
+      "duration" : 4196
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "CHROME", "Damm - VeranoDamm - Verificar Banner VeranoDamm" ]
+  }, {
+    "name" : "Damm - GastroEstrella",
+    "uid" : "4a973292d49f4a0c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1633006229927,
+      "stop" : 1633006298860,
+      "duration" : 68933
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "CHROME", "Damm - GastroEstrella - Aceptacion Cookies" ]
+  }, {
+    "name" : "Damm - GastroEstrella",
+    "uid" : "ebbe1746fba7148d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1633068463852,
+      "stop" : 1633068537862,
+      "duration" : 74010
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "CHROME", "Damm - GastroEstrella - Aceptacion Cookies" ]
+  }, {
+    "name" : "Damm - VeranoDamm",
+    "uid" : "66259b6ede56d393",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1633439796169,
+      "stop" : 1633439864115,
+      "duration" : 67946
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "CHROME", "Damm - VeranoDamm - Restricción de Edad Aceptada" ]
+  } ],
+  "name" : "behaviors"
+}
