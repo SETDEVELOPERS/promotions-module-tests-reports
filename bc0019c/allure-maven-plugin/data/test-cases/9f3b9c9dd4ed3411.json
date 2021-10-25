@@ -1,0 +1,62 @@
+{
+  "uid" : "9f3b9c9dd4ed3411",
+  "name" : "getConfiguration_Ok",
+  "fullName" : "Core.Application.ConfigurationApplicationServiceTests.getConfiguration_Ok",
+  "historyId" : "7a1d34493efc772c7d4df03c92cf5830",
+  "time" : {
+    "start" : 1635178426933,
+    "stop" : 1635178427743,
+    "duration" : 810
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "Core.Application.ConfigurationApplicationServiceTests"
+  }, {
+    "name" : "testClass",
+    "value" : "Core.Application.ConfigurationApplicationServiceTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "getConfiguration_Ok"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "Core.Application.ConfigurationApplicationServiceTests"
+  }, {
+    "name" : "host",
+    "value" : "testdeployment-qaj5l4nm-69c9459c8c-b9bsx"
+  }, {
+    "name" : "thread",
+    "value" : "4311@testdeployment-qaj5l4nm-69c9459c8c-b9bsx.TestNG-test=AutomationTests-3(15)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9f3b9c9dd4ed3411.json",
+  "parameterValues" : [ ]
+}
