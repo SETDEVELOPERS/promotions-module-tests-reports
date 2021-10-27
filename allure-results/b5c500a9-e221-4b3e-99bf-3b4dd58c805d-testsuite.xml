@@ -1,0 +1,1103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1635350443299" stop="1635350814077" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Damm : AutomationTests</name>
+    <title>Damm : AutomationTests</title>
+    <test-cases>
+        <test-case start="1635350443706" stop="1635350475595" status="passed">
+            <name>on_Smartphone</name>
+            <description>Como visitante no registrado cuando accedo a una promoción finalizada entonces aparece las instrucciones de la promoción</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_FinishedPromotion.Then_PromotionInstructionsAppearsTest"/>
+                <label name="testMethod" value="on_Smartphone"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-5(17)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350443706" stop="1635350475055" status="passed">
+            <name>on_Desktop</name>
+            <description>Como nuevo visitante cuando se muestra la restricción de edad y deniego entonces no accedo a una promoción finalizada</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_FinishedPromotion.Then_RestrictionAgeDeniedAppearsTest"/>
+                <label name="testMethod" value="on_Desktop"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-1(13)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350443709" stop="1635350477358" status="passed">
+            <name>on_Desktop</name>
+            <description>Como visitante no registrado cuando accedo a una promoción finalizada entonces aparece las instrucciones de la promoción</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_FinishedPromotion.Then_PromotionInstructionsAppearsTest"/>
+                <label name="testMethod" value="on_Desktop"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-4(16)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350443713" stop="1635350475603" status="passed">
+            <name>on_Tablet</name>
+            <description>Como nuevo visitante cuando se muestra la restricción de edad y deniego entonces no accedo a una promoción finalizada</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_FinishedPromotion.Then_RestrictionAgeDeniedAppearsTest"/>
+                <label name="testMethod" value="on_Tablet"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-3(15)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350443713" stop="1635350475008" status="passed">
+            <name>on_Smartphone</name>
+            <description>Como nuevo visitante cuando se muestra la restricción de edad y deniego entonces no accedo a una promoción finalizada</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_FinishedPromotion.Then_RestrictionAgeDeniedAppearsTest"/>
+                <label name="testMethod" value="on_Smartphone"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-2(14)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350475068" stop="1635350490465" status="passed">
+            <name>on_Desktop</name>
+            <description>Como visitante no registrado cuando accedo a una promoción finalizada entonces aparece la imagen de cabecera</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_FinishedPromotion.Then_HeaderImageAppearsTest"/>
+                <label name="testMethod" value="on_Desktop"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-2(14)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350475071" stop="1635350499358" status="passed">
+            <name>on_Tablet</name>
+            <description>Como visitante no registrado cuando accedo a una promoción finalizada entonces aparece las instrucciones de la promoción</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_FinishedPromotion.Then_PromotionInstructionsAppearsTest"/>
+                <label name="testMethod" value="on_Tablet"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-1(13)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350475600" stop="1635350497083" status="passed">
+            <name>on_Smartphone</name>
+            <description>Como visitante no registrado cuando accedo a una promoción finalizada entonces aparece la imagen de cabecera</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_FinishedPromotion.Then_HeaderImageAppearsTest"/>
+                <label name="testMethod" value="on_Smartphone"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-5(17)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350475608" stop="1635350499643" status="passed">
+            <name>on_Tablet</name>
+            <description>Como visitante no registrado cuando accedo a una promoción finalizada entonces aparece la imagen de cabecera</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_FinishedPromotion.Then_HeaderImageAppearsTest"/>
+                <label name="testMethod" value="on_Tablet"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-3(15)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350477391" stop="1635350493330" status="passed">
+            <name>on_Desktop</name>
+            <description>Como nuevo visitante cuando accedo a una promoción finalizada entonces aparece la aceptación de cookies</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_FinishedPromotion.Then_CookiesAcceptanceAppearsTest"/>
+                <label name="testMethod" value="on_Desktop"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-4(16)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350490566" stop="1635350506557" status="passed">
+            <name>on_Smartphone</name>
+            <description>Como nuevo visitante cuando accedo a una promoción finalizada entonces aparece la aceptación de cookies</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_FinishedPromotion.Then_CookiesAcceptanceAppearsTest"/>
+                <label name="testMethod" value="on_Smartphone"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-2(14)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350493366" stop="1635350510160" status="passed">
+            <name>on_Tablet</name>
+            <description>Como nuevo visitante cuando accedo a una promoción finalizada entonces aparece la aceptación de cookies</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_FinishedPromotion.Then_CookiesAcceptanceAppearsTest"/>
+                <label name="testMethod" value="on_Tablet"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-4(16)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350497087" stop="1635350512081" status="passed">
+            <name>on_Desktop</name>
+            <description>Como nuevo visitante cuando se muestra la restricción de edad y acepto entonces accedo a una promoción finalizada</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_FinishedPromotion.Then_AgeRestrictionAppearsTest"/>
+                <label name="testMethod" value="on_Desktop"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-5(17)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350499378" stop="1635350517922" status="passed">
+            <name>on_Smartphone</name>
+            <description>Como nuevo visitante cuando se muestra la restricción de edad y acepto entonces accedo a una promoción finalizada</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_FinishedPromotion.Then_AgeRestrictionAppearsTest"/>
+                <label name="testMethod" value="on_Smartphone"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-1(13)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350499692" stop="1635350518145" status="passed">
+            <name>on_Tablet</name>
+            <description>Como nuevo visitante cuando se muestra la restricción de edad y acepto entonces accedo a una promoción finalizada</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_FinishedPromotion.Then_AgeRestrictionAppearsTest"/>
+                <label name="testMethod" value="on_Tablet"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-3(15)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350506580" stop="1635350525013" status="passed">
+            <name>on_Desktop</name>
+            <description>Como visitante no registrado cuando accedo a una promoción finalizada entonces aparece un el texto 'Promoción finalizada'</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_FinishedPromotion.Then_FinishedPromotionTextAppearsTest"/>
+                <label name="testMethod" value="on_Desktop"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-2(14)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350510192" stop="1635350532185" status="passed">
+            <name>on_Smartphone</name>
+            <description>Como visitante no registrado cuando accedo a una promoción finalizada entonces aparece un el texto 'Promoción finalizada'</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_FinishedPromotion.Then_FinishedPromotionTextAppearsTest"/>
+                <label name="testMethod" value="on_Smartphone"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-4(16)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350512179" stop="1635350538256" status="passed">
+            <name>on_Tablet</name>
+            <description>Como visitante no registrado cuando accedo a una promoción finalizada entonces aparece un el texto 'Promoción finalizada'</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_FinishedPromotion.Then_FinishedPromotionTextAppearsTest"/>
+                <label name="testMethod" value="on_Tablet"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-5(17)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350517947" stop="1635350539362" status="passed">
+            <name>on_Desktop</name>
+            <description>Como visitante no registrado cuando accedo a una promoción finalizada entonces aparece el pie de pagina</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_FinishedPromotion.Then_FooterAppearsTest"/>
+                <label name="testMethod" value="on_Desktop"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-1(13)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350518161" stop="1635350570189" status="passed">
+            <name>on_Smartphone</name>
+            <description>Como visitante no registrado cuando accedo a una promoción finalizada entonces aparece el pie de pagina</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_FinishedPromotion.Then_FooterAppearsTest"/>
+                <label name="testMethod" value="on_Smartphone"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-3(15)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350525065" stop="1635350576983" status="passed">
+            <name>on_Tablet</name>
+            <description>Como visitante no registrado cuando accedo a una promoción finalizada entonces aparece el pie de pagina</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_FinishedPromotion.Then_FooterAppearsTest"/>
+                <label name="testMethod" value="on_Tablet"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-2(14)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350532276" stop="1635350551381" status="passed">
+            <name>on_Desktop</name>
+            <description>Como visitante no registrado cuando accedo a una promoción finalizada entonces aparece el título de la promoción</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_FinishedPromotion.Then_PromotionTitleAppearsTest"/>
+                <label name="testMethod" value="on_Desktop"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-4(16)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350538276" stop="1635350556770" status="passed">
+            <name>on_Smartphone</name>
+            <description>Como visitante no registrado cuando accedo a una promoción finalizada entonces aparece el título de la promoción</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_FinishedPromotion.Then_PromotionTitleAppearsTest"/>
+                <label name="testMethod" value="on_Smartphone"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-5(17)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350539375" stop="1635350557164" status="passed">
+            <name>on_Tablet</name>
+            <description>Como visitante no registrado cuando accedo a una promoción finalizada entonces aparece el título de la promoción</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_FinishedPromotion.Then_PromotionTitleAppearsTest"/>
+                <label name="testMethod" value="on_Tablet"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-1(13)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350551386" stop="1635350566075" status="passed">
+            <name>on_Desktop</name>
+            <description>Como visitante no registrado cuando accedo a una promoción finalizada entonces aparecen las bases legales</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_FinishedPromotion.Then_PromotionLegalBasesTest"/>
+                <label name="testMethod" value="on_Desktop"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-4(16)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350556792" stop="1635350573892" status="passed">
+            <name>on_Smartphone</name>
+            <description>Como visitante no registrado cuando accedo a una promoción finalizada entonces aparecen las bases legales</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_FinishedPromotion.Then_PromotionLegalBasesTest"/>
+                <label name="testMethod" value="on_Smartphone"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-5(17)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350557194" stop="1635350571975" status="passed">
+            <name>on_Tablet</name>
+            <description>Como visitante no registrado cuando accedo a una promoción finalizada entonces aparecen las bases legales</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_FinishedPromotion.Then_PromotionLegalBasesTest"/>
+                <label name="testMethod" value="on_Tablet"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-1(13)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350566160" stop="1635350599811" status="passed">
+            <name>on_Desktop</name>
+            <description>Como visitante no registrado cuando accedo a una promoción no iniciada entonces aparece la vigencia de la promoción</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_DateEffectiveAppearsTest"/>
+                <label name="testMethod" value="on_Desktop"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-4(16)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350570265" stop="1635350598858" status="passed">
+            <name>on_Smartphone</name>
+            <description>Como visitante no registrado cuando accedo a una promoción no iniciada entonces aparece la vigencia de la promoción</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_DateEffectiveAppearsTest"/>
+                <label name="testMethod" value="on_Smartphone"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-3(15)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350572058" stop="1635350598266" status="passed">
+            <name>on_Tablet</name>
+            <description>Como visitante no registrado cuando accedo a una promoción no iniciada entonces aparece la vigencia de la promoción</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_DateEffectiveAppearsTest"/>
+                <label name="testMethod" value="on_Tablet"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-1(13)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350573931" stop="1635350608157" status="passed">
+            <name>on_Desktop</name>
+            <description>Como visitante no registrado cuando accedo a una promocion finalizada entonces aparece un el texto 'Promocion finalizada'</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_PromotionLegalBases"/>
+                <label name="testMethod" value="on_Desktop"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-5(17)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350577066" stop="1635350611681" status="passed">
+            <name>on_Smartphone</name>
+            <description>Como visitante no registrado cuando accedo a una promocion finalizada entonces aparece un el texto 'Promocion finalizada'</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_PromotionLegalBases"/>
+                <label name="testMethod" value="on_Smartphone"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-2(14)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350598464" stop="1635350625891" status="passed">
+            <name>on_Tablet</name>
+            <description>Como visitante no registrado cuando accedo a una promocion finalizada entonces aparece un el texto 'Promocion finalizada'</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_PromotionLegalBases"/>
+                <label name="testMethod" value="on_Tablet"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-1(13)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350598882" stop="1635350634794" status="passed">
+            <name>on_Desktop</name>
+            <description>Como visitante no registrado cuando accedo a una promoción no iniciada entonces aparece la sección 'Cómo participar/Iniciar sesión'</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_ParticipateSectionAppearsTest"/>
+                <label name="testMethod" value="on_Desktop"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-3(15)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350599867" stop="1635350631356" status="passed">
+            <name>on_Smartphone</name>
+            <description>Como visitante no registrado cuando accedo a una promoción no iniciada entonces aparece la sección 'Cómo participar/Iniciar sesión'</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_ParticipateSectionAppearsTest"/>
+                <label name="testMethod" value="on_Smartphone"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-4(16)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350608160" stop="1635350643361" status="passed">
+            <name>on_Tablet</name>
+            <description>Como visitante no registrado cuando accedo a una promoción no iniciada entonces aparece la sección 'Cómo participar/Iniciar sesión'</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_ParticipateSectionAppearsTest"/>
+                <label name="testMethod" value="on_Tablet"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-5(17)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350611690" stop="1635350644877" status="passed">
+            <name>on_Desktop</name>
+            <description>Como visitante no registrado cuando accedo a una promoción no iniciada entonces aparece la imagen de cabecera</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_HeaderImageAppearsTest"/>
+                <label name="testMethod" value="on_Desktop"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-2(14)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350626061" stop="1635350652014" status="passed">
+            <name>on_Smartphone</name>
+            <description>Como visitante no registrado cuando accedo a una promoción no iniciada entonces aparece la imagen de cabecera</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_HeaderImageAppearsTest"/>
+                <label name="testMethod" value="on_Smartphone"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-1(13)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350631370" stop="1635350659783" status="passed">
+            <name>on_Tablet</name>
+            <description>Como visitante no registrado cuando accedo a una promoción no iniciada entonces aparece la imagen de cabecera</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_HeaderImageAppearsTest"/>
+                <label name="testMethod" value="on_Tablet"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-4(16)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350634862" stop="1635350671159" status="passed">
+            <name>on_Desktop</name>
+            <description>Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece la miga de pan.</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_BreadcrumbAppearsTest"/>
+                <label name="testMethod" value="on_Desktop"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-3(15)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350643370" stop="1635350673767" status="passed">
+            <name>on_Smartphone</name>
+            <description>Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece la miga de pan.</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_BreadcrumbAppearsTest"/>
+                <label name="testMethod" value="on_Smartphone"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-5(17)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350645004" stop="1635350670480" status="passed">
+            <name>on_Tablet</name>
+            <description>Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece la miga de pan.</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_BreadcrumbAppearsTest"/>
+                <label name="testMethod" value="on_Tablet"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-2(14)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350652028" stop="1635350677750" status="passed">
+            <name>on_Desktop</name>
+            <description>Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece la aceptación de cookies</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_CookiesAcceptanceAppearsTest"/>
+                <label name="testMethod" value="on_Desktop"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-1(13)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350659804" stop="1635350680361" status="passed">
+            <name>on_Smartphone</name>
+            <description>Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece la aceptación de cookies</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_CookiesAcceptanceAppearsTest"/>
+                <label name="testMethod" value="on_Smartphone"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-4(16)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350670559" stop="1635350692674" status="passed">
+            <name>on_Tablet</name>
+            <description>Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece la aceptación de cookies</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_CookiesAcceptanceAppearsTest"/>
+                <label name="testMethod" value="on_Tablet"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-2(14)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350671184" stop="1635350706459" status="passed">
+            <name>on_Desktop</name>
+            <description>Como visitante no registrado cuando accedo a una promoción no iniciada y selecciono una provincia con 6 restaurantes no aparece el botón (flecha) 'Ver más'</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_ButtonVerMasNotAppearsTest"/>
+                <label name="testMethod" value="on_Desktop"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-3(15)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350673856" stop="1635350736588" status="passed">
+            <name>on_Smartphone</name>
+            <description>Como visitante no registrado cuando accedo a una promoción no iniciada y selecciono una provincia con 6 restaurantes no aparece el botón (flecha) 'Ver más'</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_ButtonVerMasNotAppearsTest"/>
+                <label name="testMethod" value="on_Smartphone"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-5(17)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350677843" stop="1635350740289" status="passed">
+            <name>on_Tablet</name>
+            <description>Como visitante no registrado cuando accedo a una promoción no iniciada y selecciono una provincia con 6 restaurantes no aparece el botón (flecha) 'Ver más'</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_ButtonVerMasNotAppearsTest"/>
+                <label name="testMethod" value="on_Tablet"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-1(13)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350680365" stop="1635350708113" status="passed">
+            <name>on_Desktop</name>
+            <description>Como visitante no registrado cuando accedo a una promocion no iniciada entonces aparece las instrucciones de la promocion</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_PromotionInstructionsTest"/>
+                <label name="testMethod" value="on_Desktop"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-4(16)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350692788" stop="1635350716973" status="passed">
+            <name>on_Smartphone</name>
+            <description>Como visitante no registrado cuando accedo a una promocion no iniciada entonces aparece las instrucciones de la promocion</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_PromotionInstructionsTest"/>
+                <label name="testMethod" value="on_Smartphone"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-2(14)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350706464" stop="1635350729246" status="passed">
+            <name>on_Tablet</name>
+            <description>Como visitante no registrado cuando accedo a una promocion no iniciada entonces aparece las instrucciones de la promocion</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_PromotionInstructionsTest"/>
+                <label name="testMethod" value="on_Tablet"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-3(15)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350708157" stop="1635350730958" status="passed">
+            <name>on_Desktop</name>
+            <description>Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece la restricción de edad</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_AgeRestrictionAppearsTest"/>
+                <label name="testMethod" value="on_Desktop"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-4(16)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350716979" stop="1635350735417" status="passed">
+            <name>on_Smartphone</name>
+            <description>Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece la restricción de edad</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_AgeRestrictionAppearsTest"/>
+                <label name="testMethod" value="on_Smartphone"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-2(14)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350729313" stop="1635350750856" status="passed">
+            <name>on_Tablet</name>
+            <description>Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece la restricción de edad</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_AgeRestrictionAppearsTest"/>
+                <label name="testMethod" value="on_Tablet"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-3(15)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350730994" stop="1635350751959" status="passed">
+            <name>on_Desktop</name>
+            <description>Como visitante no registrado cuando accedo a una promoción no iniciada entonces aparece un desplegable de provincias</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_ProvincesDropdownAppearsTest"/>
+                <label name="testMethod" value="on_Desktop"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-4(16)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350735460" stop="1635350772170" status="passed">
+            <name>on_Smartphone</name>
+            <description>Como visitante no registrado cuando accedo a una promoción no iniciada entonces aparece un desplegable de provincias</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_ProvincesDropdownAppearsTest"/>
+                <label name="testMethod" value="on_Smartphone"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-2(14)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350736762" stop="1635350763087" status="passed">
+            <name>on_Tablet</name>
+            <description>Como visitante no registrado cuando accedo a una promoción no iniciada entonces aparece un desplegable de provincias</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_ProvincesDropdownAppearsTest"/>
+                <label name="testMethod" value="on_Tablet"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-5(17)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350740476" stop="1635350766763" status="passed">
+            <name>on_Desktop</name>
+            <description>Como visitante no registrado cuando accedo a una promoción no iniciada entonces aparece el pie de pagina</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_FooterAppearsTest"/>
+                <label name="testMethod" value="on_Desktop"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-1(13)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350750859" stop="1635350776556" status="passed">
+            <name>on_Smartphone</name>
+            <description>Como visitante no registrado cuando accedo a una promoción no iniciada entonces aparece el pie de pagina</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_FooterAppearsTest"/>
+                <label name="testMethod" value="on_Smartphone"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-3(15)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350751994" stop="1635350789160" status="passed">
+            <name>on_Tablet</name>
+            <description>Como visitante no registrado cuando accedo a una promoción no iniciada entonces aparece el pie de pagina</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_FooterAppearsTest"/>
+                <label name="testMethod" value="on_Tablet"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-4(16)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350763090" stop="1635350793297" status="passed">
+            <name>on_Desktop</name>
+            <description>Como visitante no registrado cuando accedo a una promoción no iniciada entonces aparece el texto 'Selecciona el premio'</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_AwardSelectionAppearsTest"/>
+                <label name="testMethod" value="on_Desktop"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-5(17)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350766774" stop="1635350802793" status="passed">
+            <name>on_Smartphone</name>
+            <description>Como visitante no registrado cuando accedo a una promoción no iniciada entonces aparece el texto 'Selecciona el premio'</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_AwardSelectionAppearsTest"/>
+                <label name="testMethod" value="on_Smartphone"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-1(13)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350772185" stop="1635350797465" status="passed">
+            <name>on_Tablet</name>
+            <description>Como visitante no registrado cuando accedo a una promoción no iniciada entonces aparece el texto 'Selecciona el premio'</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_AwardSelectionAppearsTest"/>
+                <label name="testMethod" value="on_Tablet"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-2(14)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350776560" stop="1635350808457" status="passed">
+            <name>on_Desktop</name>
+            <description>Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece el titulo de la promocion.</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_PromotionTitleAppearsTest"/>
+                <label name="testMethod" value="on_Desktop"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-3(15)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350789164" stop="1635350813979" status="passed">
+            <name>on_Smartphone</name>
+            <description>Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece el titulo de la promocion.</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_PromotionTitleAppearsTest"/>
+                <label name="testMethod" value="on_Smartphone"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-4(16)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350793304" stop="1635350813795" status="passed">
+            <name>on_Tablet</name>
+            <description>Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece el titulo de la promocion.</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_PromotionTitleAppearsTest"/>
+                <label name="testMethod" value="on_Tablet"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-5(17)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350797470" stop="1635350803864" status="passed">
+            <name>disposeWebDriver_Ok</name>
+            <description></description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="Core.Application.WebDriverApplicationServiceTests"/>
+                <label name="testMethod" value="disposeWebDriver_Ok"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-2(14)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350802863" stop="1635350803860" status="passed">
+            <name>getWebDriver_Ok</name>
+            <description></description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="Core.Application.WebDriverApplicationServiceTests"/>
+                <label name="testMethod" value="getWebDriver_Ok"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-1(13)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350803873" stop="1635350803877" status="passed">
+            <name>click_Ok</name>
+            <description></description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="Core.Application.WebElementApplicationServiceTests"/>
+                <label name="testMethod" value="click_Ok"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-1(13)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350803874" stop="1635350803876" status="passed">
+            <name>disposeWebDriverByWebElement_Ok</name>
+            <description></description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="Core.Application.WebElementApplicationServiceTests"/>
+                <label name="testMethod" value="disposeWebDriverByWebElement_Ok"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-2(14)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350803883" stop="1635350803887" status="passed">
+            <name>findElementByXpath_Ok</name>
+            <description></description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="Core.Application.WebElementApplicationServiceTests"/>
+                <label name="testMethod" value="findElementByXpath_Ok"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-2(14)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350803886" stop="1635350803961" status="passed">
+            <name>getWebDriverByWebElement_Ok</name>
+            <description></description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="Core.Application.WebElementApplicationServiceTests"/>
+                <label name="testMethod" value="getWebDriverByWebElement_Ok"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-1(13)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350803956" stop="1635350803960" status="passed">
+            <name>isDisplayed_Ok</name>
+            <description></description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="Core.Application.WebElementApplicationServiceTests"/>
+                <label name="testMethod" value="isDisplayed_Ok"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-2(14)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350803986" stop="1635350804182" status="passed">
+            <name>getDesktopWebDriverConfiguration_Ok</name>
+            <description></description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="Core.Application.WebDriverConfigurationApplicationServiceTests"/>
+                <label name="testMethod" value="getDesktopWebDriverConfiguration_Ok"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-1(13)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350803988" stop="1635350804057" status="passed">
+            <name>getSmartphoneWebDriverConfiguration_Ok</name>
+            <description></description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="Core.Application.WebDriverConfigurationApplicationServiceTests"/>
+                <label name="testMethod" value="getSmartphoneWebDriverConfiguration_Ok"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-2(14)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350804067" stop="1635350804072" status="passed">
+            <name>getTabletWebDriverConfiguration_Ok</name>
+            <description></description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="Core.Application.WebDriverConfigurationApplicationServiceTests"/>
+                <label name="testMethod" value="getTabletWebDriverConfiguration_Ok"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-2(14)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350804084" stop="1635350805056" status="passed">
+            <name>getConfiguration_Ok</name>
+            <description></description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="Core.Application.ConfigurationApplicationServiceTests"/>
+                <label name="testMethod" value="getConfiguration_Ok"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-2(14)"/>
+            </labels>
+        </test-case>
+        <test-case start="1635350804185" stop="1635350805163" status="passed">
+            <name>getEnvironment_Ok</name>
+            <description></description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Damm"/>
+                <label name="testGroup" value="AutomationTests"/>
+                <label name="testClass" value="Core.Application.EnvironmentApplicationServiceTests"/>
+                <label name="testMethod" value="getEnvironment_Ok"/>
+                <label name="host" value="testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt"/>
+                <label name="thread" value="4324@testdeployment-ckv0u3ol-6dbff4f8cf-vkkbt.TestNG-test=AutomationTests-1(13)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
