@@ -2,1039 +2,1013 @@
   "uid" : "b1a8273437954620fa374b796ffaacdd",
   "children" : [ {
     "name" : "Como nuevo visitante cuando accedo a una promoción finalizada entonces aparece la aceptación de cookies",
-    "uid" : "73fa9fbaa300851b",
+    "uid" : "4c6a5585ed2a6079",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337784062,
-      "stop" : 1635337813731,
-      "duration" : 29669
+      "start" : 1635338616188,
+      "stop" : 1635338650358,
+      "duration" : 34170
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Como nuevo visitante cuando se muestra la restricción de edad y acepto entonces accedo a una promoción finalizada",
-    "uid" : "64964c6ebe872c93",
+    "uid" : "ec6d238039955c48",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337784064,
-      "stop" : 1635337815249,
-      "duration" : 31185
+      "start" : 1635338616188,
+      "stop" : 1635338646470,
+      "duration" : 30282
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Como nuevo visitante cuando accedo a una promoción finalizada entonces aparece la aceptación de cookies",
-    "uid" : "146affbd7b3a4d1",
+    "uid" : "b528dd714baf8e52",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337784067,
-      "stop" : 1635337813232,
-      "duration" : 29165
+      "start" : 1635338616188,
+      "stop" : 1635338651957,
+      "duration" : 35769
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Como nuevo visitante cuando se muestra la restricción de edad y acepto entonces accedo a una promoción finalizada",
+    "uid" : "d73bcfd1ef928ebb",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1635338616189,
+      "stop" : 1635338649237,
+      "duration" : 33048
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Como nuevo visitante cuando accedo a una promoción finalizada entonces aparece la aceptación de cookies",
-    "uid" : "be978ce155f28cc6",
+    "uid" : "673beb8d4b5b7d75",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337784068,
-      "stop" : 1635337817926,
-      "duration" : 33858
+      "start" : 1635338616190,
+      "stop" : 1635338640072,
+      "duration" : 23882
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "on_Desktop",
+    "uid" : "cc2f94eb49928da5",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1635338616288,
+      "stop" : 1635338649238,
+      "duration" : 32950
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "on_Tablet",
+    "uid" : "ff9cf836e5281b2b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1635338616288,
+      "stop" : 1635338651958,
+      "duration" : 35670
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "on_Smartphone",
+    "uid" : "adcccd82debec106",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1635338616288,
+      "stop" : 1635338650359,
+      "duration" : 34071
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "on_Desktop",
+    "uid" : "38bcd69e121bd222",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1635338616289,
+      "stop" : 1635338641457,
+      "duration" : 25168
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "on_Smartphone",
+    "uid" : "768a093c42d64e1e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1635338616290,
+      "stop" : 1635338646487,
+      "duration" : 30197
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Como nuevo visitante cuando se muestra la restricción de edad y acepto entonces accedo a una promoción finalizada",
-    "uid" : "f1995cef201d1235",
+    "uid" : "a33d1ca3b0e1cc49",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337784068,
-      "stop" : 1635337819023,
-      "duration" : 34955
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "on_Desktop",
-    "uid" : "9ab2eaf60c179360",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1635337784154,
-      "stop" : 1635337817952,
-      "duration" : 33798
+      "start" : 1635338641486,
+      "stop" : 1635338662057,
+      "duration" : 20571
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "on_Tablet",
-    "uid" : "90da52316fd69400",
+    "uid" : "88908641a12766db",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337784155,
-      "stop" : 1635337814474,
-      "duration" : 30319
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "on_Smartphone",
-    "uid" : "3cdf5749d0ca67e9",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1635337784158,
-      "stop" : 1635337815250,
-      "duration" : 31092
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "on_Smartphone",
-    "uid" : "30a893def2e29c90",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1635337784158,
-      "stop" : 1635337814477,
-      "duration" : 30319
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "on_Desktop",
-    "uid" : "fdcefee63b9db363",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1635337784162,
-      "stop" : 1635337819025,
-      "duration" : 34863
+      "start" : 1635338641487,
+      "stop" : 1635338662057,
+      "duration" : 20570
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Como visitante no registrado cuando accedo a una promoción no iniciada entonces aparece la vigencia de la promoción",
-    "uid" : "88f08ea4dee48075",
+    "uid" : "529838020c977a3b",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337814558,
-      "stop" : 1635337842324,
-      "duration" : 27766
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "Como nuevo visitante cuando se muestra la restricción de edad y acepto entonces accedo a una promoción finalizada",
-    "uid" : "7f44ef471d26f7f8",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1635337814562,
-      "stop" : 1635337833329,
-      "duration" : 18767
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "on_Tablet",
-    "uid" : "54fa5c389d269cd6",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1635337814563,
-      "stop" : 1635337833330,
-      "duration" : 18767
+      "start" : 1635338646568,
+      "stop" : 1635338677663,
+      "duration" : 31095
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "on_Desktop",
-    "uid" : "1027d17a3095d329",
+    "uid" : "f8548a49dc0b7445",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337814564,
-      "stop" : 1635337842324,
-      "duration" : 27760
+      "start" : 1635338646571,
+      "stop" : 1635338677664,
+      "duration" : 31093
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Como visitante no registrado cuando accedo a una promoción no iniciada entonces aparece la vigencia de la promoción",
-    "uid" : "3287cead97452d59",
+    "uid" : "6c340d55011830f5",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337815253,
-      "stop" : 1635337846123,
-      "duration" : 30870
+      "start" : 1635338649266,
+      "stop" : 1635338678579,
+      "duration" : 29313
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "on_Smartphone",
-    "uid" : "547fe267f9c6558a",
+    "uid" : "fa06b73ddb2390e3",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337815254,
-      "stop" : 1635337846124,
-      "duration" : 30870
+      "start" : 1635338649267,
+      "stop" : 1635338678580,
+      "duration" : 29313
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Como visitante no registrado cuando accedo a una promoción no iniciada entonces aparece la vigencia de la promoción",
-    "uid" : "b0de0abc810675d5",
+    "uid" : "cccf06a4ebbd745c",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337818055,
-      "stop" : 1635337849442,
-      "duration" : 31387
+      "start" : 1635338650363,
+      "stop" : 1635338679556,
+      "duration" : 29193
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "on_Tablet",
-    "uid" : "93472fb622396758",
+    "uid" : "70777a4bb3405a03",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337818056,
-      "stop" : 1635337849442,
-      "duration" : 31386
+      "start" : 1635338650364,
+      "stop" : 1635338679557,
+      "duration" : 29193
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Como visitante no registrado cuando accedo a una promocion finalizada entonces aparece un el texto 'Promocion finalizada'",
-    "uid" : "1bdfdd8bd231064e",
+    "uid" : "6358d397a0128003",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337819030,
-      "stop" : 1635337850325,
-      "duration" : 31295
+      "start" : 1635338651964,
+      "stop" : 1635338684755,
+      "duration" : 32791
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "on_Desktop",
-    "uid" : "62d063cc63bfedb6",
+    "uid" : "880e7685f1ff829a",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337819031,
-      "stop" : 1635337850325,
-      "duration" : 31294
+      "start" : 1635338651991,
+      "stop" : 1635338684756,
+      "duration" : 32765
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Como visitante no registrado cuando accedo a una promocion finalizada entonces aparece un el texto 'Promocion finalizada'",
-    "uid" : "c9438382b8d3db70",
+    "uid" : "c8ccb2989420060c",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337833437,
-      "stop" : 1635337866424,
-      "duration" : 32987
+      "start" : 1635338662072,
+      "stop" : 1635338694164,
+      "duration" : 32092
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "on_Smartphone",
-    "uid" : "b825e38ca69e10e1",
+    "uid" : "53fcb9ea48c837e",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337833439,
-      "stop" : 1635337866435,
-      "duration" : 32996
+      "start" : 1635338662073,
+      "stop" : 1635338694165,
+      "duration" : 32092
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Como visitante no registrado cuando accedo a una promocion finalizada entonces aparece un el texto 'Promocion finalizada'",
-    "uid" : "aeb40a552b1d2b9d",
+    "uid" : "4961d86bd370f771",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337842352,
-      "stop" : 1635337876936,
-      "duration" : 34584
+      "start" : 1635338677715,
+      "stop" : 1635338712373,
+      "duration" : 34658
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "on_Tablet",
-    "uid" : "e9c434511cc05e0c",
+    "uid" : "bbb427a686406866",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337842353,
-      "stop" : 1635337876940,
-      "duration" : 34587
+      "start" : 1635338677716,
+      "stop" : 1635338712374,
+      "duration" : 34658
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Como visitante no registrado cuando accedo a una promoción no iniciada entonces aparece la sección 'Cómo participar/Iniciar sesión'",
-    "uid" : "82c58d7bae681493",
+    "uid" : "12efa445ba36eebb",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337846146,
-      "stop" : 1635337875730,
-      "duration" : 29584
+      "start" : 1635338678584,
+      "stop" : 1635338707455,
+      "duration" : 28871
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "on_Desktop",
-    "uid" : "13fe6c65210db8a4",
+    "uid" : "7cbdfbf015930273",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337846147,
-      "stop" : 1635337875731,
-      "duration" : 29584
+      "start" : 1635338678669,
+      "stop" : 1635338707456,
+      "duration" : 28787
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Como visitante no registrado cuando accedo a una promoción no iniciada entonces aparece la sección 'Cómo participar/Iniciar sesión'",
-    "uid" : "c13587e4e98308eb",
+    "uid" : "8802e73d948f9ec3",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337849542,
-      "stop" : 1635337882332,
-      "duration" : 32790
+      "start" : 1635338679584,
+      "stop" : 1635338711456,
+      "duration" : 31872
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "on_Smartphone",
-    "uid" : "47efdfa66c24bb17",
+    "uid" : "b30f3d2aa769aa05",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337849543,
-      "stop" : 1635337882333,
-      "duration" : 32790
+      "start" : 1635338679666,
+      "stop" : 1635338711457,
+      "duration" : 31791
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Como visitante no registrado cuando accedo a una promoción no iniciada entonces aparece la sección 'Cómo participar/Iniciar sesión'",
-    "uid" : "33c3c6315426d767",
+    "uid" : "99311553c507f7db",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337850335,
-      "stop" : 1635337884423,
-      "duration" : 34088
+      "start" : 1635338684760,
+      "stop" : 1635338714055,
+      "duration" : 29295
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "on_Tablet",
-    "uid" : "8d0fd926a5b7eb76",
+    "uid" : "4a710371d6d15f50",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337850336,
-      "stop" : 1635337884424,
-      "duration" : 34088
+      "start" : 1635338684760,
+      "stop" : 1635338714056,
+      "duration" : 29296
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Como visitante no registrado cuando accedo a una promoción no iniciada entonces aparece la imagen de cabecera",
-    "uid" : "e185c38dc4710e6",
+    "uid" : "22046fc62c903ea3",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337866449,
-      "stop" : 1635337898441,
-      "duration" : 31992
+      "start" : 1635338694187,
+      "stop" : 1635338724258,
+      "duration" : 30071
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "on_Desktop",
-    "uid" : "39d1da39f21cc87f",
+    "uid" : "641b100d5ab59071",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337866450,
-      "stop" : 1635337898625,
-      "duration" : 32175
+      "start" : 1635338694190,
+      "stop" : 1635338724366,
+      "duration" : 30176
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Como visitante no registrado cuando accedo a una promoción no iniciada entonces aparece la imagen de cabecera",
-    "uid" : "9e68d3f48fd67fe",
+    "uid" : "a03843f1dd63fc59",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337875734,
-      "stop" : 1635337903425,
-      "duration" : 27691
+      "start" : 1635338707467,
+      "stop" : 1635338740555,
+      "duration" : 33088
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "on_Smartphone",
-    "uid" : "68e3875d37dd072f",
+    "uid" : "2a1d3afaa0a61fe",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337875735,
-      "stop" : 1635337903426,
-      "duration" : 27691
+      "start" : 1635338707468,
+      "stop" : 1635338740556,
+      "duration" : 33088
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Como visitante no registrado cuando accedo a una promoción no iniciada entonces aparece la imagen de cabecera",
-    "uid" : "45ba981985a926d0",
+    "uid" : "31fa3bf955a5b6f",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337877130,
-      "stop" : 1635337907173,
-      "duration" : 30043
+      "start" : 1635338711491,
+      "stop" : 1635338740657,
+      "duration" : 29166
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "on_Tablet",
-    "uid" : "fd19ba6815a31da9",
+    "uid" : "9a271304fadb8c0c",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337877139,
-      "stop" : 1635337907174,
-      "duration" : 30035
+      "start" : 1635338711492,
+      "stop" : 1635338740658,
+      "duration" : 29166
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece la miga de pan.",
-    "uid" : "da2860fde6ac60c4",
+    "uid" : "3daa8d3d60f2fc26",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337882348,
-      "stop" : 1635337912436,
-      "duration" : 30088
+      "start" : 1635338712384,
+      "stop" : 1635338743206,
+      "duration" : 30822
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "on_Desktop",
-    "uid" : "54df8c54a16941cc",
+    "uid" : "a43c49156996dbd1",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337882423,
-      "stop" : 1635337912436,
-      "duration" : 30013
+      "start" : 1635338712386,
+      "stop" : 1635338743206,
+      "duration" : 30820
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece la miga de pan.",
-    "uid" : "2f8027fbe636615d",
+    "uid" : "517ef9af076218c2",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337884428,
-      "stop" : 1635337913877,
-      "duration" : 29449
+      "start" : 1635338714070,
+      "stop" : 1635338739223,
+      "duration" : 25153
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "on_Smartphone",
-    "uid" : "be13cc4502fda0ec",
+    "uid" : "20c16ecc100ddd89",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337884430,
-      "stop" : 1635337913878,
-      "duration" : 29448
+      "start" : 1635338714071,
+      "stop" : 1635338739224,
+      "duration" : 25153
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece la miga de pan.",
-    "uid" : "f2f3d8a95f93fe57",
+    "uid" : "7a6392a938ca1821",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337898630,
-      "stop" : 1635337921346,
-      "duration" : 22716
+      "start" : 1635338724378,
+      "stop" : 1635338750057,
+      "duration" : 25679
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "on_Tablet",
-    "uid" : "47609a6e75aefeac",
+    "uid" : "1115ff4aa08e2402",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337898631,
-      "stop" : 1635337921347,
-      "duration" : 22716
+      "start" : 1635338724383,
+      "stop" : 1635338750057,
+      "duration" : 25674
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece la aceptación de cookies",
-    "uid" : "cbcebb7b94aaf3da",
+    "uid" : "64747984654d97bc",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337903450,
-      "stop" : 1635337923523,
-      "duration" : 20073
+      "start" : 1635338739228,
+      "stop" : 1635338760156,
+      "duration" : 20928
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "on_Desktop",
-    "uid" : "a9d98e25eb1797c0",
+    "uid" : "3021ad190b0a78d8",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337903451,
-      "stop" : 1635337923524,
-      "duration" : 20073
+      "start" : 1635338739228,
+      "stop" : 1635338760157,
+      "duration" : 20929
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece la aceptación de cookies",
-    "uid" : "275f3a46a00db437",
+    "uid" : "7a53a6cff8d8ded0",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337907226,
-      "stop" : 1635337930780,
-      "duration" : 23554
+      "start" : 1635338740596,
+      "stop" : 1635338759855,
+      "duration" : 19259
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "on_Smartphone",
-    "uid" : "a173f7301d56774f",
+    "uid" : "40e357a3bce648fd",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337907227,
-      "stop" : 1635337930826,
-      "duration" : 23599
+      "start" : 1635338740599,
+      "stop" : 1635338759856,
+      "duration" : 19257
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece la aceptación de cookies",
-    "uid" : "8f3329866544ecbe",
+    "uid" : "34ddc96cdede6609",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337912439,
-      "stop" : 1635337933623,
-      "duration" : 21184
+      "start" : 1635338740673,
+      "stop" : 1635338763673,
+      "duration" : 23000
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "on_Tablet",
-    "uid" : "88fede68541ad648",
+    "uid" : "5040966fda3fbabb",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337912458,
-      "stop" : 1635337933624,
-      "duration" : 21166
+      "start" : 1635338740674,
+      "stop" : 1635338763674,
+      "duration" : 23000
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Como visitante no registrado cuando accedo a una promocion no iniciada entonces aparece las instrucciones de la promocion",
-    "uid" : "e9020684172d2805",
+    "uid" : "6ecb1f4540cd1dd8",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337913926,
-      "stop" : 1635337939849,
-      "duration" : 25923
+      "start" : 1635338743262,
+      "stop" : 1635338773213,
+      "duration" : 29951
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "on_Desktop",
-    "uid" : "8aa15f3954548906",
+    "uid" : "c5e684d6f59ba539",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337913927,
-      "stop" : 1635337939850,
-      "duration" : 25923
+      "start" : 1635338743263,
+      "stop" : 1635338773214,
+      "duration" : 29951
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Como visitante no registrado cuando accedo a una promocion no iniciada entonces aparece las instrucciones de la promocion",
-    "uid" : "e8289ac45deb8ce0",
+    "uid" : "94efe9b732aa5c04",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337921384,
-      "stop" : 1635337955223,
-      "duration" : 33839
+      "start" : 1635338750161,
+      "stop" : 1635338774576,
+      "duration" : 24415
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "on_Smartphone",
-    "uid" : "c603dbf24167402f",
+    "uid" : "1fe8f48490eb1870",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337921387,
-      "stop" : 1635337955224,
-      "duration" : 33837
+      "start" : 1635338750162,
+      "stop" : 1635338774576,
+      "duration" : 24414
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Como visitante no registrado cuando accedo a una promocion no iniciada entonces aparece las instrucciones de la promocion",
-    "uid" : "94d521ef146c61e2",
+    "uid" : "de397ce2120fd962",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337923576,
-      "stop" : 1635337953223,
-      "duration" : 29647
+      "start" : 1635338759867,
+      "stop" : 1635338786356,
+      "duration" : 26489
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "on_Tablet",
-    "uid" : "3674b2ab2afd2b55",
+    "uid" : "b984a518221d5ab4",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337923577,
-      "stop" : 1635337953249,
-      "duration" : 29672
+      "start" : 1635338759868,
+      "stop" : 1635338786395,
+      "duration" : 26527
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece la restricción de edad",
-    "uid" : "239a63e76d55b7f6",
+    "uid" : "e314cc762d5911bf",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337930868,
-      "stop" : 1635337957223,
-      "duration" : 26355
+      "start" : 1635338760161,
+      "stop" : 1635338783208,
+      "duration" : 23047
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "on_Desktop",
-    "uid" : "dedaf38a40dc26cf",
+    "uid" : "3c6a2353b207139e",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337930876,
-      "stop" : 1635337957224,
-      "duration" : 26348
+      "start" : 1635338760195,
+      "stop" : 1635338783209,
+      "duration" : 23014
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece la restricción de edad",
-    "uid" : "555a97c4119eb90e",
+    "uid" : "f2b66a6a8fc1572e",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337933632,
-      "stop" : 1635337963423,
-      "duration" : 29791
+      "start" : 1635338763683,
+      "stop" : 1635338790956,
+      "duration" : 27273
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "on_Smartphone",
-    "uid" : "15c6c548ae4dc7eb",
+    "uid" : "5f294ec5105c59a2",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337933640,
-      "stop" : 1635337963424,
-      "duration" : 29784
+      "start" : 1635338763684,
+      "stop" : 1635338790956,
+      "duration" : 27272
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece la restricción de edad",
-    "uid" : "9017607dda9c1444",
+    "uid" : "4b0562995bce6bf",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337939934,
-      "stop" : 1635337967823,
-      "duration" : 27889
+      "start" : 1635338773217,
+      "stop" : 1635338797060,
+      "duration" : 23843
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "on_Tablet",
-    "uid" : "2789aa8d2305fd84",
+    "uid" : "b001841919c27dee",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337939935,
-      "stop" : 1635337967824,
-      "duration" : 27889
+      "start" : 1635338773261,
+      "stop" : 1635338797065,
+      "duration" : 23804
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece el titulo de la promocion.",
-    "uid" : "f425582655fd851c",
+    "uid" : "9e023caafcb8288c",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337953253,
-      "stop" : 1635337977938,
-      "duration" : 24685
+      "start" : 1635338774671,
+      "stop" : 1635338800655,
+      "duration" : 25984
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "on_Desktop",
-    "uid" : "9fa0c0b4c2c6b",
+    "uid" : "c29ae8f46e2f5215",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337953253,
-      "stop" : 1635337977939,
-      "duration" : 24686
+      "start" : 1635338774673,
+      "stop" : 1635338800656,
+      "duration" : 25983
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece el titulo de la promocion.",
-    "uid" : "cc2331cd6ef33739",
+    "uid" : "21fee5657be91cd2",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337955235,
-      "stop" : 1635337979904,
-      "duration" : 24669
+      "start" : 1635338783287,
+      "stop" : 1635338805505,
+      "duration" : 22218
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "on_Smartphone",
-    "uid" : "ca3b959ae65a6579",
+    "uid" : "3fbad6a3e835332e",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337955243,
-      "stop" : 1635337979904,
-      "duration" : 24661
+      "start" : 1635338783288,
+      "stop" : 1635338805506,
+      "duration" : 22218
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece el titulo de la promocion.",
-    "uid" : "c4b587f925b88dea",
+    "uid" : "8babf28333618f68",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337957233,
-      "stop" : 1635337979745,
-      "duration" : 22512
+      "start" : 1635338786584,
+      "stop" : 1635338806085,
+      "duration" : 19501
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "on_Tablet",
-    "uid" : "43d2f96e4b22a060",
+    "uid" : "322664c82a1ea48f",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337957239,
-      "stop" : 1635337979747,
-      "duration" : 22508
+      "start" : 1635338786585,
+      "stop" : 1635338806086,
+      "duration" : 19501
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "disposeWebDriver_Ok",
-    "uid" : "d8d719570dda2bde",
+    "uid" : "c5b135b4e98da525",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337963432,
-      "stop" : 1635337966654,
-      "duration" : 3222
+      "start" : 1635338790969,
+      "stop" : 1635338798314,
+      "duration" : 7345
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "disposeWebDriver_Ok",
-    "uid" : "7a3d81a8576190f8",
+    "uid" : "62b06dafba0ab346",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337963434,
-      "stop" : 1635337966655,
-      "duration" : 3221
+      "start" : 1635338790970,
+      "stop" : 1635338798317,
+      "duration" : 7347
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "getWebDriver_Ok",
-    "uid" : "bb3e111c18d7fd10",
+    "uid" : "104fdb97fc17c5b8",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337966745,
-      "stop" : 1635337966747,
-      "duration" : 2
+      "start" : 1635338797084,
+      "stop" : 1635338798319,
+      "duration" : 1235
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "getWebDriver_Ok",
-    "uid" : "77d340202923268c",
+    "uid" : "3d99a545b738f70",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337966746,
-      "stop" : 1635337966756,
-      "duration" : 10
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "click_Ok",
-    "uid" : "1f9241750867cff9",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1635337966758,
-      "stop" : 1635337966847,
-      "duration" : 89
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "click_Ok",
-    "uid" : "af8b3522963b05eb",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1635337966758,
-      "stop" : 1635337966826,
-      "duration" : 68
+      "start" : 1635338797085,
+      "stop" : 1635338798367,
+      "duration" : 1282
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "disposeWebDriverByWebElement_Ok",
-    "uid" : "490ec5571c7ccc14",
+    "uid" : "9bb158a7931638f9",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337966955,
-      "stop" : 1635337967042,
-      "duration" : 87
+      "start" : 1635338798483,
+      "stop" : 1635338798664,
+      "duration" : 181
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "disposeWebDriverByWebElement_Ok",
-    "uid" : "e3e0eda829af8b63",
+    "uid" : "c9e7d13c9079cc76",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337967041,
-      "stop" : 1635337967048,
-      "duration" : 7
+      "start" : 1635338798484,
+      "stop" : 1635338798667,
+      "duration" : 183
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
-    "name" : "findElementByXpath_Ok",
-    "uid" : "9a75c66d0e4ed85d",
+    "name" : "click_Ok",
+    "uid" : "82e2734b7cc8aaf4",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337967130,
-      "stop" : 1635337967132,
+      "start" : 1635338798486,
+      "stop" : 1635338798488,
       "duration" : 2
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
-    "name" : "findElementByXpath_Ok",
-    "uid" : "e1e262a40bca9808",
+    "name" : "click_Ok",
+    "uid" : "f7b7b2030df47092",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337967131,
-      "stop" : 1635337967137,
-      "duration" : 6
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "getWebDriverByWebElement_Ok",
-    "uid" : "6e4e566435cff461",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1635337967151,
-      "stop" : 1635337967153,
-      "duration" : 2
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "getWebDriverByWebElement_Ok",
-    "uid" : "a92efdb6e3178e7c",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1635337967152,
-      "stop" : 1635337967153,
+      "start" : 1635338798487,
+      "stop" : 1635338798488,
       "duration" : 1
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
-    "name" : "isDisplayed_Ok",
-    "uid" : "bca164ab669b444c",
+    "name" : "findElementByXpath_Ok",
+    "uid" : "95fcd1d47fe82d90",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337967333,
-      "stop" : 1635337967344,
-      "duration" : 11
+      "start" : 1635338798675,
+      "stop" : 1635338798683,
+      "duration" : 8
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
-    "name" : "isDisplayed_Ok",
-    "uid" : "4f57c580c3c18b20",
+    "name" : "findElementByXpath_Ok",
+    "uid" : "5bda386d100aaeb",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337967343,
-      "stop" : 1635337967345,
+      "start" : 1635338798679,
+      "stop" : 1635338798762,
+      "duration" : 83
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "getWebDriverByWebElement_Ok",
+    "uid" : "64429e2ded426f93",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1635338798682,
+      "stop" : 1635338798690,
+      "duration" : 8
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "getWebDriverByWebElement_Ok",
+    "uid" : "a505356dd0be641c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1635338798689,
+      "stop" : 1635338798691,
       "duration" : 2
     },
     "flaky" : false,
@@ -1042,130 +1016,156 @@
     "parameters" : [ ]
   }, {
     "name" : "getDesktopWebDriverConfiguration_Ok",
-    "uid" : "d0853d9e40601d38",
+    "uid" : "e1e9adc3750c70d4",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337967526,
-      "stop" : 1635337967541,
-      "duration" : 15
+      "start" : 1635338798787,
+      "stop" : 1635338798861,
+      "duration" : 74
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "getDesktopWebDriverConfiguration_Ok",
-    "uid" : "db06b38b51ebd97b",
+    "uid" : "a48f15249562bc83",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337967540,
-      "stop" : 1635337967541,
-      "duration" : 1
+      "start" : 1635338798788,
+      "stop" : 1635338798862,
+      "duration" : 74
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
-    "name" : "getSmartphoneWebDriverConfiguration_Ok",
-    "uid" : "4e755613a067a593",
+    "name" : "isDisplayed_Ok",
+    "uid" : "ad63b4fe2b13bce0",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337967640,
-      "stop" : 1635337967642,
-      "duration" : 2
+      "start" : 1635338798857,
+      "stop" : 1635338798860,
+      "duration" : 3
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
-    "name" : "getSmartphoneWebDriverConfiguration_Ok",
-    "uid" : "f85d3e92415288d5",
+    "name" : "isDisplayed_Ok",
+    "uid" : "5552c5561bc2488d",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337967641,
-      "stop" : 1635337967642,
-      "duration" : 1
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "getTabletWebDriverConfiguration_Ok",
-    "uid" : "dea2392cbe52bf77",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1635337967744,
-      "stop" : 1635337967746,
-      "duration" : 2
+      "start" : 1635338798858,
+      "stop" : 1635338798872,
+      "duration" : 14
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "getTabletWebDriverConfiguration_Ok",
-    "uid" : "fc97dc3c32fadffe",
+    "uid" : "31cf4c5ae0b6034",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337967745,
-      "stop" : 1635337967747,
-      "duration" : 2
+      "start" : 1635338798876,
+      "stop" : 1635338798974,
+      "duration" : 98
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
-    "name" : "getConfiguration_Ok",
-    "uid" : "b033e8a7c1049847",
+    "name" : "getTabletWebDriverConfiguration_Ok",
+    "uid" : "2cf1be9ec9dd07ac",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337967749,
-      "stop" : 1635337968630,
-      "duration" : 881
+      "start" : 1635338798877,
+      "stop" : 1635338798975,
+      "duration" : 98
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
-    "name" : "getConfiguration_Ok",
-    "uid" : "dcbb79c68b36219c",
+    "name" : "getSmartphoneWebDriverConfiguration_Ok",
+    "uid" : "cdc5f08526e85658",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337967752,
-      "stop" : 1635337968631,
-      "duration" : 879
+      "start" : 1635338798958,
+      "stop" : 1635338798963,
+      "duration" : 5
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "getSmartphoneWebDriverConfiguration_Ok",
+    "uid" : "bfbb9e7cc6c1be0f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1635338798962,
+      "stop" : 1635338798963,
+      "duration" : 1
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "getEnvironment_Ok",
-    "uid" : "a75fc86a7e3b0c6e",
+    "uid" : "ecc3dbcb4ddf7656",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337967828,
-      "stop" : 1635337968726,
-      "duration" : 898
+      "start" : 1635338798983,
+      "stop" : 1635338799759,
+      "duration" : 776
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "getEnvironment_Ok",
-    "uid" : "175b2966c256def4",
+    "uid" : "91aafa3d258fd881",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1635337967829,
-      "stop" : 1635337968727,
-      "duration" : 898
+      "start" : 1635338798983,
+      "stop" : 1635338799760,
+      "duration" : 777
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "getConfiguration_Ok",
+    "uid" : "f7f455d8c8369a01",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1635338798986,
+      "stop" : 1635338799786,
+      "duration" : 800
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "getConfiguration_Ok",
+    "uid" : "daaa526bf028602e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1635338798988,
+      "stop" : 1635338799787,
+      "duration" : 799
     },
     "flaky" : false,
     "newFailed" : false,
