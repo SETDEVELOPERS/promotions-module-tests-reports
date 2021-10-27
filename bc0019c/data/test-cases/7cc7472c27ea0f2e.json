@@ -1,0 +1,129 @@
+{
+  "uid" : "7cc7472c27ea0f2e",
+  "name" : "on_Smartphone",
+  "fullName" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_AgeRestrictionAppearsTest.on_Smartphone",
+  "historyId" : "61e16797a85b93ee392fd95445683348",
+  "time" : {
+    "start" : 1635346839310,
+    "stop" : 1635346865358,
+    "duration" : 26048
+  },
+  "description" : "Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece la restricción de edad",
+  "descriptionHtml" : "<p>Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece la restricción de edad</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "testdeployment-ftkqc4ni-6dbff4f8cf-5cxfw"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_AgeRestrictionAppearsTest"
+  }, {
+    "name" : "testGroup",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "on_Smartphone"
+  }, {
+    "name" : "testSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "thread",
+    "value" : "4323@testdeployment-ftkqc4ni-6dbff4f8cf-5cxfw.TestNG-test=AutomationTests-5(17)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_AgeRestrictionAppearsTest"
+  }, {
+    "name" : "package",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_AgeRestrictionAppearsTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9c925ea88bff4b91",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635346209663,
+        "stop" : 1635346255141,
+        "duration" : 45478
+      }
+    }, {
+      "uid" : "968e70612c40a618",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635345216756,
+        "stop" : 1635345246134,
+        "duration" : 29378
+      }
+    }, {
+      "uid" : "819992cb55cc4219",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635344452155,
+        "stop" : 1635344485107,
+        "duration" : 32952
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "6007916863df9ead",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635346209663,
+          "stop" : 1635346255141,
+          "duration" : 45478
+        }
+      }, {
+        "uid" : "f097c779144eddfc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635345216756,
+          "stop" : 1635345246134,
+          "duration" : 29378
+        }
+      }, {
+        "uid" : "ec8c9863416fcdf9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635344452155,
+          "stop" : 1635344485107,
+          "duration" : 32952
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "7cc7472c27ea0f2e.json",
+  "parameterValues" : [ ]
+}
