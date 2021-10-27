@@ -1,0 +1,121 @@
+{
+  "uid" : "8f3329866544ecbe",
+  "name" : "Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece la aceptación de cookies",
+  "fullName" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_CookiesAcceptanceAppearsTest.on_Tablet",
+  "historyId" : "d7e7f381c2b9a505436f35fc707c7394",
+  "time" : {
+    "start" : 1635337912439,
+    "stop" : 1635337933623,
+    "duration" : 21184
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_CookiesAcceptanceAppearsTest"
+  }, {
+    "name" : "testClass",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_CookiesAcceptanceAppearsTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "on_Tablet"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_CookiesAcceptanceAppearsTest"
+  }, {
+    "name" : "host",
+    "value" : "testdeployment-vynabgi7-85fd964955-xsb7h"
+  }, {
+    "name" : "thread",
+    "value" : "4324@testdeployment-vynabgi7-85fd964955-xsb7h.TestNG-test=AutomationTests-1(13)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5fb59089bd4b096f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635337333687,
+        "stop" : 1635337356048,
+        "duration" : 22361
+      }
+    }, {
+      "uid" : "74364136b8c164fb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635336573759,
+        "stop" : 1635336594769,
+        "duration" : 21010
+      }
+    }, {
+      "uid" : "1bb8362417cc4167",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635331931499,
+        "stop" : 1635331954276,
+        "duration" : 22777
+      }
+    }, {
+      "uid" : "7117f33df1e23015",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635327976017,
+        "stop" : 1635327999979,
+        "duration" : 23962
+      }
+    }, {
+      "uid" : "d1c1b3dc61f96442",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635327316429,
+        "stop" : 1635327335923,
+        "duration" : 19494
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "2a03a81d0b0614a1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635337333687,
+          "stop" : 1635337356048,
+          "duration" : 22361
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "8f3329866544ecbe.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,129 @@
+{
+  "uid" : "175b2966c256def4",
+  "name" : "getEnvironment_Ok",
+  "fullName" : "Core.Application.EnvironmentApplicationServiceTests.getEnvironment_Ok",
+  "historyId" : "ed2d47d0528e8cefef0833fa6021f5aa",
+  "time" : {
+    "start" : 1635337967829,
+    "stop" : 1635337968727,
+    "duration" : 898
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "testdeployment-vynabgi7-85fd964955-xsb7h"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "Core.Application.EnvironmentApplicationServiceTests"
+  }, {
+    "name" : "testGroup",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "getEnvironment_Ok"
+  }, {
+    "name" : "testSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "thread",
+    "value" : "4324@testdeployment-vynabgi7-85fd964955-xsb7h.TestNG-test=AutomationTests-4(16)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "Core.Application.EnvironmentApplicationServiceTests"
+  }, {
+    "name" : "package",
+    "value" : "Core.Application.EnvironmentApplicationServiceTests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9559c232bb2e4321",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635337394727,
+        "stop" : 1635337395681,
+        "duration" : 954
+      }
+    }, {
+      "uid" : "dd1790fc11a19a78",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635336628893,
+        "stop" : 1635336629189,
+        "duration" : 296
+      }
+    }, {
+      "uid" : "3447b58e6c77f923",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635331985292,
+        "stop" : 1635331986206,
+        "duration" : 914
+      }
+    }, {
+      "uid" : "3c714c23081c3556",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635328031290,
+        "stop" : 1635328031479,
+        "duration" : 189
+      }
+    }, {
+      "uid" : "2aa1936a2c6c5dfd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635327368134,
+        "stop" : 1635327369050,
+        "duration" : 916
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "c55fe37404fc09b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635337394727,
+          "stop" : 1635337395681,
+          "duration" : 954
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "175b2966c256def4.json",
+  "parameterValues" : [ ]
+}

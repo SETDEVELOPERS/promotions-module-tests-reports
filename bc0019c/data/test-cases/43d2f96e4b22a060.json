@@ -1,0 +1,130 @@
+{
+  "uid" : "43d2f96e4b22a060",
+  "name" : "on_Tablet",
+  "fullName" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_PromotionTitleAppearsTest.on_Tablet",
+  "historyId" : "438ff0c8c018e57ed2c391d72d796aa7",
+  "time" : {
+    "start" : 1635337957239,
+    "stop" : 1635337979747,
+    "duration" : 22508
+  },
+  "description" : "Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece el titulo de la promocion.",
+  "descriptionHtml" : "<p>Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece el titulo de la promocion.</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "testdeployment-vynabgi7-85fd964955-xsb7h"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_PromotionTitleAppearsTest"
+  }, {
+    "name" : "testGroup",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "on_Tablet"
+  }, {
+    "name" : "testSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "thread",
+    "value" : "4324@testdeployment-vynabgi7-85fd964955-xsb7h.TestNG-test=AutomationTests-3(15)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_PromotionTitleAppearsTest"
+  }, {
+    "name" : "package",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_PromotionTitleAppearsTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b4ae521ba5063ba6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635337385574,
+        "stop" : 1635337409318,
+        "duration" : 23744
+      }
+    }, {
+      "uid" : "7292d77d21747c7e",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: expected [true] but found [false]",
+      "time" : {
+        "start" : 1635336615188,
+        "stop" : 1635336637723,
+        "duration" : 22535
+      }
+    }, {
+      "uid" : "83ee160b040a6eeb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635331975085,
+        "stop" : 1635331999121,
+        "duration" : 24036
+      }
+    }, {
+      "uid" : "25cbcc3782035e44",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635328026316,
+        "stop" : 1635328047298,
+        "duration" : 20982
+      }
+    }, {
+      "uid" : "3fbef38e259b9f98",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635327360662,
+        "stop" : 1635327379751,
+        "duration" : 19089
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "59e1d28a05155ce6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635337385574,
+          "stop" : 1635337409318,
+          "duration" : 23744
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "43d2f96e4b22a060.json",
+  "parameterValues" : [ ]
+}

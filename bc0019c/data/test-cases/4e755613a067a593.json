@@ -1,0 +1,121 @@
+{
+  "uid" : "4e755613a067a593",
+  "name" : "getSmartphoneWebDriverConfiguration_Ok",
+  "fullName" : "Core.Application.WebDriverConfigurationApplicationServiceTests.getSmartphoneWebDriverConfiguration_Ok",
+  "historyId" : "69d2ac453d76c8ff1da3d92a78a750d3",
+  "time" : {
+    "start" : 1635337967640,
+    "stop" : 1635337967642,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "Core.Application.WebDriverConfigurationApplicationServiceTests"
+  }, {
+    "name" : "testClass",
+    "value" : "Core.Application.WebDriverConfigurationApplicationServiceTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "getSmartphoneWebDriverConfiguration_Ok"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "Core.Application.WebDriverConfigurationApplicationServiceTests"
+  }, {
+    "name" : "host",
+    "value" : "testdeployment-vynabgi7-85fd964955-xsb7h"
+  }, {
+    "name" : "thread",
+    "value" : "4324@testdeployment-vynabgi7-85fd964955-xsb7h.TestNG-test=AutomationTests-1(13)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "581edf8cf7dec8ae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635337394083,
+        "stop" : 1635337394163,
+        "duration" : 80
+      }
+    }, {
+      "uid" : "6800449e12b018d3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635336627981,
+        "stop" : 1635336627983,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "5fab7d567d40777d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635331985094,
+        "stop" : 1635331985095,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "657bffccf215733d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635328031206,
+        "stop" : 1635328031278,
+        "duration" : 72
+      }
+    }, {
+      "uid" : "f3aa717adea0a190",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635327368031,
+        "stop" : 1635327368033,
+        "duration" : 2
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "67c66513587ac297",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635337394083,
+          "stop" : 1635337394163,
+          "duration" : 80
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "4e755613a067a593.json",
+  "parameterValues" : [ ]
+}
