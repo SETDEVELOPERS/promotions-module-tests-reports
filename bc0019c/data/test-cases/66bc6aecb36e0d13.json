@@ -1,0 +1,86 @@
+{
+  "uid" : "66bc6aecb36e0d13",
+  "name" : "getWebDriverByWebElement_Ok",
+  "fullName" : "Core.Application.WebElementApplicationServiceTests.getWebDriverByWebElement_Ok",
+  "historyId" : "59ae06ce92fdb7fa403fde1a16d6a208",
+  "time" : {
+    "start" : 1635331985001,
+    "stop" : 1635331985091,
+    "duration" : 90
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "testdeployment-6hyj5sr7-76874d48cd-zn96r"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "Core.Application.WebElementApplicationServiceTests"
+  }, {
+    "name" : "testGroup",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "getWebDriverByWebElement_Ok"
+  }, {
+    "name" : "testSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "thread",
+    "value" : "4327@testdeployment-6hyj5sr7-76874d48cd-zn96r.TestNG-test=AutomationTests-5(17)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "Core.Application.WebElementApplicationServiceTests"
+  }, {
+    "name" : "package",
+    "value" : "Core.Application.WebElementApplicationServiceTests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1ebfaefc15ad3bfe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635328031200,
+        "stop" : 1635328031201,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "5af702755a14d799",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635327367938,
+        "stop" : 1635327368032,
+        "duration" : 94
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "66bc6aecb36e0d13.json",
+  "parameterValues" : [ ]
+}

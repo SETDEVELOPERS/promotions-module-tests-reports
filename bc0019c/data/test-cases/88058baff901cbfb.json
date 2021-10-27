@@ -1,0 +1,86 @@
+{
+  "uid" : "88058baff901cbfb",
+  "name" : "on_Desktop",
+  "fullName" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_PromotionInstructionsTest.on_Desktop",
+  "historyId" : "de3bcf6fbb48afe4eaff154f4957992",
+  "time" : {
+    "start" : 1635331931686,
+    "stop" : 1635331960190,
+    "duration" : 28504
+  },
+  "description" : "Como visitante no registrado cuando accedo a una promocion no iniciada entonces aparece las instrucciones de la promocion",
+  "descriptionHtml" : "<p>Como visitante no registrado cuando accedo a una promocion no iniciada entonces aparece las instrucciones de la promocion</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "testdeployment-6hyj5sr7-76874d48cd-zn96r"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_PromotionInstructionsTest"
+  }, {
+    "name" : "testGroup",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "on_Desktop"
+  }, {
+    "name" : "testSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "thread",
+    "value" : "4327@testdeployment-6hyj5sr7-76874d48cd-zn96r.TestNG-test=AutomationTests-2(14)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_PromotionInstructionsTest"
+  }, {
+    "name" : "package",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_PromotionInstructionsTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "22d9ada3b81ba488",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635327976816,
+        "stop" : 1635328004376,
+        "duration" : 27560
+      }
+    }, {
+      "uid" : "a1277d556799493c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635327316849,
+        "stop" : 1635327341259,
+        "duration" : 24410
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "88058baff901cbfb.json",
+  "parameterValues" : [ ]
+}

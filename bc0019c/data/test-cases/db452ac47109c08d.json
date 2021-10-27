@@ -1,0 +1,86 @@
+{
+  "uid" : "db452ac47109c08d",
+  "name" : "disposeWebDriverByWebElement_Ok",
+  "fullName" : "Core.Application.WebElementApplicationServiceTests.disposeWebDriverByWebElement_Ok",
+  "historyId" : "8522a8e44045e8723cca5d3bf89f5622",
+  "time" : {
+    "start" : 1635331984794,
+    "stop" : 1635331984898,
+    "duration" : 104
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "testdeployment-6hyj5sr7-76874d48cd-zn96r"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "Core.Application.WebElementApplicationServiceTests"
+  }, {
+    "name" : "testGroup",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "disposeWebDriverByWebElement_Ok"
+  }, {
+    "name" : "testSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "thread",
+    "value" : "4327@testdeployment-6hyj5sr7-76874d48cd-zn96r.TestNG-test=AutomationTests-2(14)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "Core.Application.WebElementApplicationServiceTests"
+  }, {
+    "name" : "package",
+    "value" : "Core.Application.WebElementApplicationServiceTests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2c45e3bb91abbe9c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635328031182,
+        "stop" : 1635328031189,
+        "duration" : 7
+      }
+    }, {
+      "uid" : "6be582a608a56b21",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635327367858,
+        "stop" : 1635327367935,
+        "duration" : 77
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "db452ac47109c08d.json",
+  "parameterValues" : [ ]
+}

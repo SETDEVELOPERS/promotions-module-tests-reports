@@ -1,0 +1,86 @@
+{
+  "uid" : "80597ff20a1d5f88",
+  "name" : "getWebDriver_Ok",
+  "fullName" : "Core.Application.WebDriverApplicationServiceTests.getWebDriver_Ok",
+  "historyId" : "1778f1ed4def5ef0b9b03c817696ce94",
+  "time" : {
+    "start" : 1635331984791,
+    "stop" : 1635331984795,
+    "duration" : 4
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "testdeployment-6hyj5sr7-76874d48cd-zn96r"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "Core.Application.WebDriverApplicationServiceTests"
+  }, {
+    "name" : "testGroup",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "getWebDriver_Ok"
+  }, {
+    "name" : "testSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "thread",
+    "value" : "4327@testdeployment-6hyj5sr7-76874d48cd-zn96r.TestNG-test=AutomationTests-5(17)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "Core.Application.WebDriverApplicationServiceTests"
+  }, {
+    "name" : "package",
+    "value" : "Core.Application.WebDriverApplicationServiceTests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a748d42b13be38d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635328030606,
+        "stop" : 1635328031130,
+        "duration" : 524
+      }
+    }, {
+      "uid" : "16a9b6ce139c49ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635327367827,
+        "stop" : 1635327367829,
+        "duration" : 2
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "80597ff20a1d5f88.json",
+  "parameterValues" : [ ]
+}

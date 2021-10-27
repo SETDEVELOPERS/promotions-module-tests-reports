@@ -1,0 +1,68 @@
+{
+  "uid" : "523c9d8a9a8a8811",
+  "name" : "on_Tablet",
+  "fullName" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_PromotionInstructionsTest.on_Tablet",
+  "historyId" : "c9e39cabaf9e43ba00fc5650041d0086",
+  "time" : {
+    "start" : 1635327330934,
+    "stop" : 1635327360624,
+    "duration" : 29690
+  },
+  "description" : "Como visitante no registrado cuando accedo a una promocion no iniciada entonces aparece las instrucciones de la promocion",
+  "descriptionHtml" : "<p>Como visitante no registrado cuando accedo a una promocion no iniciada entonces aparece las instrucciones de la promocion</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "testdeployment-6hyj5sr7-55f6556c95-424hl"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_PromotionInstructionsTest"
+  }, {
+    "name" : "testGroup",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "on_Tablet"
+  }, {
+    "name" : "testSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "thread",
+    "value" : "4325@testdeployment-6hyj5sr7-55f6556c95-424hl.TestNG-test=AutomationTests-3(15)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_PromotionInstructionsTest"
+  }, {
+    "name" : "package",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_PromotionInstructionsTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "523c9d8a9a8a8811.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,68 @@
+{
+  "uid" : "cf9904066abcfb89",
+  "name" : "on_Smartphone",
+  "fullName" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_DateEffectiveAppearsTest.on_Smartphone",
+  "historyId" : "74c1958eacb82a0c9b4e3c89e974ecdb",
+  "time" : {
+    "start" : 1635327228024,
+    "stop" : 1635327254225,
+    "duration" : 26201
+  },
+  "description" : "Como visitante no registrado cuando accedo a una promoción no iniciada entonces aparece la vigencia de la promoción",
+  "descriptionHtml" : "<p>Como visitante no registrado cuando accedo a una promoción no iniciada entonces aparece la vigencia de la promoción</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "testdeployment-6hyj5sr7-55f6556c95-424hl"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_DateEffectiveAppearsTest"
+  }, {
+    "name" : "testGroup",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "on_Smartphone"
+  }, {
+    "name" : "testSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "thread",
+    "value" : "4325@testdeployment-6hyj5sr7-55f6556c95-424hl.TestNG-test=AutomationTests-5(17)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_DateEffectiveAppearsTest"
+  }, {
+    "name" : "package",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_DateEffectiveAppearsTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cf9904066abcfb89.json",
+  "parameterValues" : [ ]
+}

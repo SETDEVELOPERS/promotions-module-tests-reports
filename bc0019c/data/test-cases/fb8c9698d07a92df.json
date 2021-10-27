@@ -1,0 +1,86 @@
+{
+  "uid" : "fb8c9698d07a92df",
+  "name" : "on_Desktop",
+  "fullName" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_CookiesAcceptanceAppearsTest.on_Desktop",
+  "historyId" : "9578ef0031874dc3b9ea7962139bfb7b",
+  "time" : {
+    "start" : 1635331923978,
+    "stop" : 1635331945977,
+    "duration" : 21999
+  },
+  "description" : "Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece la aceptación de cookies",
+  "descriptionHtml" : "<p>Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece la aceptación de cookies</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "testdeployment-6hyj5sr7-76874d48cd-zn96r"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_CookiesAcceptanceAppearsTest"
+  }, {
+    "name" : "testGroup",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "on_Desktop"
+  }, {
+    "name" : "testSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "thread",
+    "value" : "4327@testdeployment-6hyj5sr7-76874d48cd-zn96r.TestNG-test=AutomationTests-4(16)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_CookiesAcceptanceAppearsTest"
+  }, {
+    "name" : "package",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_CookiesAcceptanceAppearsTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4500812606b5c2fe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635327967091,
+        "stop" : 1635327992277,
+        "duration" : 25186
+      }
+    }, {
+      "uid" : "54371e898fe68d62",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635327310060,
+        "stop" : 1635327333724,
+        "duration" : 23664
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fb8c9698d07a92df.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,86 @@
+{
+  "uid" : "f6186d381a7f2e84",
+  "name" : "findElementByXpath_Ok",
+  "fullName" : "Core.Application.WebElementApplicationServiceTests.findElementByXpath_Ok",
+  "historyId" : "695281b947773b0d931506f41a4118ad",
+  "time" : {
+    "start" : 1635331984804,
+    "stop" : 1635331984805,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "testdeployment-6hyj5sr7-76874d48cd-zn96r"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "Core.Application.WebElementApplicationServiceTests"
+  }, {
+    "name" : "testGroup",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "findElementByXpath_Ok"
+  }, {
+    "name" : "testSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "thread",
+    "value" : "4327@testdeployment-6hyj5sr7-76874d48cd-zn96r.TestNG-test=AutomationTests-5(17)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "Core.Application.WebElementApplicationServiceTests"
+  }, {
+    "name" : "package",
+    "value" : "Core.Application.WebElementApplicationServiceTests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "127777764336f0f8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635328031187,
+        "stop" : 1635328031193,
+        "duration" : 6
+      }
+    }, {
+      "uid" : "273fa6c9c016c50b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635327367927,
+        "stop" : 1635327367944,
+        "duration" : 17
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f6186d381a7f2e84.json",
+  "parameterValues" : [ ]
+}

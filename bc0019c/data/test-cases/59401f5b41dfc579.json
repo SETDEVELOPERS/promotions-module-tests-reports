@@ -1,0 +1,60 @@
+{
+  "uid" : "59401f5b41dfc579",
+  "name" : "getWebDriverByWebElement_Ok",
+  "fullName" : "Core.Application.WebElementApplicationServiceTests.getWebDriverByWebElement_Ok",
+  "historyId" : "dada39d5275f8425117b88d2d873bf75",
+  "time" : {
+    "start" : 1635328031199,
+    "stop" : 1635328031201,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "Core.Application.WebElementApplicationServiceTests"
+  }, {
+    "name" : "testClass",
+    "value" : "Core.Application.WebElementApplicationServiceTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "getWebDriverByWebElement_Ok"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "Core.Application.WebElementApplicationServiceTests"
+  }, {
+    "name" : "host",
+    "value" : "testdeployment-6hyj5sr7-76874d48cd-zn96r"
+  }, {
+    "name" : "thread",
+    "value" : "4325@testdeployment-6hyj5sr7-76874d48cd-zn96r.TestNG-test=AutomationTests-5(17)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "59401f5b41dfc579.json",
+  "parameterValues" : [ ]
+}

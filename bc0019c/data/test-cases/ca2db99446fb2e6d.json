@@ -1,0 +1,60 @@
+{
+  "uid" : "ca2db99446fb2e6d",
+  "name" : "Como visitante no registrado cuando accedo a una promoción no iniciada entonces aparece la sección 'Cómo participar/Iniciar sesión'",
+  "fullName" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_ParticipateSectionAppearsTest.on_Smartphone",
+  "historyId" : "a692442056d9052ceeeb55f930fd62e9",
+  "time" : {
+    "start" : 1635327258837,
+    "stop" : 1635327285223,
+    "duration" : 26386
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_ParticipateSectionAppearsTest"
+  }, {
+    "name" : "testClass",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_ParticipateSectionAppearsTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "on_Smartphone"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_ParticipateSectionAppearsTest"
+  }, {
+    "name" : "host",
+    "value" : "testdeployment-6hyj5sr7-55f6556c95-424hl"
+  }, {
+    "name" : "thread",
+    "value" : "4325@testdeployment-6hyj5sr7-55f6556c95-424hl.TestNG-test=AutomationTests-3(15)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ca2db99446fb2e6d.json",
+  "parameterValues" : [ ]
+}
