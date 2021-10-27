@@ -1,43 +1,5 @@
 {
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
-  "children" : [ {
-    "name" : "Product defects",
-    "children" : [ {
-      "name" : "AssertionError: expected [true] but found [false]",
-      "children" : [ {
-        "name" : "on_Tablet",
-        "uid" : "c5f1a6d6cf63d92a",
-        "parentUid" : "dd4e5496f22cca2b5bdff226b930a607",
-        "status" : "failed",
-        "time" : {
-          "start" : 1635336615188,
-          "stop" : 1635336637723,
-          "duration" : 22535
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "dd4e5496f22cca2b5bdff226b930a607"
-    }, {
-      "name" : "expected [true] but found [false]",
-      "children" : [ {
-        "name" : "Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece el titulo de la promocion.",
-        "uid" : "9b979784924817c3",
-        "parentUid" : "067aa11ae245eca950dc984999fefd6d",
-        "status" : "failed",
-        "time" : {
-          "start" : 1635336615188,
-          "stop" : 1635336637702,
-          "duration" : 22514
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "067aa11ae245eca950dc984999fefd6d"
-    } ],
-    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
-  } ],
+  "children" : [ ],
   "name" : "categories"
 }

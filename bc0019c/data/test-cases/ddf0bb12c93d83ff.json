@@ -1,0 +1,102 @@
+{
+  "uid" : "ddf0bb12c93d83ff",
+  "name" : "getTabletWebDriverConfiguration_Ok",
+  "fullName" : "Core.Application.WebDriverConfigurationApplicationServiceTests.getTabletWebDriverConfiguration_Ok",
+  "historyId" : "17e975ded7b338e94f1c2f580e9591c5",
+  "time" : {
+    "start" : 1635337394395,
+    "stop" : 1635337394620,
+    "duration" : 225
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "testdeployment-x244cajg-85fd964955-cl8wg"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "Core.Application.WebDriverConfigurationApplicationServiceTests"
+  }, {
+    "name" : "testGroup",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "getTabletWebDriverConfiguration_Ok"
+  }, {
+    "name" : "testSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "thread",
+    "value" : "4324@testdeployment-x244cajg-85fd964955-cl8wg.TestNG-test=AutomationTests-3(15)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "Core.Application.WebDriverConfigurationApplicationServiceTests"
+  }, {
+    "name" : "package",
+    "value" : "Core.Application.WebDriverConfigurationApplicationServiceTests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "913102a23924632",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635336627986,
+        "stop" : 1635336628056,
+        "duration" : 70
+      }
+    }, {
+      "uid" : "d12fe5127a9d1acd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635331985195,
+        "stop" : 1635331985199,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "66d628799dabdee1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635328031276,
+        "stop" : 1635328031278,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "9765f6b2c724195c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635327368042,
+        "stop" : 1635327368048,
+        "duration" : 6
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ddf0bb12c93d83ff.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,102 @@
+{
+  "uid" : "cf3b9026e2892731",
+  "name" : "getWebDriver_Ok",
+  "fullName" : "Core.Application.WebDriverApplicationServiceTests.getWebDriver_Ok",
+  "historyId" : "1778f1ed4def5ef0b9b03c817696ce94",
+  "time" : {
+    "start" : 1635337393589,
+    "stop" : 1635337393591,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "testdeployment-x244cajg-85fd964955-cl8wg"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "Core.Application.WebDriverApplicationServiceTests"
+  }, {
+    "name" : "testGroup",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "getWebDriver_Ok"
+  }, {
+    "name" : "testSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "thread",
+    "value" : "4324@testdeployment-x244cajg-85fd964955-cl8wg.TestNG-test=AutomationTests-3(15)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "Core.Application.WebDriverApplicationServiceTests"
+  }, {
+    "name" : "package",
+    "value" : "Core.Application.WebDriverApplicationServiceTests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f4c3d9140cb3eee3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635336627478,
+        "stop" : 1635336627556,
+        "duration" : 78
+      }
+    }, {
+      "uid" : "cbb8c7083745f4a2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635331984791,
+        "stop" : 1635331984795,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "baf8ad79e224b9ee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635328030606,
+        "stop" : 1635328031130,
+        "duration" : 524
+      }
+    }, {
+      "uid" : "55aaee9bc6de2dc4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635327367827,
+        "stop" : 1635327367829,
+        "duration" : 2
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cf3b9026e2892731.json",
+  "parameterValues" : [ ]
+}
