@@ -1,0 +1,70 @@
+{
+  "uid" : "8f7388c5940a87e4",
+  "name" : "on_Desktop",
+  "fullName" : "PromotionsModule.Given_NotRegisteredUser.When_FinishedPromotion.Then_AgeRestrictionAppearsTest.on_Desktop",
+  "historyId" : "711458f02ec08c596c96dfcca5f3ae4e",
+  "time" : {
+    "start" : 1635326347833,
+    "stop" : 1635326382257,
+    "duration" : 34424
+  },
+  "description" : "Como nuevo visitante cuando se muestra la restricción de edad y acepto entonces accedo a una promoción finalizada",
+  "descriptionHtml" : "<p>Como nuevo visitante cuando se muestra la restricción de edad y acepto entonces accedo a una promoción finalizada</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "testdeployment-sc72xtav-78cf5f7875-96wr5"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_FinishedPromotion.Then_AgeRestrictionAppearsTest"
+  }, {
+    "name" : "testGroup",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "on_Desktop"
+  }, {
+    "name" : "testSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "thread",
+    "value" : "4311@testdeployment-sc72xtav-78cf5f7875-96wr5.TestNG-test=AutomationTests-4(16)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_FinishedPromotion.Then_AgeRestrictionAppearsTest"
+  }, {
+    "name" : "package",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_FinishedPromotion.Then_AgeRestrictionAppearsTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8f7388c5940a87e4.json",
+  "parameterValues" : [ ]
+}

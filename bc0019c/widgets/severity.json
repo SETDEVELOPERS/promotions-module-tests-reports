@@ -1,0 +1,451 @@
+[ {
+  "uid" : "e3c0edc10b44a3d2",
+  "name" : "getConfiguration_Ok",
+  "time" : {
+    "start" : 1635326522082,
+    "stop" : 1635326522880,
+    "duration" : 798
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "77e33ac65c7bf8a6",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1635326456999,
+    "stop" : 1635326481706,
+    "duration" : 24707
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5b060b7e2427d6a3",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1635326457382,
+    "stop" : 1635326479885,
+    "duration" : 22503
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "db87b63638ac0794",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1635326379285,
+    "stop" : 1635326412058,
+    "duration" : 32773
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "68ffe838a1a30e40",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1635326510596,
+    "stop" : 1635326533057,
+    "duration" : 22461
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "338f5cb0560eee98",
+  "name" : "getDesktopWebDriverConfiguration_Ok",
+  "time" : {
+    "start" : 1635326522071,
+    "stop" : 1635326522072,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "74774cf39743e974",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1635326347810,
+    "stop" : 1635326372882,
+    "duration" : 25072
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2cf5136bd92cc7b0",
+  "name" : "getWebDriverByWebElement_Ok",
+  "time" : {
+    "start" : 1635326521983,
+    "stop" : 1635326521985,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c912ce9fb7f9f87d",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1635326382283,
+    "stop" : 1635326415258,
+    "duration" : 32975
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6e79aac349aa65aa",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1635326400983,
+    "stop" : 1635326430456,
+    "duration" : 29473
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "65e4e592c70d4a6d",
+  "name" : "isDisplayed_Ok",
+  "time" : {
+    "start" : 1635326522059,
+    "stop" : 1635326522061,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8474abf51b7fc5fd",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1635326443888,
+    "stop" : 1635326469456,
+    "duration" : 25568
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4b22c27e178442cf",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1635326481757,
+    "stop" : 1635326511258,
+    "duration" : 29501
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bc82d3b124689248",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1635326501410,
+    "stop" : 1635326521956,
+    "duration" : 20546
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3689f59959750227",
+  "name" : "getTabletWebDriverConfiguration_Ok",
+  "time" : {
+    "start" : 1635326522076,
+    "stop" : 1635326522259,
+    "duration" : 183
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f3aa2206133b98f2",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1635326511280,
+    "stop" : 1635326532607,
+    "duration" : 21327
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c2cb80c54219ae61",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1635326440795,
+    "stop" : 1635326467558,
+    "duration" : 26763
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e16c112373a05c8d",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1635326506288,
+    "stop" : 1635326532656,
+    "duration" : 26368
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f1229760fa39a83a",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1635326479966,
+    "stop" : 1635326506266,
+    "duration" : 26300
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "99da2dc35e65f207",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1635326372888,
+    "stop" : 1635326397061,
+    "duration" : 24173
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fa8ed5bbe63cd79a",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1635326347810,
+    "stop" : 1635326379158,
+    "duration" : 31348
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ef3d4a90612b0907",
+  "name" : "getSmartphoneWebDriverConfiguration_Ok",
+  "time" : {
+    "start" : 1635326522064,
+    "stop" : 1635326522074,
+    "duration" : 10
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b24f80e1df77c9d2",
+  "name" : "click_Ok",
+  "time" : {
+    "start" : 1635326521878,
+    "stop" : 1635326521958,
+    "duration" : 80
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2fb7a7c94dc3c40c",
+  "name" : "getEnvironment_Ok",
+  "time" : {
+    "start" : 1635326522280,
+    "stop" : 1635326522871,
+    "duration" : 591
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8f7388c5940a87e4",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1635326347833,
+    "stop" : 1635326382257,
+    "duration" : 34424
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7fed444c4da9174b",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1635326486288,
+    "stop" : 1635326510590,
+    "duration" : 24302
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eeff8c59a5bfc97",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1635326491692,
+    "stop" : 1635326517256,
+    "duration" : 25564
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9e81a8be1e7ff154",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1635326415291,
+    "stop" : 1635326443862,
+    "duration" : 28571
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "66f0972cda975f54",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1635326430462,
+    "stop" : 1635326457308,
+    "duration" : 26846
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b8d100925b3b21fd",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1635326467585,
+    "stop" : 1635326486284,
+    "duration" : 18699
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c4fafc853ceee4b7",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1635326469465,
+    "stop" : 1635326491690,
+    "duration" : 22225
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "90fbe78b718706e2",
+  "name" : "findElementByXpath_Ok",
+  "time" : {
+    "start" : 1635326521983,
+    "stop" : 1635326521984,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dcb930686edb17ac",
+  "name" : "disposeWebDriver_Ok",
+  "time" : {
+    "start" : 1635326517267,
+    "stop" : 1635326521870,
+    "duration" : 4603
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fc2db2f29b16846d",
+  "name" : "disposeWebDriverByWebElement_Ok",
+  "time" : {
+    "start" : 1635326521962,
+    "stop" : 1635326521979,
+    "duration" : 17
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7fd59034ae4b469b",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1635326412161,
+    "stop" : 1635326441966,
+    "duration" : 29805
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fe71914c2e451aef",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1635326430172,
+    "stop" : 1635326456990,
+    "duration" : 26818
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d21e6828e06851da",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1635326347824,
+    "stop" : 1635326381256,
+    "duration" : 33432
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6d665301dbf6a5e9",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1635326347822,
+    "stop" : 1635326377369,
+    "duration" : 29547
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "53dfcb28638611e4",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1635326377472,
+    "stop" : 1635326400957,
+    "duration" : 23485
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "296312624fe5938a",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1635326409664,
+    "stop" : 1635326440658,
+    "duration" : 30994
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "461eaab4cb042e62",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1635326381273,
+    "stop" : 1635326409656,
+    "duration" : 28383
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "64b2ffd4556ede0a",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1635326441994,
+    "stop" : 1635326473158,
+    "duration" : 31164
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e454b5eec04d489b",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1635326473301,
+    "stop" : 1635326501356,
+    "duration" : 28055
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "63f74eeb725074d6",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1635326397092,
+    "stop" : 1635326430167,
+    "duration" : 33075
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "819300b503c81f6e",
+  "name" : "getWebDriver_Ok",
+  "time" : {
+    "start" : 1635326521873,
+    "stop" : 1635326521875,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
