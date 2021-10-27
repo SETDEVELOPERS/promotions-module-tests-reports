@@ -1,0 +1,901 @@
+[ {
+  "uid" : "b8d55d5296b5e03a",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1635327830801,
+    "stop" : 1635327871303,
+    "duration" : 40502
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "99cc46adc9fbc57e",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1635327936985,
+    "stop" : 1635327965389,
+    "duration" : 28404
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "930cd2d2d49010d2",
+  "name" : "Como nuevo visitante cuando se muestra la restricción de edad y acepto entonces accedo a una promoción finalizada",
+  "time" : {
+    "start" : 1635327830688,
+    "stop" : 1635327871775,
+    "duration" : 41087
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cdc0d5b7fdae74d9",
+  "name" : "Como visitante no registrado cuando accedo a una promoción no iniciada entonces aparece la sección 'Cómo participar/Iniciar sesión'",
+  "time" : {
+    "start" : 1635327907595,
+    "stop" : 1635327942919,
+    "duration" : 35324
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "40f4b1a446d0283b",
+  "name" : "getWebDriverByWebElement_Ok",
+  "time" : {
+    "start" : 1635328031199,
+    "stop" : 1635328031201,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7803c9f37475d8a8",
+  "name" : "Como visitante no registrado cuando accedo a una promoción no iniciada entonces aparece la vigencia de la promoción",
+  "time" : {
+    "start" : 1635327867905,
+    "stop" : 1635327900377,
+    "duration" : 32472
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "97c771506148f512",
+  "name" : "getTabletWebDriverConfiguration_Ok",
+  "time" : {
+    "start" : 1635328031206,
+    "stop" : 1635328031277,
+    "duration" : 71
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "304a6d318f1cfc2e",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1635327830802,
+    "stop" : 1635327867892,
+    "duration" : 37090
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b498b25635367685",
+  "name" : "isDisplayed_Ok",
+  "time" : {
+    "start" : 1635328031197,
+    "stop" : 1635328031199,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c30173efc837dfcf",
+  "name" : "Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece la restricción de edad",
+  "time" : {
+    "start" : 1635328000112,
+    "stop" : 1635328026276,
+    "duration" : 26164
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4f507da844dd6835",
+  "name" : "Como nuevo visitante cuando accedo a una promoción finalizada entonces aparece la aceptación de cookies",
+  "time" : {
+    "start" : 1635327830688,
+    "stop" : 1635327867676,
+    "duration" : 36988
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "95b4b145fa4b02b5",
+  "name" : "Como visitante no registrado cuando accedo a una promoción no iniciada entonces aparece la imagen de cabecera",
+  "time" : {
+    "start" : 1635327941988,
+    "stop" : 1635327976710,
+    "duration" : 34722
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6409e02f59f58797",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1635327965477,
+    "stop" : 1635327990206,
+    "duration" : 24729
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "64b4292ff2f46fba",
+  "name" : "click_Ok",
+  "time" : {
+    "start" : 1635328031181,
+    "stop" : 1635328031183,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6bc21a24848b509a",
+  "name" : "isDisplayed_Ok",
+  "time" : {
+    "start" : 1635328031197,
+    "stop" : 1635328031199,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "21e17253ed60a82",
+  "name" : "Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece la aceptación de cookies",
+  "time" : {
+    "start" : 1635327976017,
+    "stop" : 1635327999979,
+    "duration" : 23962
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5868199b74a27b29",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1635327976018,
+    "stop" : 1635327999979,
+    "duration" : 23961
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4c4baa1a3a09365c",
+  "name" : "Como visitante no registrado cuando accedo a una promocion no iniciada entonces aparece las instrucciones de la promocion",
+  "time" : {
+    "start" : 1635327990379,
+    "stop" : 1635328025084,
+    "duration" : 34705
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f6ff7d41ff276519",
+  "name" : "getWebDriver_Ok",
+  "time" : {
+    "start" : 1635328030605,
+    "stop" : 1635328031129,
+    "duration" : 524
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4ae41c305d742546",
+  "name" : "Como visitante no registrado cuando accedo a una promocion no iniciada entonces aparece las instrucciones de la promocion",
+  "time" : {
+    "start" : 1635327992309,
+    "stop" : 1635328028175,
+    "duration" : 35866
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "781c7fdf5ed8b02e",
+  "name" : "Como visitante no registrado cuando accedo a una promoción no iniciada entonces aparece la sección 'Cómo participar/Iniciar sesión'",
+  "time" : {
+    "start" : 1635327904886,
+    "stop" : 1635327941975,
+    "duration" : 37089
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6e1fbdf84bf0fd9d",
+  "name" : "disposeWebDriverByWebElement_Ok",
+  "time" : {
+    "start" : 1635328031182,
+    "stop" : 1635328031189,
+    "duration" : 7
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "69bba183eafcf766",
+  "name" : "findElementByXpath_Ok",
+  "time" : {
+    "start" : 1635328031187,
+    "stop" : 1635328031193,
+    "duration" : 6
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "90f1c3053cdb0054",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1635327967091,
+    "stop" : 1635327992277,
+    "duration" : 25186
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "64b6f5229abecb1",
+  "name" : "getDesktopWebDriverConfiguration_Ok",
+  "time" : {
+    "start" : 1635328031202,
+    "stop" : 1635328031203,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c00337c3bc7f5552",
+  "name" : "Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece la restricción de edad",
+  "time" : {
+    "start" : 1635328004386,
+    "stop" : 1635328030575,
+    "duration" : 26189
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5be4008e52490bda",
+  "name" : "getEnvironment_Ok",
+  "time" : {
+    "start" : 1635328031290,
+    "stop" : 1635328031479,
+    "duration" : 189
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a769cf15d68f4849",
+  "name" : "getEnvironment_Ok",
+  "time" : {
+    "start" : 1635328031289,
+    "stop" : 1635328031479,
+    "duration" : 190
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9a2ec4c7484b4bde",
+  "name" : "getSmartphoneWebDriverConfiguration_Ok",
+  "time" : {
+    "start" : 1635328031206,
+    "stop" : 1635328031278,
+    "duration" : 72
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "99770348f34a1bac",
+  "name" : "Como visitante no registrado cuando accedo a una promocion finalizada entonces aparece un el texto 'Promocion finalizada'",
+  "time" : {
+    "start" : 1635327897012,
+    "stop" : 1635327933796,
+    "duration" : 36784
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "87e60ecc1c5d35f5",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1635327909287,
+    "stop" : 1635327942516,
+    "duration" : 33229
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "53172342ec9f9d79",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1635327904890,
+    "stop" : 1635327941976,
+    "duration" : 37086
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6d4e681cbc98b97",
+  "name" : "findElementByXpath_Ok",
+  "time" : {
+    "start" : 1635328031186,
+    "stop" : 1635328031192,
+    "duration" : 6
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "241e4cdbcaba0978",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1635327941989,
+    "stop" : 1635327976714,
+    "duration" : 34725
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e14e163cc8963a9d",
+  "name" : "Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece la aceptación de cookies",
+  "time" : {
+    "start" : 1635327967081,
+    "stop" : 1635327992276,
+    "duration" : 25195
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "29bacae3321bf0",
+  "name" : "getWebDriver_Ok",
+  "time" : {
+    "start" : 1635328030606,
+    "stop" : 1635328031130,
+    "duration" : 524
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c94afd2151f0f7f7",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1635328000113,
+    "stop" : 1635328026276,
+    "duration" : 26163
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f18558b619a6e566",
+  "name" : "Como visitante no registrado cuando accedo a una promocion finalizada entonces aparece un el texto 'Promocion finalizada'",
+  "time" : {
+    "start" : 1635327900398,
+    "stop" : 1635327936876,
+    "duration" : 36478
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9ccb5b874413ad5f",
+  "name" : "Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece la miga de pan.",
+  "time" : {
+    "start" : 1635327965406,
+    "stop" : 1635327990205,
+    "duration" : 24799
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8b9db345f733773a",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1635327867986,
+    "stop" : 1635327907584,
+    "duration" : 39598
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f31fae02a3e165d0",
+  "name" : "click_Ok",
+  "time" : {
+    "start" : 1635328031180,
+    "stop" : 1635328031183,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7c81e701b21cd983",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1635327871406,
+    "stop" : 1635327904876,
+    "duration" : 33470
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "56bf84c3103ca2d3",
+  "name" : "Como nuevo visitante cuando accedo a una promoción finalizada entonces aparece la aceptación de cookies",
+  "time" : {
+    "start" : 1635327830694,
+    "stop" : 1635327863626,
+    "duration" : 32932
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1b0e8c73a2bb66b",
+  "name" : "getConfiguration_Ok",
+  "time" : {
+    "start" : 1635328031282,
+    "stop" : 1635328031507,
+    "duration" : 225
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fa9b54e7870ab2bb",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1635327990380,
+    "stop" : 1635328025084,
+    "duration" : 34704
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4b33e0414e910d24",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1635327871788,
+    "stop" : 1635327909176,
+    "duration" : 37388
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4ffbf4b1c028e4e1",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1635328004387,
+    "stop" : 1635328030576,
+    "duration" : 26189
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "48007dfe761fa902",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1635328026316,
+    "stop" : 1635328047298,
+    "duration" : 20982
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4e539f02bf356db0",
+  "name" : "Como visitante no registrado cuando accedo a una promoción no iniciada entonces aparece la imagen de cabecera",
+  "time" : {
+    "start" : 1635327936983,
+    "stop" : 1635327965376,
+    "duration" : 28393
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "15f1ca90c165c659",
+  "name" : "Como nuevo visitante cuando se muestra la restricción de edad y acepto entonces accedo a una promoción finalizada",
+  "time" : {
+    "start" : 1635327867977,
+    "stop" : 1635327896976,
+    "duration" : 28999
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cb25c232cbd68082",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1635327867907,
+    "stop" : 1635327900378,
+    "duration" : 32471
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5bddf963e5df6577",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1635327867978,
+    "stop" : 1635327896977,
+    "duration" : 28999
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "62c442df56beb7a8",
+  "name" : "Como visitante no registrado cuando accedo a una promoción no iniciada entonces aparece la vigencia de la promoción",
+  "time" : {
+    "start" : 1635327871405,
+    "stop" : 1635327904875,
+    "duration" : 33470
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8cda2e37c057c226",
+  "name" : "Como visitante no registrado cuando accedo a una promocion finalizada entonces aparece un el texto 'Promocion finalizada'",
+  "time" : {
+    "start" : 1635327871787,
+    "stop" : 1635327909176,
+    "duration" : 37389
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "289de2366a311b3a",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1635327972288,
+    "stop" : 1635327994176,
+    "duration" : 21888
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e393f4165ecfe8e",
+  "name" : "Como nuevo visitante cuando se muestra la restricción de edad y acepto entonces accedo a una promoción finalizada",
+  "time" : {
+    "start" : 1635327830690,
+    "stop" : 1635327871200,
+    "duration" : 40510
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e7efb54f9eda2a54",
+  "name" : "Como visitante no registrado cuando accedo a una promoción no iniciada entonces aparece la sección 'Cómo participar/Iniciar sesión'",
+  "time" : {
+    "start" : 1635327909224,
+    "stop" : 1635327942516,
+    "duration" : 33292
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "97103b8ca72024c7",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1635327994181,
+    "stop" : 1635328025482,
+    "duration" : 31301
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "35b3a5ea5641b5b1",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1635327830800,
+    "stop" : 1635327871777,
+    "duration" : 40977
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cbed939751da8190",
+  "name" : "Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece la aceptación de cookies",
+  "time" : {
+    "start" : 1635327972287,
+    "stop" : 1635327994176,
+    "duration" : 21889
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "af511486b0829a79",
+  "name" : "Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece la miga de pan.",
+  "time" : {
+    "start" : 1635327943005,
+    "stop" : 1635327972276,
+    "duration" : 29271
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e24c82a6d0b0d4f3",
+  "name" : "Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece el titulo de la promocion.",
+  "time" : {
+    "start" : 1635328025513,
+    "stop" : 1635328047205,
+    "duration" : 21692
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "30c2f3385fa8b079",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1635327900403,
+    "stop" : 1635327936883,
+    "duration" : 36480
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "342ffcbe58b462ec",
+  "name" : "Como visitante no registrado cuando accedo a una promoción no iniciada entonces aparece la imagen de cabecera",
+  "time" : {
+    "start" : 1635327933885,
+    "stop" : 1635327966923,
+    "duration" : 33038
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6d4ec88b2054bc45",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1635327830800,
+    "stop" : 1635327867892,
+    "duration" : 37092
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "da38472ebabe596d",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1635327976816,
+    "stop" : 1635328004376,
+    "duration" : 27560
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "49552af46305e5d4",
+  "name" : "getTabletWebDriverConfiguration_Ok",
+  "time" : {
+    "start" : 1635328031276,
+    "stop" : 1635328031278,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "85e802f4605af3a9",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1635327943010,
+    "stop" : 1635327972276,
+    "duration" : 29266
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e71421f5176dda2",
+  "name" : "Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece la restricción de edad",
+  "time" : {
+    "start" : 1635327994180,
+    "stop" : 1635328025481,
+    "duration" : 31301
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "40e8aeb4a7f4d317",
+  "name" : "Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece el titulo de la promocion.",
+  "time" : {
+    "start" : 1635328025113,
+    "stop" : 1635328043606,
+    "duration" : 18493
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9829f83c5a9bb302",
+  "name" : "Como visitante no registrado cuando accedo a una promocion no iniciada entonces aparece las instrucciones de la promocion",
+  "time" : {
+    "start" : 1635327976779,
+    "stop" : 1635328004375,
+    "duration" : 27596
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a88be65cd9393844",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1635327907596,
+    "stop" : 1635327942920,
+    "duration" : 35324
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2b9c26590edea444",
+  "name" : "getSmartphoneWebDriverConfiguration_Ok",
+  "time" : {
+    "start" : 1635328031206,
+    "stop" : 1635328031279,
+    "duration" : 73
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ee133aaddf42aa8e",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1635328025514,
+    "stop" : 1635328047206,
+    "duration" : 21692
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9258e66d411e643d",
+  "name" : "disposeWebDriver_Ok",
+  "time" : {
+    "start" : 1635328028194,
+    "stop" : 1635328031129,
+    "duration" : 2935
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "66fd842148d98093",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1635328025114,
+    "stop" : 1635328043607,
+    "duration" : 18493
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "90a855e0e27a3197",
+  "name" : "Como visitante no registrado cuando accedo a una promoción no iniciada entonces aparece la vigencia de la promoción",
+  "time" : {
+    "start" : 1635327867985,
+    "stop" : 1635327907583,
+    "duration" : 39598
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "34389eedbe08d109",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1635327992311,
+    "stop" : 1635328028176,
+    "duration" : 35865
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8f265479f0b66ce7",
+  "name" : "Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece la miga de pan.",
+  "time" : {
+    "start" : 1635327942608,
+    "stop" : 1635327975976,
+    "duration" : 33368
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dd3ebbb7ed0f1e78",
+  "name" : "Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece el titulo de la promocion.",
+  "time" : {
+    "start" : 1635328026315,
+    "stop" : 1635328047297,
+    "duration" : 20982
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ec7fc96c65d59e75",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1635327830801,
+    "stop" : 1635327867977,
+    "duration" : 37176
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a96f9116fd9ac5ff",
+  "name" : "disposeWebDriver_Ok",
+  "time" : {
+    "start" : 1635328028199,
+    "stop" : 1635328031130,
+    "duration" : 2931
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "693591b2348ac218",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1635327942609,
+    "stop" : 1635327975977,
+    "duration" : 33368
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7ea0f0ab48e71a15",
+  "name" : "getWebDriverByWebElement_Ok",
+  "time" : {
+    "start" : 1635328031200,
+    "stop" : 1635328031201,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6cc4416a528597ad",
+  "name" : "getDesktopWebDriverConfiguration_Ok",
+  "time" : {
+    "start" : 1635328031202,
+    "stop" : 1635328031204,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "60cf4dcee44d74f",
+  "name" : "getConfiguration_Ok",
+  "time" : {
+    "start" : 1635328031282,
+    "stop" : 1635328031507,
+    "duration" : 225
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6f2dfaa945934d8d",
+  "name" : "Como nuevo visitante cuando accedo a una promoción finalizada entonces aparece la aceptación de cookies",
+  "time" : {
+    "start" : 1635327830691,
+    "stop" : 1635327867975,
+    "duration" : 37284
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b6d96158c96acb80",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1635327933900,
+    "stop" : 1635327966996,
+    "duration" : 33096
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6f17c41ddda35a30",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1635327897023,
+    "stop" : 1635327933797,
+    "duration" : 36774
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "df7e4925c88550be",
+  "name" : "disposeWebDriverByWebElement_Ok",
+  "time" : {
+    "start" : 1635328031181,
+    "stop" : 1635328031189,
+    "duration" : 8
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
