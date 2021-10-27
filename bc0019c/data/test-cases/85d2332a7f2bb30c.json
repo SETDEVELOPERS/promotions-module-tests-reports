@@ -1,0 +1,94 @@
+{
+  "uid" : "85d2332a7f2bb30c",
+  "name" : "isDisplayed_Ok",
+  "fullName" : "Core.Application.WebElementApplicationServiceTests.isDisplayed_Ok",
+  "historyId" : "ec637759437cea7cf9620f8ce20230e7",
+  "time" : {
+    "start" : 1635336627870,
+    "stop" : 1635336627880,
+    "duration" : 10
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "testdeployment-x244cajg-559645d4f8-jxr5r"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "Core.Application.WebElementApplicationServiceTests"
+  }, {
+    "name" : "testGroup",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "isDisplayed_Ok"
+  }, {
+    "name" : "testSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "thread",
+    "value" : "4323@testdeployment-x244cajg-559645d4f8-jxr5r.TestNG-test=AutomationTests-3(15)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "Core.Application.WebElementApplicationServiceTests"
+  }, {
+    "name" : "package",
+    "value" : "Core.Application.WebElementApplicationServiceTests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "dd7d18d5d5badccd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635331984975,
+        "stop" : 1635331984978,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "824398ccc363ccd3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635328031197,
+        "stop" : 1635328031199,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "64756d73c6535f01",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635327367950,
+        "stop" : 1635327367954,
+        "duration" : 4
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "85d2332a7f2bb30c.json",
+  "parameterValues" : [ ]
+}

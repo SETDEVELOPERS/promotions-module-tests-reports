@@ -1,0 +1,60 @@
+{
+  "uid" : "ad70a6e0653d95ef",
+  "name" : "Como visitante no registrado cuando accedo a una promoción no iniciada entonces aparece la vigencia de la promoción",
+  "fullName" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_DateEffectiveAppearsTest.on_Tablet",
+  "historyId" : "413aa3ef95cab8a12eb140a4df9f9b0f",
+  "time" : {
+    "start" : 1635327228750,
+    "stop" : 1635327258648,
+    "duration" : 29898
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_DateEffectiveAppearsTest"
+  }, {
+    "name" : "testClass",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_DateEffectiveAppearsTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "on_Tablet"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_DateEffectiveAppearsTest"
+  }, {
+    "name" : "host",
+    "value" : "testdeployment-6hyj5sr7-55f6556c95-424hl"
+  }, {
+    "name" : "thread",
+    "value" : "4325@testdeployment-6hyj5sr7-55f6556c95-424hl.TestNG-test=AutomationTests-3(15)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ad70a6e0653d95ef.json",
+  "parameterValues" : [ ]
+}

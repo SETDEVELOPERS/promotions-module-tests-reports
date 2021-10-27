@@ -1,0 +1,86 @@
+{
+  "uid" : "bb1d116e7513a3a0",
+  "name" : "Como visitante no registrado cuando accedo a una promoción no iniciada entonces aparece la imagen de cabecera",
+  "fullName" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_HeaderImageAppearsTest.on_Desktop",
+  "historyId" : "65b6acfbe1529c492b7cb18c2a4c1606",
+  "time" : {
+    "start" : 1635336525751,
+    "stop" : 1635336554657,
+    "duration" : 28906
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_HeaderImageAppearsTest"
+  }, {
+    "name" : "testClass",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_HeaderImageAppearsTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "on_Desktop"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_HeaderImageAppearsTest"
+  }, {
+    "name" : "host",
+    "value" : "testdeployment-x244cajg-559645d4f8-jxr5r"
+  }, {
+    "name" : "thread",
+    "value" : "4323@testdeployment-x244cajg-559645d4f8-jxr5r.TestNG-test=AutomationTests-1(13)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1a15165ed07d94b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635331890005,
+        "stop" : 1635331915719,
+        "duration" : 25714
+      }
+    }, {
+      "uid" : "dc0441fdb7b3bdb0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635327933885,
+        "stop" : 1635327966923,
+        "duration" : 33038
+      }
+    }, {
+      "uid" : "18a492af7ef1ff75",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635327280429,
+        "stop" : 1635327307443,
+        "duration" : 27014
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bb1d116e7513a3a0.json",
+  "parameterValues" : [ ]
+}

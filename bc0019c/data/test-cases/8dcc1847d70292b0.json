@@ -1,0 +1,86 @@
+{
+  "uid" : "8dcc1847d70292b0",
+  "name" : "Como visitante no registrado cuando accedo a una promoción no iniciada entonces aparece la vigencia de la promoción",
+  "fullName" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_DateEffectiveAppearsTest.on_Smartphone",
+  "historyId" : "6e57f98b72a416331a431ebd0bc0955e",
+  "time" : {
+    "start" : 1635336475256,
+    "stop" : 1635336507655,
+    "duration" : 32399
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_DateEffectiveAppearsTest"
+  }, {
+    "name" : "testClass",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_DateEffectiveAppearsTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "on_Smartphone"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_DateEffectiveAppearsTest"
+  }, {
+    "name" : "host",
+    "value" : "testdeployment-x244cajg-559645d4f8-jxr5r"
+  }, {
+    "name" : "thread",
+    "value" : "4323@testdeployment-x244cajg-559645d4f8-jxr5r.TestNG-test=AutomationTests-2(14)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d2f123da14efa5b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635331835306,
+        "stop" : 1635331866777,
+        "duration" : 31471
+      }
+    }, {
+      "uid" : "731fc7fc3d689fc2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635327867985,
+        "stop" : 1635327907583,
+        "duration" : 39598
+      }
+    }, {
+      "uid" : "6a83df32afc435fa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635327227936,
+        "stop" : 1635327254224,
+        "duration" : 26288
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8dcc1847d70292b0.json",
+  "parameterValues" : [ ]
+}

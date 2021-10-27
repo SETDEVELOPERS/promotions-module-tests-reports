@@ -1,0 +1,60 @@
+{
+  "uid" : "e54eb90d466c6fb6",
+  "name" : "Como visitante no registrado cuando accedo a una promoción no iniciada entonces aparece la imagen de cabecera",
+  "fullName" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_HeaderImageAppearsTest.on_Tablet",
+  "historyId" : "590e2a64be5252b1bde7d8a40e38fd26",
+  "time" : {
+    "start" : 1635327285231,
+    "stop" : 1635327312423,
+    "duration" : 27192
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_HeaderImageAppearsTest"
+  }, {
+    "name" : "testClass",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_HeaderImageAppearsTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "on_Tablet"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_HeaderImageAppearsTest"
+  }, {
+    "name" : "host",
+    "value" : "testdeployment-6hyj5sr7-55f6556c95-424hl"
+  }, {
+    "name" : "thread",
+    "value" : "4325@testdeployment-6hyj5sr7-55f6556c95-424hl.TestNG-test=AutomationTests-3(15)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e54eb90d466c6fb6.json",
+  "parameterValues" : [ ]
+}
