@@ -1,0 +1,113 @@
+{
+  "uid" : "84753613cb544d66",
+  "name" : "findElementByXpath_Ok",
+  "fullName" : "Core.Application.WebElementApplicationServiceTests.findElementByXpath_Ok",
+  "historyId" : "695281b947773b0d931506f41a4118ad",
+  "time" : {
+    "start" : 1635346272556,
+    "stop" : 1635346272648,
+    "duration" : 92
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "testdeployment-ftkqc4ni-868b7d9cf9-bpzh5"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "Core.Application.WebElementApplicationServiceTests"
+  }, {
+    "name" : "testGroup",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "findElementByXpath_Ok"
+  }, {
+    "name" : "testSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "thread",
+    "value" : "4329@testdeployment-ftkqc4ni-868b7d9cf9-bpzh5.TestNG-test=AutomationTests-1(13)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "Core.Application.WebElementApplicationServiceTests"
+  }, {
+    "name" : "package",
+    "value" : "Core.Application.WebElementApplicationServiceTests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2f6fb8a766bb2238",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635345250773,
+        "stop" : 1635345250834,
+        "duration" : 61
+      }
+    }, {
+      "uid" : "d5091e7ad663822f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635344489812,
+        "stop" : 1635344489904,
+        "duration" : 92
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 3,
+        "unknown" : 0,
+        "total" : 3
+      },
+      "items" : [ {
+        "uid" : "f4d97e96f721c3a2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635345250773,
+          "stop" : 1635345250834,
+          "duration" : 61
+        }
+      }, {
+        "uid" : "5c0d85fc1ea14a4a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635344489812,
+          "stop" : 1635344489904,
+          "duration" : 92
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "84753613cb544d66.json",
+  "parameterValues" : [ ]
+}

@@ -3,10 +3,157 @@
   "children" : [ {
     "name" : "testdeployment-tcfr242a-777668799c-qxhq7",
     "children" : [ {
+      "name" : "4324@testdeployment-tcfr242a-777668799c-qxhq7.TestNG-test=AutomationTests-2(14)",
+      "children" : [ {
+        "name" : "on_Desktop",
+        "uid" : "4020be8c6b1268eb",
+        "parentUid" : "20c11cdee27bca4a25c72b4b9ed9a375",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635345137437,
+          "stop" : 1635345171449,
+          "duration" : 34012
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Smartphone",
+        "uid" : "1407d39787e9b8e4",
+        "parentUid" : "20c11cdee27bca4a25c72b4b9ed9a375",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635345201358,
+          "stop" : 1635345233641,
+          "duration" : 32283
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Smartphone",
+        "uid" : "e6ab60d59787cf7e",
+        "parentUid" : "20c11cdee27bca4a25c72b4b9ed9a375",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635345104339,
+          "stop" : 1635345137241,
+          "duration" : 32902
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Smartphone",
+        "uid" : "2451e5ebd262281b",
+        "parentUid" : "20c11cdee27bca4a25c72b4b9ed9a375",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635345048532,
+          "stop" : 1635345085352,
+          "duration" : 36820
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Tablet",
+        "uid" : "eb3dae03b3aebb41",
+        "parentUid" : "20c11cdee27bca4a25c72b4b9ed9a375",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635345171544,
+          "stop" : 1635345201338,
+          "duration" : 29794
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Desktop",
+        "uid" : "2eb49af1bd83356f",
+        "parentUid" : "20c11cdee27bca4a25c72b4b9ed9a375",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635345233769,
+          "stop" : 1635345262134,
+          "duration" : 28365
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Tablet",
+        "uid" : "1cccd6e02b8fec34",
+        "parentUid" : "20c11cdee27bca4a25c72b4b9ed9a375",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635345085437,
+          "stop" : 1635345104054,
+          "duration" : 18617
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "20c11cdee27bca4a25c72b4b9ed9a375"
+    }, {
       "name" : "4324@testdeployment-tcfr242a-777668799c-qxhq7.TestNG-test=AutomationTests-3(15)",
       "children" : [ {
+        "name" : "on_Tablet",
+        "uid" : "902475b1a3ab0636",
+        "parentUid" : "e105b79023ce7a5d555bd55819d1e512",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635345086060,
+          "stop" : 1635345125542,
+          "duration" : 39482
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Desktop",
+        "uid" : "3a453a7fed5a1571",
+        "parentUid" : "e105b79023ce7a5d555bd55819d1e512",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635345125565,
+          "stop" : 1635345156846,
+          "duration" : 31281
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "getEnvironment_Ok",
+        "uid" : "113898bcaf673583",
+        "parentUid" : "e105b79023ce7a5d555bd55819d1e512",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635345251080,
+          "stop" : 1635345251932,
+          "duration" : 852
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Tablet",
+        "uid" : "a79f06366d60677d",
+        "parentUid" : "e105b79023ce7a5d555bd55819d1e512",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635345048540,
+          "stop" : 1635345086037,
+          "duration" : 37497
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
         "name" : "disposeWebDriverByWebElement_Ok",
-        "uid" : "5b847ce26f458c28",
+        "uid" : "a9ebfcc857356f4b",
         "parentUid" : "e105b79023ce7a5d555bd55819d1e512",
         "status" : "passed",
         "time" : {
@@ -19,72 +166,7 @@
         "parameters" : [ ]
       }, {
         "name" : "on_Tablet",
-        "uid" : "8c70d841b8199650",
-        "parentUid" : "e105b79023ce7a5d555bd55819d1e512",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635345086060,
-          "stop" : 1635345125542,
-          "duration" : 39482
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "on_Smartphone",
-        "uid" : "92ba6a9d2e7a7669",
-        "parentUid" : "e105b79023ce7a5d555bd55819d1e512",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635345191769,
-          "stop" : 1635345213933,
-          "duration" : 22164
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "on_Tablet",
-        "uid" : "4ec3e0e3fd38244f",
-        "parentUid" : "e105b79023ce7a5d555bd55819d1e512",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635345048540,
-          "stop" : 1635345086037,
-          "duration" : 37497
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "on_Smartphone",
-        "uid" : "1f3c428bc86569e8",
-        "parentUid" : "e105b79023ce7a5d555bd55819d1e512",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635345156946,
-          "stop" : 1635345191745,
-          "duration" : 34799
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "getSmartphoneWebDriverConfiguration_Ok",
-        "uid" : "5d44cab3f413c31c",
-        "parentUid" : "e105b79023ce7a5d555bd55819d1e512",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635345250962,
-          "stop" : 1635345251072,
-          "duration" : 110
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "on_Tablet",
-        "uid" : "78f27830a8d152a6",
+        "uid" : "7d782ef0d3fd8a17",
         "parentUid" : "e105b79023ce7a5d555bd55819d1e512",
         "status" : "passed",
         "time" : {
@@ -96,8 +178,21 @@
         "newFailed" : false,
         "parameters" : [ ]
       }, {
+        "name" : "getSmartphoneWebDriverConfiguration_Ok",
+        "uid" : "8529d8849a5f567b",
+        "parentUid" : "e105b79023ce7a5d555bd55819d1e512",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635345250962,
+          "stop" : 1635345251072,
+          "duration" : 110
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
         "name" : "getDesktopWebDriverConfiguration_Ok",
-        "uid" : "3596eac838d7cadb",
+        "uid" : "e3c033c383be7ed6",
         "parentUid" : "e105b79023ce7a5d555bd55819d1e512",
         "status" : "passed",
         "time" : {
@@ -109,8 +204,34 @@
         "newFailed" : false,
         "parameters" : [ ]
       }, {
+        "name" : "on_Smartphone",
+        "uid" : "ab59ac9c7f53f904",
+        "parentUid" : "e105b79023ce7a5d555bd55819d1e512",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635345191769,
+          "stop" : 1635345213933,
+          "duration" : 22164
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Smartphone",
+        "uid" : "ec9c73fb8a0d377f",
+        "parentUid" : "e105b79023ce7a5d555bd55819d1e512",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635345156946,
+          "stop" : 1635345191745,
+          "duration" : 34799
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
         "name" : "disposeWebDriver_Ok",
-        "uid" : "438c99bc7a1ddf58",
+        "uid" : "c9040f6b047e0f78",
         "parentUid" : "e105b79023ce7a5d555bd55819d1e512",
         "status" : "passed",
         "time" : {
@@ -121,52 +242,13 @@
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
-      }, {
-        "name" : "getEnvironment_Ok",
-        "uid" : "2635b7063e238c04",
-        "parentUid" : "e105b79023ce7a5d555bd55819d1e512",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635345251080,
-          "stop" : 1635345251932,
-          "duration" : 852
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "on_Desktop",
-        "uid" : "e99b42335adc8bea",
-        "parentUid" : "e105b79023ce7a5d555bd55819d1e512",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635345125565,
-          "stop" : 1635345156846,
-          "duration" : 31281
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
       } ],
       "uid" : "e105b79023ce7a5d555bd55819d1e512"
     }, {
       "name" : "4324@testdeployment-tcfr242a-777668799c-qxhq7.TestNG-test=AutomationTests-4(16)",
       "children" : [ {
         "name" : "on_Desktop",
-        "uid" : "7fafd31049190228",
-        "parentUid" : "cb6f703307365a8e4eba6b2398952ca4",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635345048534,
-          "stop" : 1635345085350,
-          "duration" : 36816
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "on_Desktop",
-        "uid" : "90f1aab4faf94ef2",
+        "uid" : "c3ab1f3b1185d0d4",
         "parentUid" : "cb6f703307365a8e4eba6b2398952ca4",
         "status" : "passed",
         "time" : {
@@ -178,47 +260,8 @@
         "newFailed" : false,
         "parameters" : [ ]
       }, {
-        "name" : "on_Tablet",
-        "uid" : "18bc130c208c1f51",
-        "parentUid" : "cb6f703307365a8e4eba6b2398952ca4",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635345246158,
-          "stop" : 1635345265704,
-          "duration" : 19546
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
         "name" : "on_Smartphone",
-        "uid" : "cc39e4da4792e9bb",
-        "parentUid" : "cb6f703307365a8e4eba6b2398952ca4",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635345125950,
-          "stop" : 1635345158236,
-          "duration" : 32286
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "on_Desktop",
-        "uid" : "4713feb9e339d513",
-        "parentUid" : "cb6f703307365a8e4eba6b2398952ca4",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635345188743,
-          "stop" : 1635345216635,
-          "duration" : 27892
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "on_Smartphone",
-        "uid" : "f097c779144eddfc",
+        "uid" : "dc8249ed8b6550f7",
         "parentUid" : "cb6f703307365a8e4eba6b2398952ca4",
         "status" : "passed",
         "time" : {
@@ -230,8 +273,60 @@
         "newFailed" : false,
         "parameters" : [ ]
       }, {
+        "name" : "on_Smartphone",
+        "uid" : "b5cba86d6b4aea09",
+        "parentUid" : "cb6f703307365a8e4eba6b2398952ca4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635345125950,
+          "stop" : 1635345158236,
+          "duration" : 32286
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
         "name" : "on_Tablet",
-        "uid" : "71fb7949b060bb4e",
+        "uid" : "e7a866da9411cbc",
+        "parentUid" : "cb6f703307365a8e4eba6b2398952ca4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635345246158,
+          "stop" : 1635345265704,
+          "duration" : 19546
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Desktop",
+        "uid" : "a62a42a20d9a7e8a",
+        "parentUid" : "cb6f703307365a8e4eba6b2398952ca4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635345188743,
+          "stop" : 1635345216635,
+          "duration" : 27892
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Desktop",
+        "uid" : "60fc6a2f77919f7b",
+        "parentUid" : "cb6f703307365a8e4eba6b2398952ca4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635345048534,
+          "stop" : 1635345085350,
+          "duration" : 36816
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Tablet",
+        "uid" : "5a119bcc5e09c2d1",
         "parentUid" : "cb6f703307365a8e4eba6b2398952ca4",
         "status" : "passed",
         "time" : {
@@ -247,21 +342,47 @@
     }, {
       "name" : "4324@testdeployment-tcfr242a-777668799c-qxhq7.TestNG-test=AutomationTests-1(13)",
       "children" : [ {
-        "name" : "on_Tablet",
-        "uid" : "d4faa28ce500b217",
+        "name" : "on_Desktop",
+        "uid" : "de3c1022b0014b72",
         "parentUid" : "b8d10175c988f06cdb7b0ad7c4e37c80",
         "status" : "passed",
         "time" : {
-          "start" : 1635345122435,
-          "stop" : 1635345162732,
-          "duration" : 40297
+          "start" : 1635345086438,
+          "stop" : 1635345122263,
+          "duration" : 35825
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Tablet",
+        "uid" : "a41ca8b560d876f9",
+        "parentUid" : "b8d10175c988f06cdb7b0ad7c4e37c80",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635345191766,
+          "stop" : 1635345214633,
+          "duration" : 22867
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "on_Smartphone",
-        "uid" : "7fcd80a243b53f85",
+        "uid" : "cd1d7b0689f93f2c",
+        "parentUid" : "b8d10175c988f06cdb7b0ad7c4e37c80",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635345162753,
+          "stop" : 1635345191762,
+          "duration" : 29009
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Smartphone",
+        "uid" : "e7fac79065cc5bf",
         "parentUid" : "b8d10175c988f06cdb7b0ad7c4e37c80",
         "status" : "passed",
         "time" : {
@@ -274,59 +395,7 @@
         "parameters" : [ ]
       }, {
         "name" : "on_Desktop",
-        "uid" : "2802989b2ad5bac6",
-        "parentUid" : "b8d10175c988f06cdb7b0ad7c4e37c80",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635345048542,
-          "stop" : 1635345086375,
-          "duration" : 37833
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "on_Tablet",
-        "uid" : "f41eb129d9fa432e",
-        "parentUid" : "b8d10175c988f06cdb7b0ad7c4e37c80",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635345191766,
-          "stop" : 1635345214633,
-          "duration" : 22867
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "on_Desktop",
-        "uid" : "395dc19f17fb4594",
-        "parentUid" : "b8d10175c988f06cdb7b0ad7c4e37c80",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635345086438,
-          "stop" : 1635345122263,
-          "duration" : 35825
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "on_Smartphone",
-        "uid" : "8e101dda8f54d46a",
-        "parentUid" : "b8d10175c988f06cdb7b0ad7c4e37c80",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635345162753,
-          "stop" : 1635345191762,
-          "duration" : 29009
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "on_Desktop",
-        "uid" : "a2ec71842b5f97ce",
+        "uid" : "f00dfd13a93fe905",
         "parentUid" : "b8d10175c988f06cdb7b0ad7c4e37c80",
         "status" : "passed",
         "time" : {
@@ -337,26 +406,182 @@
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
+      }, {
+        "name" : "on_Tablet",
+        "uid" : "2beb9f3000ef05d1",
+        "parentUid" : "b8d10175c988f06cdb7b0ad7c4e37c80",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635345122435,
+          "stop" : 1635345162732,
+          "duration" : 40297
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Desktop",
+        "uid" : "428137681842b571",
+        "parentUid" : "b8d10175c988f06cdb7b0ad7c4e37c80",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635345048542,
+          "stop" : 1635345086375,
+          "duration" : 37833
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
       } ],
       "uid" : "b8d10175c988f06cdb7b0ad7c4e37c80"
     }, {
       "name" : "4324@testdeployment-tcfr242a-777668799c-qxhq7.TestNG-test=AutomationTests-5(17)",
       "children" : [ {
-        "name" : "on_Desktop",
-        "uid" : "d40358561a00722a",
+        "name" : "getConfiguration_Ok",
+        "uid" : "bd8d9330640efe89",
         "parentUid" : "2c2a0388d967174f8d619c86ff655f18",
         "status" : "passed",
         "time" : {
-          "start" : 1635345192245,
-          "stop" : 1635345220234,
-          "duration" : 27989
+          "start" : 1635345251086,
+          "stop" : 1635345252057,
+          "duration" : 971
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Tablet",
+        "uid" : "b2ddcb8f55ce9243",
+        "parentUid" : "2c2a0388d967174f8d619c86ff655f18",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635345220372,
+          "stop" : 1635345249732,
+          "duration" : 29360
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "click_Ok",
+        "uid" : "f1d9f73639a5af5e",
+        "parentUid" : "2c2a0388d967174f8d619c86ff655f18",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635345250769,
+          "stop" : 1635345250771,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Smartphone",
+        "uid" : "c60954b3f01504f9",
+        "parentUid" : "2c2a0388d967174f8d619c86ff655f18",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635345085654,
+          "stop" : 1635345127048,
+          "duration" : 41394
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "getWebDriver_Ok",
+        "uid" : "b253cd01131180f7",
+        "parentUid" : "2c2a0388d967174f8d619c86ff655f18",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635345249740,
+          "stop" : 1635345250762,
+          "duration" : 1022
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "getWebDriverByWebElement_Ok",
+        "uid" : "46001a8713ea9735",
+        "parentUid" : "2c2a0388d967174f8d619c86ff655f18",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635345250838,
+          "stop" : 1635345250840,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Tablet",
+        "uid" : "5d310110d32f9874",
+        "parentUid" : "2c2a0388d967174f8d619c86ff655f18",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635345127063,
+          "stop" : 1635345159232,
+          "duration" : 32169
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "isDisplayed_Ok",
+        "uid" : "feb764dae3d68b51",
+        "parentUid" : "2c2a0388d967174f8d619c86ff655f18",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635345250849,
+          "stop" : 1635345250934,
+          "duration" : 85
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Desktop",
+        "uid" : "e551605b9c527858",
+        "parentUid" : "2c2a0388d967174f8d619c86ff655f18",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635345159248,
+          "stop" : 1635345192144,
+          "duration" : 32896
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "findElementByXpath_Ok",
+        "uid" : "2f6fb8a766bb2238",
+        "parentUid" : "2c2a0388d967174f8d619c86ff655f18",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635345250773,
+          "stop" : 1635345250834,
+          "duration" : 61
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Smartphone",
+        "uid" : "ce1369e0df144f62",
+        "parentUid" : "2c2a0388d967174f8d619c86ff655f18",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635345048541,
+          "stop" : 1635345085370,
+          "duration" : 36829
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "getTabletWebDriverConfiguration_Ok",
-        "uid" : "74972829d6b9d952",
+        "uid" : "ebfd19edc2d7dba4",
         "parentUid" : "2c2a0388d967174f8d619c86ff655f18",
         "status" : "passed",
         "time" : {
@@ -369,244 +594,19 @@
         "parameters" : [ ]
       }, {
         "name" : "on_Desktop",
-        "uid" : "7e20fb89fb7f98b3",
+        "uid" : "861c1806b144669a",
         "parentUid" : "2c2a0388d967174f8d619c86ff655f18",
         "status" : "passed",
         "time" : {
-          "start" : 1635345159248,
-          "stop" : 1635345192144,
-          "duration" : 32896
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "on_Smartphone",
-        "uid" : "59a79b15619b43bc",
-        "parentUid" : "2c2a0388d967174f8d619c86ff655f18",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635345048541,
-          "stop" : 1635345085370,
-          "duration" : 36829
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "on_Tablet",
-        "uid" : "8a6bcb571068c5e4",
-        "parentUid" : "2c2a0388d967174f8d619c86ff655f18",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635345220372,
-          "stop" : 1635345249732,
-          "duration" : 29360
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "on_Tablet",
-        "uid" : "9d604153b1a546c7",
-        "parentUid" : "2c2a0388d967174f8d619c86ff655f18",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635345127063,
-          "stop" : 1635345159232,
-          "duration" : 32169
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "click_Ok",
-        "uid" : "a4b1fbdb8d32bdcc",
-        "parentUid" : "2c2a0388d967174f8d619c86ff655f18",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635345250769,
-          "stop" : 1635345250771,
-          "duration" : 2
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "isDisplayed_Ok",
-        "uid" : "9bf32af4418f2240",
-        "parentUid" : "2c2a0388d967174f8d619c86ff655f18",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635345250849,
-          "stop" : 1635345250934,
-          "duration" : 85
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "getWebDriverByWebElement_Ok",
-        "uid" : "18c24905ff446aa0",
-        "parentUid" : "2c2a0388d967174f8d619c86ff655f18",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635345250838,
-          "stop" : 1635345250840,
-          "duration" : 2
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "getWebDriver_Ok",
-        "uid" : "a421c5c2cefba7e3",
-        "parentUid" : "2c2a0388d967174f8d619c86ff655f18",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635345249740,
-          "stop" : 1635345250762,
-          "duration" : 1022
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "getConfiguration_Ok",
-        "uid" : "c0e5a06fa753910d",
-        "parentUid" : "2c2a0388d967174f8d619c86ff655f18",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635345251086,
-          "stop" : 1635345252057,
-          "duration" : 971
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "on_Smartphone",
-        "uid" : "1b1a19b6f7514917",
-        "parentUid" : "2c2a0388d967174f8d619c86ff655f18",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635345085654,
-          "stop" : 1635345127048,
-          "duration" : 41394
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "findElementByXpath_Ok",
-        "uid" : "f4d97e96f721c3a2",
-        "parentUid" : "2c2a0388d967174f8d619c86ff655f18",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635345250773,
-          "stop" : 1635345250834,
-          "duration" : 61
+          "start" : 1635345192245,
+          "stop" : 1635345220234,
+          "duration" : 27989
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       } ],
       "uid" : "2c2a0388d967174f8d619c86ff655f18"
-    }, {
-      "name" : "4324@testdeployment-tcfr242a-777668799c-qxhq7.TestNG-test=AutomationTests-2(14)",
-      "children" : [ {
-        "name" : "on_Smartphone",
-        "uid" : "d30aa44eb7f9dc7f",
-        "parentUid" : "20c11cdee27bca4a25c72b4b9ed9a375",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635345201358,
-          "stop" : 1635345233641,
-          "duration" : 32283
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "on_Smartphone",
-        "uid" : "4023d4956ee7c040",
-        "parentUid" : "20c11cdee27bca4a25c72b4b9ed9a375",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635345048532,
-          "stop" : 1635345085352,
-          "duration" : 36820
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "on_Desktop",
-        "uid" : "d5945dc826bc200d",
-        "parentUid" : "20c11cdee27bca4a25c72b4b9ed9a375",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635345233769,
-          "stop" : 1635345262134,
-          "duration" : 28365
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "on_Smartphone",
-        "uid" : "4cfe3820cfeaf9e0",
-        "parentUid" : "20c11cdee27bca4a25c72b4b9ed9a375",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635345104339,
-          "stop" : 1635345137241,
-          "duration" : 32902
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "on_Tablet",
-        "uid" : "9fe202268f297128",
-        "parentUid" : "20c11cdee27bca4a25c72b4b9ed9a375",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635345085437,
-          "stop" : 1635345104054,
-          "duration" : 18617
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "on_Tablet",
-        "uid" : "fc807114c7de2c6d",
-        "parentUid" : "20c11cdee27bca4a25c72b4b9ed9a375",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635345171544,
-          "stop" : 1635345201338,
-          "duration" : 29794
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "on_Desktop",
-        "uid" : "fa50ca1d75a22d62",
-        "parentUid" : "20c11cdee27bca4a25c72b4b9ed9a375",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635345137437,
-          "stop" : 1635345171449,
-          "duration" : 34012
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "20c11cdee27bca4a25c72b4b9ed9a375"
     } ],
     "uid" : "b939663129e434884834ad698adf2b1b"
   }, {
@@ -614,164 +614,8 @@
     "children" : [ {
       "name" : "4323@testdeployment-pmgzfwgv-777668799c-fhstd.TestNG-test=AutomationTests-1(13)",
       "children" : [ {
-        "name" : "findElementByXpath_Ok",
-        "uid" : "4a0d8e434a1ed3bf",
-        "parentUid" : "8e3d36a43862db4dde1e265c29ce7c7d",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635344489812,
-          "stop" : 1635344489904,
-          "duration" : 92
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "getDesktopWebDriverConfiguration_Ok",
-        "uid" : "387a9614520f29e0",
-        "parentUid" : "8e3d36a43862db4dde1e265c29ce7c7d",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635344490096,
-          "stop" : 1635344490106,
-          "duration" : 10
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "on_Desktop",
-        "uid" : "2291f9b7b00ddf",
-        "parentUid" : "8e3d36a43862db4dde1e265c29ce7c7d",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635344282955,
-          "stop" : 1635344316066,
-          "duration" : 33111
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "on_Desktop",
-        "uid" : "665fc2e6f89d55da",
-        "parentUid" : "8e3d36a43862db4dde1e265c29ce7c7d",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635344316077,
-          "stop" : 1635344353828,
-          "duration" : 37751
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "on_Desktop",
-        "uid" : "ec1fb5730ea31378",
-        "parentUid" : "8e3d36a43862db4dde1e265c29ce7c7d",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635344392108,
-          "stop" : 1635344427966,
-          "duration" : 35858
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "disposeWebDriverByWebElement_Ok",
-        "uid" : "88d2a1f77734045f",
-        "parentUid" : "8e3d36a43862db4dde1e265c29ce7c7d",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635344489632,
-          "stop" : 1635344489686,
-          "duration" : 54
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "getWebDriver_Ok",
-        "uid" : "9b236c55e335dbcb",
-        "parentUid" : "8e3d36a43862db4dde1e265c29ce7c7d",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635344489498,
-          "stop" : 1635344489499,
-          "duration" : 1
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "on_Smartphone",
-        "uid" : "1505da9aae46e3be",
-        "parentUid" : "8e3d36a43862db4dde1e265c29ce7c7d",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635344452155,
-          "stop" : 1635344485107,
-          "duration" : 32952
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "disposeWebDriver_Ok",
-        "uid" : "23432206ed466a04",
-        "parentUid" : "8e3d36a43862db4dde1e265c29ce7c7d",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635344485186,
-          "stop" : 1635344489469,
-          "duration" : 4283
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "getConfiguration_Ok",
-        "uid" : "46240069dcd26674",
-        "parentUid" : "8e3d36a43862db4dde1e265c29ce7c7d",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635344490267,
-          "stop" : 1635344490902,
-          "duration" : 635
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "on_Tablet",
-        "uid" : "cd0349529cad2db6",
-        "parentUid" : "8e3d36a43862db4dde1e265c29ce7c7d",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635344428013,
-          "stop" : 1635344452134,
-          "duration" : 24121
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "getWebDriverByWebElement_Ok",
-        "uid" : "d9cd809cd153e422",
-        "parentUid" : "8e3d36a43862db4dde1e265c29ce7c7d",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635344489954,
-          "stop" : 1635344489956,
-          "duration" : 2
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
         "name" : "getSmartphoneWebDriverConfiguration_Ok",
-        "uid" : "b491dcf81e84c45",
+        "uid" : "60ba7ddf586177a4",
         "parentUid" : "8e3d36a43862db4dde1e265c29ce7c7d",
         "status" : "passed",
         "time" : {
@@ -783,21 +627,47 @@
         "newFailed" : false,
         "parameters" : [ ]
       }, {
-        "name" : "getEnvironment_Ok",
-        "uid" : "2ee1706ffe72defa",
+        "name" : "disposeWebDriverByWebElement_Ok",
+        "uid" : "ff6ba0743ea787fe",
         "parentUid" : "8e3d36a43862db4dde1e265c29ce7c7d",
         "status" : "passed",
         "time" : {
-          "start" : 1635344490911,
-          "stop" : 1635344491024,
-          "duration" : 113
+          "start" : 1635344489632,
+          "stop" : 1635344489686,
+          "duration" : 54
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "getConfiguration_Ok",
+        "uid" : "d5e45dc11c7b4618",
+        "parentUid" : "8e3d36a43862db4dde1e265c29ce7c7d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635344490267,
+          "stop" : 1635344490902,
+          "duration" : 635
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "findElementByXpath_Ok",
+        "uid" : "d5091e7ad663822f",
+        "parentUid" : "8e3d36a43862db4dde1e265c29ce7c7d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635344489812,
+          "stop" : 1635344489904,
+          "duration" : 92
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "isDisplayed_Ok",
-        "uid" : "c4c3f914ef2314d4",
+        "uid" : "fbef809d0010229d",
         "parentUid" : "8e3d36a43862db4dde1e265c29ce7c7d",
         "status" : "passed",
         "time" : {
@@ -809,8 +679,60 @@
         "newFailed" : false,
         "parameters" : [ ]
       }, {
+        "name" : "on_Smartphone",
+        "uid" : "796ea7a57818ae0",
+        "parentUid" : "8e3d36a43862db4dde1e265c29ce7c7d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635344452155,
+          "stop" : 1635344485107,
+          "duration" : 32952
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Desktop",
+        "uid" : "858670372e382150",
+        "parentUid" : "8e3d36a43862db4dde1e265c29ce7c7d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635344392108,
+          "stop" : 1635344427966,
+          "duration" : 35858
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "getDesktopWebDriverConfiguration_Ok",
+        "uid" : "3e86573c99683be2",
+        "parentUid" : "8e3d36a43862db4dde1e265c29ce7c7d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635344490096,
+          "stop" : 1635344490106,
+          "duration" : 10
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Tablet",
+        "uid" : "3e5ba4aeac73571e",
+        "parentUid" : "8e3d36a43862db4dde1e265c29ce7c7d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635344428013,
+          "stop" : 1635344452134,
+          "duration" : 24121
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
         "name" : "getTabletWebDriverConfiguration_Ok",
-        "uid" : "1a9c54b77274c9ba",
+        "uid" : "96ed2f63c711c944",
         "parentUid" : "8e3d36a43862db4dde1e265c29ce7c7d",
         "status" : "passed",
         "time" : {
@@ -823,7 +745,7 @@
         "parameters" : [ ]
       }, {
         "name" : "click_Ok",
-        "uid" : "7b8c46f87411bc52",
+        "uid" : "bae0e3e67b34e0f4",
         "parentUid" : "8e3d36a43862db4dde1e265c29ce7c7d",
         "status" : "passed",
         "time" : {
@@ -835,8 +757,86 @@
         "newFailed" : false,
         "parameters" : [ ]
       }, {
+        "name" : "getWebDriver_Ok",
+        "uid" : "6a96ad46d10e6cc5",
+        "parentUid" : "8e3d36a43862db4dde1e265c29ce7c7d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635344489498,
+          "stop" : 1635344489499,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "disposeWebDriver_Ok",
+        "uid" : "9229d6125424d5d3",
+        "parentUid" : "8e3d36a43862db4dde1e265c29ce7c7d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635344485186,
+          "stop" : 1635344489469,
+          "duration" : 4283
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Desktop",
+        "uid" : "e348bc05ee9e8921",
+        "parentUid" : "8e3d36a43862db4dde1e265c29ce7c7d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635344282955,
+          "stop" : 1635344316066,
+          "duration" : 33111
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Desktop",
+        "uid" : "cb79777531d82876",
+        "parentUid" : "8e3d36a43862db4dde1e265c29ce7c7d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635344316077,
+          "stop" : 1635344353828,
+          "duration" : 37751
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "getWebDriverByWebElement_Ok",
+        "uid" : "9aecce8b7ffb047b",
+        "parentUid" : "8e3d36a43862db4dde1e265c29ce7c7d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635344489954,
+          "stop" : 1635344489956,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "getEnvironment_Ok",
+        "uid" : "707202082df69b9c",
+        "parentUid" : "8e3d36a43862db4dde1e265c29ce7c7d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635344490911,
+          "stop" : 1635344491024,
+          "duration" : 113
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
         "name" : "on_Tablet",
-        "uid" : "9e26f9cf15c2e32a",
+        "uid" : "29d55cc492a3b50e",
         "parentUid" : "8e3d36a43862db4dde1e265c29ce7c7d",
         "status" : "passed",
         "time" : {
@@ -850,105 +850,23 @@
       } ],
       "uid" : "8e3d36a43862db4dde1e265c29ce7c7d"
     }, {
-      "name" : "4323@testdeployment-pmgzfwgv-777668799c-fhstd.TestNG-test=AutomationTests-3(15)",
-      "children" : [ {
-        "name" : "on_Tablet",
-        "uid" : "216d0fe1525df615",
-        "parentUid" : "0b380097620038c4f1de137c1e360620",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635344315429,
-          "stop" : 1635344336510,
-          "duration" : 21081
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "on_Tablet",
-        "uid" : "6f71a3ae90c5cbd1",
-        "parentUid" : "0b380097620038c4f1de137c1e360620",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635344282958,
-          "stop" : 1635344315408,
-          "duration" : 32450
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "on_Tablet",
-        "uid" : "7c5b807b587be037",
-        "parentUid" : "0b380097620038c4f1de137c1e360620",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635344442230,
-          "stop" : 1635344479284,
-          "duration" : 37054
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "on_Tablet",
-        "uid" : "ba6a631b67a08224",
-        "parentUid" : "0b380097620038c4f1de137c1e360620",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635344412910,
-          "stop" : 1635344442226,
-          "duration" : 29316
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "on_Smartphone",
-        "uid" : "7efb0b0771b53b0a",
-        "parentUid" : "0b380097620038c4f1de137c1e360620",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635344336620,
-          "stop" : 1635344373967,
-          "duration" : 37347
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "on_Desktop",
-        "uid" : "3d521dc9c3695c04",
-        "parentUid" : "0b380097620038c4f1de137c1e360620",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635344374022,
-          "stop" : 1635344412863,
-          "duration" : 38841
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "on_Tablet",
-        "uid" : "ee2a28184c0cffd3",
-        "parentUid" : "0b380097620038c4f1de137c1e360620",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635344479335,
-          "stop" : 1635344503956,
-          "duration" : 24621
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "0b380097620038c4f1de137c1e360620"
-    }, {
       "name" : "4323@testdeployment-pmgzfwgv-777668799c-fhstd.TestNG-test=AutomationTests-2(14)",
       "children" : [ {
         "name" : "on_Tablet",
-        "uid" : "53457fded462d178",
+        "uid" : "6993b263b649f0eb",
+        "parentUid" : "e4e67528ff1663e65bfd237e05f25960",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635344359530,
+          "stop" : 1635344398730,
+          "duration" : 39200
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Tablet",
+        "uid" : "5b141dacf03ebd7f",
         "parentUid" : "e4e67528ff1663e65bfd237e05f25960",
         "status" : "passed",
         "time" : {
@@ -960,34 +878,8 @@
         "newFailed" : false,
         "parameters" : [ ]
       }, {
-        "name" : "on_Tablet",
-        "uid" : "c7868d9c81b8a730",
-        "parentUid" : "e4e67528ff1663e65bfd237e05f25960",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635344464617,
-          "stop" : 1635344492278,
-          "duration" : 27661
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "on_Desktop",
-        "uid" : "40526995af3031c9",
-        "parentUid" : "e4e67528ff1663e65bfd237e05f25960",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635344433490,
-          "stop" : 1635344464562,
-          "duration" : 31072
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
         "name" : "on_Smartphone",
-        "uid" : "f0054e81dac740ab",
+        "uid" : "62d9baeb0e8a3bdd",
         "parentUid" : "e4e67528ff1663e65bfd237e05f25960",
         "status" : "passed",
         "time" : {
@@ -1000,20 +892,33 @@
         "parameters" : [ ]
       }, {
         "name" : "on_Tablet",
-        "uid" : "b483553546088f6",
+        "uid" : "42e0d1cef5dfe7a4",
         "parentUid" : "e4e67528ff1663e65bfd237e05f25960",
         "status" : "passed",
         "time" : {
-          "start" : 1635344359530,
-          "stop" : 1635344398730,
-          "duration" : 39200
+          "start" : 1635344464617,
+          "stop" : 1635344492278,
+          "duration" : 27661
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Desktop",
+        "uid" : "1ae73c688f30d4a5",
+        "parentUid" : "e4e67528ff1663e65bfd237e05f25960",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635344433490,
+          "stop" : 1635344464562,
+          "duration" : 31072
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "on_Smartphone",
-        "uid" : "b02cd64ab808da65",
+        "uid" : "92079bf7d3eaf2c2",
         "parentUid" : "e4e67528ff1663e65bfd237e05f25960",
         "status" : "passed",
         "time" : {
@@ -1029,21 +934,21 @@
     }, {
       "name" : "4323@testdeployment-pmgzfwgv-777668799c-fhstd.TestNG-test=AutomationTests-5(17)",
       "children" : [ {
-        "name" : "on_Desktop",
-        "uid" : "43ea4f512ef24b88",
+        "name" : "on_Smartphone",
+        "uid" : "f74f7ae20d84fbd3",
         "parentUid" : "57f60067955d94dbbfe2a7eed22f4d56",
         "status" : "passed",
         "time" : {
-          "start" : 1635344442458,
-          "stop" : 1635344470659,
-          "duration" : 28201
+          "start" : 1635344356500,
+          "stop" : 1635344390024,
+          "duration" : 33524
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "on_Desktop",
-        "uid" : "2b7f1390b5a6cad4",
+        "uid" : "3985c15435ead91b",
         "parentUid" : "57f60067955d94dbbfe2a7eed22f4d56",
         "status" : "passed",
         "time" : {
@@ -1055,8 +960,47 @@
         "newFailed" : false,
         "parameters" : [ ]
       }, {
+        "name" : "on_Desktop",
+        "uid" : "95835c228e370046",
+        "parentUid" : "57f60067955d94dbbfe2a7eed22f4d56",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635344442458,
+          "stop" : 1635344470659,
+          "duration" : 28201
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Smartphone",
+        "uid" : "14bd0a00d1609d46",
+        "parentUid" : "57f60067955d94dbbfe2a7eed22f4d56",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635344282959,
+          "stop" : 1635344321260,
+          "duration" : 38301
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Desktop",
+        "uid" : "adf89c0349e76279",
+        "parentUid" : "57f60067955d94dbbfe2a7eed22f4d56",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635344321382,
+          "stop" : 1635344356469,
+          "duration" : 35087
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
         "name" : "on_Tablet",
-        "uid" : "48ef2d09418cf896",
+        "uid" : "89d1a177e02be3fe",
         "parentUid" : "57f60067955d94dbbfe2a7eed22f4d56",
         "status" : "passed",
         "time" : {
@@ -1069,20 +1013,7 @@
         "parameters" : [ ]
       }, {
         "name" : "on_Smartphone",
-        "uid" : "37bfb4d31f827846",
-        "parentUid" : "57f60067955d94dbbfe2a7eed22f4d56",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635344282959,
-          "stop" : 1635344321260,
-          "duration" : 38301
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "on_Smartphone",
-        "uid" : "2ab2cb7f028097a6",
+        "uid" : "feaa86096c936b81",
         "parentUid" : "57f60067955d94dbbfe2a7eed22f4d56",
         "status" : "passed",
         "time" : {
@@ -1093,52 +1024,108 @@
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
-      }, {
-        "name" : "on_Desktop",
-        "uid" : "856d68d8da1c08d8",
-        "parentUid" : "57f60067955d94dbbfe2a7eed22f4d56",
+      } ],
+      "uid" : "57f60067955d94dbbfe2a7eed22f4d56"
+    }, {
+      "name" : "4323@testdeployment-pmgzfwgv-777668799c-fhstd.TestNG-test=AutomationTests-3(15)",
+      "children" : [ {
+        "name" : "on_Tablet",
+        "uid" : "95ff70df63bf359a",
+        "parentUid" : "0b380097620038c4f1de137c1e360620",
         "status" : "passed",
         "time" : {
-          "start" : 1635344321382,
-          "stop" : 1635344356469,
-          "duration" : 35087
+          "start" : 1635344282958,
+          "stop" : 1635344315408,
+          "duration" : 32450
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Tablet",
+        "uid" : "d2ac422a1f9f0b0b",
+        "parentUid" : "0b380097620038c4f1de137c1e360620",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635344479335,
+          "stop" : 1635344503956,
+          "duration" : 24621
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Tablet",
+        "uid" : "d08612134b857ad5",
+        "parentUid" : "0b380097620038c4f1de137c1e360620",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635344412910,
+          "stop" : 1635344442226,
+          "duration" : 29316
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Tablet",
+        "uid" : "b086b2c4bb4f7667",
+        "parentUid" : "0b380097620038c4f1de137c1e360620",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635344442230,
+          "stop" : 1635344479284,
+          "duration" : 37054
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Desktop",
+        "uid" : "995d88caa17e4ffd",
+        "parentUid" : "0b380097620038c4f1de137c1e360620",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635344374022,
+          "stop" : 1635344412863,
+          "duration" : 38841
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Tablet",
+        "uid" : "a3b64ebbcb26b754",
+        "parentUid" : "0b380097620038c4f1de137c1e360620",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635344315429,
+          "stop" : 1635344336510,
+          "duration" : 21081
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "on_Smartphone",
-        "uid" : "e30e3ba8755e2f4e",
-        "parentUid" : "57f60067955d94dbbfe2a7eed22f4d56",
+        "uid" : "8ed7c182de1216ff",
+        "parentUid" : "0b380097620038c4f1de137c1e360620",
         "status" : "passed",
         "time" : {
-          "start" : 1635344356500,
-          "stop" : 1635344390024,
-          "duration" : 33524
+          "start" : 1635344336620,
+          "stop" : 1635344373967,
+          "duration" : 37347
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "57f60067955d94dbbfe2a7eed22f4d56"
+      "uid" : "0b380097620038c4f1de137c1e360620"
     }, {
       "name" : "4323@testdeployment-pmgzfwgv-777668799c-fhstd.TestNG-test=AutomationTests-4(16)",
       "children" : [ {
-        "name" : "on_Desktop",
-        "uid" : "5175401f8d62d834",
-        "parentUid" : "ee68bf4c8f32da87d6bbd1ad31710810",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635344356012,
-          "stop" : 1635344386022,
-          "duration" : 30010
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
         "name" : "on_Smartphone",
-        "uid" : "62f07a695d348736",
+        "uid" : "20011bbfab0746ab",
         "parentUid" : "ee68bf4c8f32da87d6bbd1ad31710810",
         "status" : "passed",
         "time" : {
@@ -1151,33 +1138,7 @@
         "parameters" : [ ]
       }, {
         "name" : "on_Smartphone",
-        "uid" : "9ebf42d0d24d2a4a",
-        "parentUid" : "ee68bf4c8f32da87d6bbd1ad31710810",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635344386043,
-          "stop" : 1635344414582,
-          "duration" : 28539
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "on_Smartphone",
-        "uid" : "6d8c21c53f16cffa",
-        "parentUid" : "ee68bf4c8f32da87d6bbd1ad31710810",
-        "status" : "passed",
-        "time" : {
-          "start" : 1635344317584,
-          "stop" : 1635344355973,
-          "duration" : 38389
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "on_Smartphone",
-        "uid" : "db3666c586f4c315",
+        "uid" : "dec2cb8c6be3f587",
         "parentUid" : "ee68bf4c8f32da87d6bbd1ad31710810",
         "status" : "passed",
         "time" : {
@@ -1190,7 +1151,7 @@
         "parameters" : [ ]
       }, {
         "name" : "on_Desktop",
-        "uid" : "a2bdf8f0bce1e789",
+        "uid" : "beafa916d5e7d446",
         "parentUid" : "ee68bf4c8f32da87d6bbd1ad31710810",
         "status" : "passed",
         "time" : {
@@ -1202,8 +1163,47 @@
         "newFailed" : false,
         "parameters" : [ ]
       }, {
+        "name" : "on_Smartphone",
+        "uid" : "899febcbcf4cf685",
+        "parentUid" : "ee68bf4c8f32da87d6bbd1ad31710810",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635344386043,
+          "stop" : 1635344414582,
+          "duration" : 28539
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
         "name" : "on_Desktop",
-        "uid" : "203b08353cb79fb4",
+        "uid" : "825a400e8e45ed90",
+        "parentUid" : "ee68bf4c8f32da87d6bbd1ad31710810",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635344356012,
+          "stop" : 1635344386022,
+          "duration" : 30010
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Smartphone",
+        "uid" : "c1937a4e51be4da8",
+        "parentUid" : "ee68bf4c8f32da87d6bbd1ad31710810",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635344317584,
+          "stop" : 1635344355973,
+          "duration" : 38389
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Desktop",
+        "uid" : "b39e36e2b4e1b9e8",
         "parentUid" : "ee68bf4c8f32da87d6bbd1ad31710810",
         "status" : "passed",
         "time" : {
@@ -1218,6 +1218,615 @@
       "uid" : "ee68bf4c8f32da87d6bbd1ad31710810"
     } ],
     "uid" : "19ae4be62c39755c2301e8df171d2151"
+  }, {
+    "name" : "testdeployment-ftkqc4ni-868b7d9cf9-bpzh5",
+    "children" : [ {
+      "name" : "4329@testdeployment-ftkqc4ni-868b7d9cf9-bpzh5.TestNG-test=AutomationTests-3(15)",
+      "children" : [ {
+        "name" : "on_Smartphone",
+        "uid" : "b00159ad108cd4de",
+        "parentUid" : "cd5500ea83f3a895faa9523c133f891c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635346036142,
+          "stop" : 1635346085646,
+          "duration" : 49504
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "getDesktopWebDriverConfiguration_Ok",
+        "uid" : "63ec2f9217f06259",
+        "parentUid" : "cd5500ea83f3a895faa9523c133f891c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635346272778,
+          "stop" : 1635346272780,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Smartphone",
+        "uid" : "a730cfd06b22b6b9",
+        "parentUid" : "cd5500ea83f3a895faa9523c133f891c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635346132854,
+          "stop" : 1635346171455,
+          "duration" : 38601
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "getWebDriverByWebElement_Ok",
+        "uid" : "8d44644ea3083670",
+        "parentUid" : "cd5500ea83f3a895faa9523c133f891c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635346272649,
+          "stop" : 1635346272658,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "getTabletWebDriverConfiguration_Ok",
+        "uid" : "dddd169f47db52df",
+        "parentUid" : "cd5500ea83f3a895faa9523c133f891c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635346273450,
+          "stop" : 1635346273468,
+          "duration" : 18
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "getConfiguration_Ok",
+        "uid" : "af11a7141a0b162c",
+        "parentUid" : "cd5500ea83f3a895faa9523c133f891c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635346273578,
+          "stop" : 1635346274982,
+          "duration" : 1404
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "disposeWebDriverByWebElement_Ok",
+        "uid" : "79e7c8b95d638514",
+        "parentUid" : "cd5500ea83f3a895faa9523c133f891c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635346272364,
+          "stop" : 1635346272540,
+          "duration" : 176
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "getWebDriver_Ok",
+        "uid" : "b13a84b7baf6534c",
+        "parentUid" : "cd5500ea83f3a895faa9523c133f891c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635346265589,
+          "stop" : 1635346272072,
+          "duration" : 6483
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Tablet",
+        "uid" : "4df14bca72ce5bf5",
+        "parentUid" : "cd5500ea83f3a895faa9523c133f891c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635346219582,
+          "stop" : 1635346265543,
+          "duration" : 45961
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Tablet",
+        "uid" : "38d09738d9c00f22",
+        "parentUid" : "cd5500ea83f3a895faa9523c133f891c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635346085669,
+          "stop" : 1635346132845,
+          "duration" : 47176
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Tablet",
+        "uid" : "bd31e25b23076bd0",
+        "parentUid" : "cd5500ea83f3a895faa9523c133f891c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635345996731,
+          "stop" : 1635346036075,
+          "duration" : 39344
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Desktop",
+        "uid" : "a71e63087ca12258",
+        "parentUid" : "cd5500ea83f3a895faa9523c133f891c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635346171598,
+          "stop" : 1635346219576,
+          "duration" : 47978
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cd5500ea83f3a895faa9523c133f891c"
+    }, {
+      "name" : "4329@testdeployment-ftkqc4ni-868b7d9cf9-bpzh5.TestNG-test=AutomationTests-2(14)",
+      "children" : [ {
+        "name" : "on_Desktop",
+        "uid" : "1b8d50355a94b954",
+        "parentUid" : "651f8972c93df870b23fedccfdfe4b7a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635346036169,
+          "stop" : 1635346071791,
+          "duration" : 35622
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Desktop",
+        "uid" : "2908b4693413c8d4",
+        "parentUid" : "651f8972c93df870b23fedccfdfe4b7a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635346149690,
+          "stop" : 1635346182545,
+          "duration" : 32855
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Smartphone",
+        "uid" : "65920767021e3e5",
+        "parentUid" : "651f8972c93df870b23fedccfdfe4b7a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635345996723,
+          "stop" : 1635346036040,
+          "duration" : 39317
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Smartphone",
+        "uid" : "3a7bb69365a2f061",
+        "parentUid" : "651f8972c93df870b23fedccfdfe4b7a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635346109245,
+          "stop" : 1635346149643,
+          "duration" : 40398
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Desktop",
+        "uid" : "514dcf0febd384f2",
+        "parentUid" : "651f8972c93df870b23fedccfdfe4b7a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635346226472,
+          "stop" : 1635346276166,
+          "duration" : 49694
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Smartphone",
+        "uid" : "5d0cfa5a647d51ac",
+        "parentUid" : "651f8972c93df870b23fedccfdfe4b7a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635346182554,
+          "stop" : 1635346226343,
+          "duration" : 43789
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Tablet",
+        "uid" : "8e1e0bb29751e45b",
+        "parentUid" : "651f8972c93df870b23fedccfdfe4b7a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635346071948,
+          "stop" : 1635346109143,
+          "duration" : 37195
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "651f8972c93df870b23fedccfdfe4b7a"
+    }, {
+      "name" : "4329@testdeployment-ftkqc4ni-868b7d9cf9-bpzh5.TestNG-test=AutomationTests-1(13)",
+      "children" : [ {
+        "name" : "getSmartphoneWebDriverConfiguration_Ok",
+        "uid" : "5e14f0e7f90f3fd3",
+        "parentUid" : "0f9690fd8c4c9150952ffa988f65c439",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635346273249,
+          "stop" : 1635346273372,
+          "duration" : 123
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Tablet",
+        "uid" : "cfad682b084c2b8f",
+        "parentUid" : "0f9690fd8c4c9150952ffa988f65c439",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635346038355,
+          "stop" : 1635346081268,
+          "duration" : 42913
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Desktop",
+        "uid" : "9757a237bee338dc",
+        "parentUid" : "0f9690fd8c4c9150952ffa988f65c439",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635345996727,
+          "stop" : 1635346038261,
+          "duration" : 41534
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Tablet",
+        "uid" : "f99e8ecf86276ba9",
+        "parentUid" : "0f9690fd8c4c9150952ffa988f65c439",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635346170102,
+          "stop" : 1635346209567,
+          "duration" : 39465
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "getEnvironment_Ok",
+        "uid" : "616cbbc0c9b72531",
+        "parentUid" : "0f9690fd8c4c9150952ffa988f65c439",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635346273591,
+          "stop" : 1635346274760,
+          "duration" : 1169
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "disposeWebDriver_Ok",
+        "uid" : "2b2f4b9376ec07b8",
+        "parentUid" : "0f9690fd8c4c9150952ffa988f65c439",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635346255202,
+          "stop" : 1635346272058,
+          "duration" : 16856
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "findElementByXpath_Ok",
+        "uid" : "84753613cb544d66",
+        "parentUid" : "0f9690fd8c4c9150952ffa988f65c439",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635346272556,
+          "stop" : 1635346272648,
+          "duration" : 92
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Desktop",
+        "uid" : "fe3eeb13ae5912ec",
+        "parentUid" : "0f9690fd8c4c9150952ffa988f65c439",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635346128670,
+          "stop" : 1635346169877,
+          "duration" : 41207
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "click_Ok",
+        "uid" : "f74cb860629cfcbe",
+        "parentUid" : "0f9690fd8c4c9150952ffa988f65c439",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635346272262,
+          "stop" : 1635346272377,
+          "duration" : 115
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "isDisplayed_Ok",
+        "uid" : "c1491a9735f48a80",
+        "parentUid" : "0f9690fd8c4c9150952ffa988f65c439",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635346272756,
+          "stop" : 1635346272777,
+          "duration" : 21
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Desktop",
+        "uid" : "4cc665e23ada913f",
+        "parentUid" : "0f9690fd8c4c9150952ffa988f65c439",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635346081553,
+          "stop" : 1635346128542,
+          "duration" : 46989
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Smartphone",
+        "uid" : "6007916863df9ead",
+        "parentUid" : "0f9690fd8c4c9150952ffa988f65c439",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635346209663,
+          "stop" : 1635346255141,
+          "duration" : 45478
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0f9690fd8c4c9150952ffa988f65c439"
+    }, {
+      "name" : "4329@testdeployment-ftkqc4ni-868b7d9cf9-bpzh5.TestNG-test=AutomationTests-5(17)",
+      "children" : [ {
+        "name" : "on_Tablet",
+        "uid" : "7eb1de3a73f84efd",
+        "parentUid" : "6f3bf1a20521998c730101567a0fd846",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635346139588,
+          "stop" : 1635346184042,
+          "duration" : 44454
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Smartphone",
+        "uid" : "6d26b2eddd12ceb7",
+        "parentUid" : "6f3bf1a20521998c730101567a0fd846",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635346231205,
+          "stop" : 1635346274876,
+          "duration" : 43671
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Smartphone",
+        "uid" : "52b8261591b03397",
+        "parentUid" : "6f3bf1a20521998c730101567a0fd846",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635346060247,
+          "stop" : 1635346101543,
+          "duration" : 41296
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Tablet",
+        "uid" : "fc79d430f7c91e50",
+        "parentUid" : "6f3bf1a20521998c730101567a0fd846",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635346036169,
+          "stop" : 1635346060144,
+          "duration" : 23975
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Smartphone",
+        "uid" : "45fa7948fa6eb701",
+        "parentUid" : "6f3bf1a20521998c730101567a0fd846",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635345996730,
+          "stop" : 1635346036044,
+          "duration" : 39314
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Tablet",
+        "uid" : "56e7d99325be9df6",
+        "parentUid" : "6f3bf1a20521998c730101567a0fd846",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635346184148,
+          "stop" : 1635346230969,
+          "duration" : 46821
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Desktop",
+        "uid" : "127de4488173524",
+        "parentUid" : "6f3bf1a20521998c730101567a0fd846",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635346101596,
+          "stop" : 1635346139361,
+          "duration" : 37765
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6f3bf1a20521998c730101567a0fd846"
+    }, {
+      "name" : "4329@testdeployment-ftkqc4ni-868b7d9cf9-bpzh5.TestNG-test=AutomationTests-4(16)",
+      "children" : [ {
+        "name" : "on_Desktop",
+        "uid" : "704115bc91fb1211",
+        "parentUid" : "a99611ecd9465cba58b19402947980c9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635346042082,
+          "stop" : 1635346084310,
+          "duration" : 42228
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Tablet",
+        "uid" : "878ae7af3fe7e4e3",
+        "parentUid" : "a99611ecd9465cba58b19402947980c9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635346251182,
+          "stop" : 1635346280846,
+          "duration" : 29664
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Desktop",
+        "uid" : "87c289a4a299e79e",
+        "parentUid" : "a99611ecd9465cba58b19402947980c9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635345996723,
+          "stop" : 1635346041975,
+          "duration" : 45252
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Smartphone",
+        "uid" : "f1ba8251be4afba7",
+        "parentUid" : "a99611ecd9465cba58b19402947980c9",
+        "status" : "failed",
+        "time" : {
+          "start" : 1635346084371,
+          "stop" : 1635346122477,
+          "duration" : 38106
+        },
+        "flaky" : false,
+        "newFailed" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Smartphone",
+        "uid" : "37be5432a2f7b43a",
+        "parentUid" : "a99611ecd9465cba58b19402947980c9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635346168154,
+          "stop" : 1635346204449,
+          "duration" : 36295
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Tablet",
+        "uid" : "d464470e2aed80c8",
+        "parentUid" : "a99611ecd9465cba58b19402947980c9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635346122749,
+          "stop" : 1635346168145,
+          "duration" : 45396
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "on_Desktop",
+        "uid" : "9a8b9b4d74dfc311",
+        "parentUid" : "a99611ecd9465cba58b19402947980c9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635346204551,
+          "stop" : 1635346251054,
+          "duration" : 46503
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a99611ecd9465cba58b19402947980c9"
+    } ],
+    "uid" : "ad9267a4db58dbe4a1de50ca870406cb"
   } ],
   "name" : "timeline"
 }

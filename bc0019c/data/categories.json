@@ -1,5 +1,26 @@
 {
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
-  "children" : [ ],
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: expected [true] but found [false]",
+      "children" : [ {
+        "name" : "on_Smartphone",
+        "uid" : "f1ba8251be4afba7",
+        "parentUid" : "dd4e5496f22cca2b5bdff226b930a607",
+        "status" : "failed",
+        "time" : {
+          "start" : 1635346084371,
+          "stop" : 1635346122477,
+          "duration" : 38106
+        },
+        "flaky" : false,
+        "newFailed" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "dd4e5496f22cca2b5bdff226b930a607"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ],
   "name" : "categories"
 }
