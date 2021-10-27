@@ -1,0 +1,97 @@
+{
+  "uid" : "cc39e4da4792e9bb",
+  "name" : "on_Smartphone",
+  "fullName" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_ParticipateSectionAppearsTest.on_Smartphone",
+  "historyId" : "3664bcf8b966f7ac6336d0705a3e0a57",
+  "time" : {
+    "start" : 1635345125950,
+    "stop" : 1635345158236,
+    "duration" : 32286
+  },
+  "description" : "Como visitante no registrado cuando accedo a una promoción no iniciada entonces aparece la sección 'Cómo participar/Iniciar sesión'",
+  "descriptionHtml" : "<p>Como visitante no registrado cuando accedo a una promoción no iniciada entonces aparece la sección 'Cómo participar/Iniciar sesión'</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "testdeployment-tcfr242a-777668799c-qxhq7"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_ParticipateSectionAppearsTest"
+  }, {
+    "name" : "testGroup",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "on_Smartphone"
+  }, {
+    "name" : "testSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "thread",
+    "value" : "4324@testdeployment-tcfr242a-777668799c-qxhq7.TestNG-test=AutomationTests-4(16)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_ParticipateSectionAppearsTest"
+  }, {
+    "name" : "package",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_ParticipateSectionAppearsTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e30e3ba8755e2f4e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635344356500,
+        "stop" : 1635344390024,
+        "duration" : 33524
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "b899d50fdec98840",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635344356500,
+          "stop" : 1635344390024,
+          "duration" : 33524
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "cc39e4da4792e9bb.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,97 @@
+{
+  "uid" : "a2ec71842b5f97ce",
+  "name" : "on_Desktop",
+  "fullName" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_AgeRestrictionAppearsTest.on_Desktop",
+  "historyId" : "c46012849dc7db34cb8f10cd6d36f163",
+  "time" : {
+    "start" : 1635345214678,
+    "stop" : 1635345242053,
+    "duration" : 27375
+  },
+  "description" : "Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece la restricción de edad",
+  "descriptionHtml" : "<p>Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece la restricción de edad</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "testdeployment-tcfr242a-777668799c-qxhq7"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_AgeRestrictionAppearsTest"
+  }, {
+    "name" : "testGroup",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "on_Desktop"
+  }, {
+    "name" : "testSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "thread",
+    "value" : "4324@testdeployment-tcfr242a-777668799c-qxhq7.TestNG-test=AutomationTests-1(13)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_AgeRestrictionAppearsTest"
+  }, {
+    "name" : "package",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_AgeRestrictionAppearsTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "43ea4f512ef24b88",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635344442458,
+        "stop" : 1635344470659,
+        "duration" : 28201
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "32a57ce7f250f1ac",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635344442458,
+          "stop" : 1635344470659,
+          "duration" : 28201
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "a2ec71842b5f97ce.json",
+  "parameterValues" : [ ]
+}
