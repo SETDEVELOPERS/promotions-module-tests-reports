@@ -1,0 +1,179 @@
+{
+  "uid" : "29dc5ee0f3c020c4",
+  "name" : "on_Smartphone",
+  "fullName" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_ParticipateSectionAppearsTest.on_Smartphone",
+  "historyId" : "3664bcf8b966f7ac6336d0705a3e0a57",
+  "time" : {
+    "start" : 1636533501268,
+    "stop" : 1636533535299,
+    "duration" : 34031
+  },
+  "description" : "Como visitante no registrado cuando accedo a una promoción no iniciada entonces aparece la sección 'Cómo participar/Iniciar sesión'",
+  "descriptionHtml" : "<p>Como visitante no registrado cuando accedo a una promoción no iniciada entonces aparece la sección 'Cómo participar/Iniciar sesión'</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "testdeployment-430r4eaw-6dbff4f8cf-x8nw5"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_ParticipateSectionAppearsTest"
+  }, {
+    "name" : "testGroup",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "on_Smartphone"
+  }, {
+    "name" : "testSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "thread",
+    "value" : "4324@testdeployment-430r4eaw-6dbff4f8cf-x8nw5.TestNG-test=AutomationTests-5(17)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_ParticipateSectionAppearsTest"
+  }, {
+    "name" : "package",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_ParticipateSectionAppearsTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "95b6a09ece3ff4fe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635350599867,
+        "stop" : 1635350631356,
+        "duration" : 31489
+      }
+    }, {
+      "uid" : "16647eb4588d1687",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635347484677,
+        "stop" : 1635347537865,
+        "duration" : 53188
+      }
+    }, {
+      "uid" : "fca84768028d47de",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635346757162,
+        "stop" : 1635346786206,
+        "duration" : 29044
+      }
+    }, {
+      "uid" : "a589ab3523738d04",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: expected [true] but found [false]",
+      "time" : {
+        "start" : 1635346084371,
+        "stop" : 1635346122477,
+        "duration" : 38106
+      }
+    }, {
+      "uid" : "87e94b55152b69b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635345125950,
+        "stop" : 1635345158236,
+        "duration" : 32286
+      }
+    }, {
+      "uid" : "8d5be75f5427801a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635344356500,
+        "stop" : 1635344390024,
+        "duration" : 33524
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 1,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 6,
+        "unknown" : 0,
+        "total" : 7
+      },
+      "items" : [ {
+        "uid" : "20f9802e980153bd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635350599867,
+          "stop" : 1635350631356,
+          "duration" : 31489
+        }
+      }, {
+        "uid" : "2c62ba3c4d262c4e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635347484677,
+          "stop" : 1635347537865,
+          "duration" : 53188
+        }
+      }, {
+        "uid" : "99c6441f3051353b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635346757162,
+          "stop" : 1635346786206,
+          "duration" : 29044
+        }
+      }, {
+        "uid" : "f1ba8251be4afba7",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: expected [true] but found [false]",
+        "time" : {
+          "start" : 1635346084371,
+          "stop" : 1635346122477,
+          "duration" : 38106
+        }
+      }, {
+        "uid" : "cc39e4da4792e9bb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635345125950,
+          "stop" : 1635345158236,
+          "duration" : 32286
+        }
+      }, {
+        "uid" : "b899d50fdec98840",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635344356500,
+          "stop" : 1635344390024,
+          "duration" : 33524
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "29dc5ee0f3c020c4.json",
+  "parameterValues" : [ ]
+}

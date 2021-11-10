@@ -1,0 +1,97 @@
+{
+  "uid" : "f0e25a2791922c40",
+  "name" : "on_Desktop",
+  "fullName" : "PromotionsModule.Given_NotRegisteredUser.When_FinishedPromotion.Then_PromotionInstructionsAppearsTest.on_Desktop",
+  "historyId" : "908040165151145de2fdf4dec1c86b0c",
+  "time" : {
+    "start" : 1636533319124,
+    "stop" : 1636533354735,
+    "duration" : 35611
+  },
+  "description" : "Como visitante no registrado cuando accedo a una promoción finalizada entonces aparece las instrucciones de la promoción",
+  "descriptionHtml" : "<p>Como visitante no registrado cuando accedo a una promoción finalizada entonces aparece las instrucciones de la promoción</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "testdeployment-430r4eaw-6dbff4f8cf-x8nw5"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_FinishedPromotion.Then_PromotionInstructionsAppearsTest"
+  }, {
+    "name" : "testGroup",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "on_Desktop"
+  }, {
+    "name" : "testSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "thread",
+    "value" : "4324@testdeployment-430r4eaw-6dbff4f8cf-x8nw5.TestNG-test=AutomationTests-4(16)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_FinishedPromotion.Then_PromotionInstructionsAppearsTest"
+  }, {
+    "name" : "package",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_FinishedPromotion.Then_PromotionInstructionsAppearsTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "55b8a031f934b8d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635350443709,
+        "stop" : 1635350477358,
+        "duration" : 33649
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "baad72b7877ae5a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635350443709,
+          "stop" : 1635350477358,
+          "duration" : 33649
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "f0e25a2791922c40.json",
+  "parameterValues" : [ ]
+}
