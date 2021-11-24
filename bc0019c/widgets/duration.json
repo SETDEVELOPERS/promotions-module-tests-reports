@@ -1,145 +1,1215 @@
 [ {
-  "uid" : "dd7c24345b29785f",
-  "name" : "on_Desktop",
+  "uid" : "4f0c0fd59af0d8f6",
+  "name" : "on_Tablet",
   "time" : {
-    "start" : 1636533420395,
-    "stop" : 1636533444141,
-    "duration" : 23746
+    "start" : 1637765821665,
+    "stop" : 1637765823212,
+    "duration" : 1547
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "7e540e871d7fb8cd",
-  "name" : "on_Desktop",
+  "uid" : "e79a51458b71577",
+  "name" : "disposeWebDriverByWebElement_Ok",
   "time" : {
-    "start" : 1636533619980,
-    "stop" : 1636533639634,
-    "duration" : 19654
+    "start" : 1637770204762,
+    "stop" : 1637770204764,
+    "duration" : 2
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "b92aca790b0e9ff1",
+  "uid" : "c7b9349750960fd",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637765888096,
+    "stop" : 1637765892125,
+    "duration" : 4029
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "efe461825938c2f3",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637765812738,
+    "stop" : 1637765814191,
+    "duration" : 1453
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aeb6eb8f8e3ae7bc",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637765755010,
+    "stop" : 1637765756541,
+    "duration" : 1531
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "80a35a89495721f5",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637770174445,
+    "stop" : 1637770180817,
+    "duration" : 6372
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c837cbb0e1ebe622",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637767282388,
+    "stop" : 1637767290513,
+    "duration" : 8125
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8acd7282233c339c",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637770196513,
+    "stop" : 1637770203620,
+    "duration" : 7107
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "32033ba470b72560",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637765743235,
+    "stop" : 1637765744713,
+    "duration" : 1478
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "792764f1249831e5",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637770189023,
+    "stop" : 1637770196509,
+    "duration" : 7486
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8201e0a95d63de90",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637765879926,
+    "stop" : 1637765884117,
+    "duration" : 4191
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ded0305d96945f27",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637767275026,
+    "stop" : 1637767282319,
+    "duration" : 7293
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4883ab74401b664a",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637768849769,
+    "stop" : 1637768857303,
+    "duration" : 7534
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a4d33c7a08995c25",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637765756552,
+    "stop" : 1637765757820,
+    "duration" : 1268
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bee191a228ea5af",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637765960120,
+    "stop" : 1637765964791,
+    "duration" : 4671
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fcfb844c923d56f7",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637765892133,
+    "stop" : 1637765896467,
+    "duration" : 4334
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d8e93cc91df9a8f6",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637767328502,
+    "stop" : 1637767346164,
+    "duration" : 17662
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c023ec4bf212fd1b",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637766009907,
+    "stop" : 1637766017707,
+    "duration" : 7800
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ccfd0c041d9dec46",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637765722025,
+    "stop" : 1637765723460,
+    "duration" : 1435
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4b4df59ee2d86b27",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637768871807,
+    "stop" : 1637768880689,
+    "duration" : 8882
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d409e14170b4fe96",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637770160769,
+    "stop" : 1637770167338,
+    "duration" : 6569
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cda6222b121e23bb",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637768728557,
+    "stop" : 1637768737607,
+    "duration" : 9050
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9166a0b9b25b90a7",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637765748312,
+    "stop" : 1637765749939,
+    "duration" : 1627
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "12a34b1abbdebf0e",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637769026889,
+    "stop" : 1637769048712,
+    "duration" : 21823
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4df4d67c2fe51668",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637768753504,
+    "stop" : 1637768761118,
+    "duration" : 7614
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9d40cfa3d6abf81d",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637765790217,
+    "stop" : 1637765791627,
+    "duration" : 1410
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3aaba01f49cb8ae5",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637766025491,
+    "stop" : 1637766032619,
+    "duration" : 7128
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "31e526d66f42bff3",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637768761123,
+    "stop" : 1637768768178,
+    "duration" : 7055
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "190086f776318e4",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637766601442,
+    "stop" : 1637766943912,
+    "duration" : 342470
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e5e44e3eb9e935e7",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637765823221,
+    "stop" : 1637765824761,
+    "duration" : 1540
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c3666565ee134891",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637765741471,
+    "stop" : 1637765743226,
+    "duration" : 1755
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "931c187f524dd4dd",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637765836562,
+    "stop" : 1637765841167,
+    "duration" : 4605
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ca79619484ccd80e",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637765725000,
+    "stop" : 1637765726509,
+    "duration" : 1509
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b28d52fb213ececd",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637765794503,
+    "stop" : 1637765795860,
+    "duration" : 1357
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2d30ecf80a8f8dd8",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637765746529,
+    "stop" : 1637765748272,
+    "duration" : 1743
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "134e6690f6af1208",
+  "name" : "getConfiguration_Ok",
+  "time" : {
+    "start" : 1637770204816,
+    "stop" : 1637770204973,
+    "duration" : 157
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2553f5758a54787f",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637765817193,
+    "stop" : 1637765818722,
+    "duration" : 1529
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9e0a19da0d3f9a65",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637765875269,
+    "stop" : 1637765879921,
+    "duration" : 4652
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1f972636c7baaf25",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637769768427,
+    "stop" : 1637770118909,
+    "duration" : 350482
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2e29594a69131c25",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637769083700,
+    "stop" : 1637769089763,
+    "duration" : 6063
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d430e08981fb532c",
   "name" : "disposeWebDriver_Ok",
   "time" : {
-    "start" : 1636533709682,
-    "stop" : 1636533715034,
-    "duration" : 5352
+    "start" : 1637770203625,
+    "stop" : 1637770204751,
+    "duration" : 1126
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "e1332413278c5940",
-  "name" : "on_Tablet",
-  "time" : {
-    "start" : 1636533567666,
-    "stop" : 1636533589688,
-    "duration" : 22022
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "f0fab61c6cabd798",
-  "name" : "on_Tablet",
-  "time" : {
-    "start" : 1636533680443,
-    "stop" : 1636533713834,
-    "duration" : 33391
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "4f7134d6b6433f25",
-  "name" : "on_Desktop",
-  "time" : {
-    "start" : 1636533586156,
-    "stop" : 1636533620234,
-    "duration" : 34078
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "3e2fb6f09061412",
+  "uid" : "e7a6dc7a92823c27",
   "name" : "on_Smartphone",
   "time" : {
-    "start" : 1636533445852,
-    "stop" : 1636533464836,
-    "duration" : 18984
+    "start" : 1637767693597,
+    "stop" : 1637768044277,
+    "duration" : 350680
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "835f18a175702639",
-  "name" : "on_Tablet",
-  "time" : {
-    "start" : 1636533543564,
-    "stop" : 1636533574051,
-    "duration" : 30487
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "130f2cd91af91c25",
-  "name" : "on_Smartphone",
-  "time" : {
-    "start" : 1636533354848,
-    "stop" : 1636533379546,
-    "duration" : 24698
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2963bd6e95b2ccf7",
-  "name" : "on_Tablet",
-  "time" : {
-    "start" : 1636533353355,
-    "stop" : 1636533379762,
-    "duration" : 26407
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "47e4a817a902a4c1",
-  "name" : "on_Smartphone",
-  "time" : {
-    "start" : 1636533404349,
-    "stop" : 1636533461762,
-    "duration" : 57413
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "cd3ec9425110be9e",
+  "uid" : "7dda4d5d61a295ca",
   "name" : "on_Desktop",
   "time" : {
-    "start" : 1636533398981,
-    "stop" : 1636533425739,
-    "duration" : 26758
+    "start" : 1637768745908,
+    "stop" : 1637768753500,
+    "duration" : 7592
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "b2c1777a5534961a",
-  "name" : "on_Desktop",
-  "time" : {
-    "start" : 1636533394855,
-    "stop" : 1636533420384,
-    "duration" : 25529
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "8e4ec878ff0dff97",
+  "uid" : "242e8a5830636e79",
   "name" : "on_Tablet",
   "time" : {
-    "start" : 1636533378495,
-    "stop" : 1636533395844,
-    "duration" : 17349
+    "start" : 1637765964801,
+    "stop" : 1637765969365,
+    "duration" : 4564
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "a25c2da9137badf6",
+  "uid" : "3c14d0008793cd1e",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637765718733,
+    "stop" : 1637765720460,
+    "duration" : 1727
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "60ee40bca9db06f2",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637768802475,
+    "stop" : 1637768809025,
+    "duration" : 6550
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3a8ad93b3da8b5cf",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637768775630,
+    "stop" : 1637768782890,
+    "duration" : 7260
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d067ab99b9e5291b",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637765713423,
+    "stop" : 1637765715214,
+    "duration" : 1791
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "18d5c64e3126a00c",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637765854775,
+    "stop" : 1637765859608,
+    "duration" : 4833
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "143185a26332e6be",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637768702672,
+    "stop" : 1637768708126,
+    "duration" : 5454
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4f6a9a90a2f482e0",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637768607023,
+    "stop" : 1637768624100,
+    "duration" : 17077
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b29fb7e3ef55cec9",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637765845577,
+    "stop" : 1637765849852,
+    "duration" : 4275
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ecf8cb05fdf89225",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637768668208,
+    "stop" : 1637768675621,
+    "duration" : 7413
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "321b5588701751a3",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637766076363,
+    "stop" : 1637766083832,
+    "duration" : 7469
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "91e7c9368430e9af",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637768430894,
+    "stop" : 1637768437516,
+    "duration" : 6622
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e3a4e1d984cb0890",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637766017720,
+    "stop" : 1637766025465,
+    "duration" : 7745
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "17b980e81ef353aa",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637768696197,
+    "stop" : 1637768702665,
+    "duration" : 6468
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "13aaffd9f88562ba",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637765710095,
+    "stop" : 1637765711817,
+    "duration" : 1722
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "58d8191b5fbe3d5a",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637769089769,
+    "stop" : 1637769427224,
+    "duration" : 337455
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1fe53d2230e55a9c",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637768640655,
+    "stop" : 1637768647517,
+    "duration" : 6862
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7ae5c103e216dee6",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637765832131,
+    "stop" : 1637765833624,
+    "duration" : 1493
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9aa9febd4e83c2ad",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637765784209,
+    "stop" : 1637765785600,
+    "duration" : 1391
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9116ac94b8308912",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637765720481,
+    "stop" : 1637765722013,
+    "duration" : 1532
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "227617fa94a660a",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637765731313,
+    "stop" : 1637765732869,
+    "duration" : 1556
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2f2926e5e4151b9f",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637765915512,
+    "stop" : 1637765919914,
+    "duration" : 4402
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "65341955933a3ec6",
+  "name" : "getWebDriver_Ok",
+  "time" : {
+    "start" : 1637770204754,
+    "stop" : 1637770204756,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c95639cb173562e2",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637766152717,
+    "stop" : 1637766212768,
+    "duration" : 60051
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1f415a6449c9f634",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637765924932,
+    "stop" : 1637765939833,
+    "duration" : 14901
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "30bb87ee7e84f31d",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637769062728,
+    "stop" : 1637769069114,
+    "duration" : 6386
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4ee68761d1d30d26",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637765793125,
+    "stop" : 1637765794499,
+    "duration" : 1374
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6cfac5a7ee0a7a8a",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637768838318,
+    "stop" : 1637768844061,
+    "duration" : 5743
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "de9979b8bf5200e2",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637765766282,
+    "stop" : 1637765767817,
+    "duration" : 1535
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4cc0fa6906d510de",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637765824765,
+    "stop" : 1637765826292,
+    "duration" : 1527
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7afb397952031ec1",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637765764671,
+    "stop" : 1637765766271,
+    "duration" : 1600
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "53918814542daa6",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637765811199,
+    "stop" : 1637765812730,
+    "duration" : 1531
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "52f5cf7650dde7b2",
+  "name" : "getWebDriverByWebElement_Ok",
+  "time" : {
+    "start" : 1637770204789,
+    "stop" : 1637770204791,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6df6d615962f6c51",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637768654373,
+    "stop" : 1637768660467,
+    "duration" : 6094
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d8ccb7b031bb4b84",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637765829263,
+    "stop" : 1637765830667,
+    "duration" : 1404
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d9656525681932fe",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637769003225,
+    "stop" : 1637769026842,
+    "duration" : 23617
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d1e45f24f068a61d",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637768768185,
+    "stop" : 1637768775623,
+    "duration" : 7438
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ed30a11fbe3d28c3",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637765800766,
+    "stop" : 1637765802393,
+    "duration" : 1627
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "58b51a749874ce25",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637765711822,
+    "stop" : 1637765713410,
+    "duration" : 1588
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cdae8cb7cbd755a2",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637765749944,
+    "stop" : 1637765751665,
+    "duration" : 1721
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9c0ee8b185cd9dd7",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637765799210,
+    "stop" : 1637765800762,
+    "duration" : 1552
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7b05ca0214a45a13",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637770154604,
+    "stop" : 1637770160767,
+    "duration" : 6163
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "47e9d679a0592ec3",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637765729586,
+    "stop" : 1637765731293,
+    "duration" : 1707
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ecb1c0d6c8fa84fb",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637765803776,
+    "stop" : 1637765805258,
+    "duration" : 1482
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a975e1e2b50df1bf",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637768796013,
+    "stop" : 1637768802469,
+    "duration" : 6456
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "82eeec2a314371d",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637765849857,
+    "stop" : 1637765854770,
+    "duration" : 4913
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a84d0bdf24f0b716",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637768598910,
+    "stop" : 1637768607014,
+    "duration" : 8104
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a6cc1fcb8ebe0c52",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637768390109,
+    "stop" : 1637768396724,
+    "duration" : 6615
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "589f395af8dcf59d",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637765830672,
+    "stop" : 1637765832127,
+    "duration" : 1455
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6e24e830c94c9aeb",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637766002496,
+    "stop" : 1637766009888,
+    "duration" : 7392
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a0cad004fefd413e",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637768719173,
+    "stop" : 1637768728525,
+    "duration" : 9352
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d44d83b57e6aff7c",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637765896473,
+    "stop" : 1637765900808,
+    "duration" : 4335
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e23cfe822e63139c",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637765905222,
+    "stop" : 1637765910716,
+    "duration" : 5494
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a8b1efe9383561c9",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637765726516,
+    "stop" : 1637765728032,
+    "duration" : 1516
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5bdec6115b7566fa",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637765767821,
+    "stop" : 1637765769444,
+    "duration" : 1623
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f91a610fa3d81469",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637765826300,
+    "stop" : 1637765827757,
+    "duration" : 1457
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ef6b1ffb4618c6ad",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637768980545,
+    "stop" : 1637769003219,
+    "duration" : 22674
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "773578db2ab70d1b",
+  "name" : "click_Ok",
+  "time" : {
+    "start" : 1637770204758,
+    "stop" : 1637770204759,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "134b4883fea22ee4",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637768708130,
+    "stop" : 1637768713659,
+    "duration" : 5529
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9e1bd1694b2bf50a",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637765986092,
+    "stop" : 1637765994295,
+    "duration" : 8203
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "44096ae8fbf91619",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637767298317,
+    "stop" : 1637767305610,
+    "duration" : 7293
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4984da18cad1f224",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637765802396,
+    "stop" : 1637765803773,
+    "duration" : 1377
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a673408d24370d22",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637765739753,
+    "stop" : 1637765741462,
+    "duration" : 1709
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f7365a96b74a3556",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637768908832,
+    "stop" : 1637768937064,
+    "duration" : 28232
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f498b0fe10e56139",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637765805267,
+    "stop" : 1637765806840,
+    "duration" : 1573
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "171c5f7b6db81c1f",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637765717164,
+    "stop" : 1637765718701,
+    "duration" : 1537
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2270b04122b7aa4d",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637765795864,
+    "stop" : 1637765797804,
+    "duration" : 1940
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "11a105b0a046fe15",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637765776845,
+    "stop" : 1637765778165,
+    "duration" : 1320
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "848e645a45614a26",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637770134569,
+    "stop" : 1637770141240,
+    "duration" : 6671
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "276c5db516f0cf34",
+  "name" : "getTabletWebDriverConfiguration_Ok",
+  "time" : {
+    "start" : 1637770204812,
+    "stop" : 1637770204813,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "91246b37c3259128",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637765744720,
+    "stop" : 1637765746523,
+    "duration" : 1803
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ca0d395d8e17ae96",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637765788862,
+    "stop" : 1637765790212,
+    "duration" : 1350
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "64e08e1e6028647a",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637768423735,
+    "stop" : 1637768430889,
+    "duration" : 7154
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c6bffe708089211b",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637765769455,
+    "stop" : 1637765771062,
+    "duration" : 1607
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7cdb4bd9c6c377f3",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637768713663,
+    "stop" : 1637768719166,
+    "duration" : 5503
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "898630e778d73031",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637765723469,
+    "stop" : 1637765724991,
+    "duration" : 1522
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d22643b07a1cb56c",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637765708430,
+    "stop" : 1637765710067,
+    "duration" : 1637
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "514865f4da9fb7c4",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637765954633,
+    "stop" : 1637765960115,
+    "duration" : 5482
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c8aeb990436fb6eb",
   "name" : "isDisplayed_Ok",
   "time" : {
     "start" : 1636533715052,
@@ -149,632 +1219,1092 @@
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "963c92455e616ecc",
-  "name" : "getWebDriver_Ok",
-  "time" : {
-    "start" : 1636533713838,
-    "stop" : 1636533714954,
-    "duration" : 1116
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "87be61cdb34e29c5",
-  "name" : "on_Desktop",
-  "time" : {
-    "start" : 1636533444163,
-    "stop" : 1636533461088,
-    "duration" : 16925
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "62328b69df6ff866",
-  "name" : "disposeWebDriverByWebElement_Ok",
-  "time" : {
-    "start" : 1636533714967,
-    "stop" : 1636533715033,
-    "duration" : 66
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "dfdb53ea8e4af64f",
+  "uid" : "72ea36868606601e",
   "name" : "on_Smartphone",
   "time" : {
-    "start" : 1636533574165,
-    "stop" : 1636533631397,
-    "duration" : 57232
+    "start" : 1637765736097,
+    "stop" : 1637765737802,
+    "duration" : 1705
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "5db7337b1c984320",
-  "name" : "on_Desktop",
-  "time" : {
-    "start" : 1636533357536,
-    "stop" : 1636533378344,
-    "duration" : 20808
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e9357a22c9601bad",
-  "name" : "on_Smartphone",
-  "time" : {
-    "start" : 1636533695247,
-    "stop" : 1636533725414,
-    "duration" : 30167
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "b72bb23885595718",
-  "name" : "on_Tablet",
-  "time" : {
-    "start" : 1636533319104,
-    "stop" : 1636533357450,
-    "duration" : 38346
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "6051927038560e6c",
-  "name" : "on_Smartphone",
-  "time" : {
-    "start" : 1636533658841,
-    "stop" : 1636533687451,
-    "duration" : 28610
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "bb3ef19a1293110",
-  "name" : "on_Smartphone",
-  "time" : {
-    "start" : 1636533536136,
-    "stop" : 1636533567564,
-    "duration" : 31428
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "77cf26681466f786",
-  "name" : "on_Tablet",
-  "time" : {
-    "start" : 1636533697951,
-    "stop" : 1636533725252,
-    "duration" : 27301
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a3fdc63a90aae7ad",
-  "name" : "on_Tablet",
-  "time" : {
-    "start" : 1636533425763,
-    "stop" : 1636533445838,
-    "duration" : 20075
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "3557a21c1b7437fa",
-  "name" : "getConfiguration_Ok",
-  "time" : {
-    "start" : 1636533715260,
-    "stop" : 1636533717053,
-    "duration" : 1793
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2f3a5315b076267b",
-  "name" : "on_Desktop",
-  "time" : {
-    "start" : 1636533671266,
-    "stop" : 1636533697939,
-    "duration" : 26673
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "3bd68478a439d1ce",
-  "name" : "on_Tablet",
-  "time" : {
-    "start" : 1636533493144,
-    "stop" : 1636533529488,
-    "duration" : 36344
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "f838a75e9dc2c9d2",
-  "name" : "on_Smartphone",
-  "time" : {
-    "start" : 1636533620260,
-    "stop" : 1636533643350,
-    "duration" : 23090
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "da7e2f216e895510",
-  "name" : "on_Tablet",
-  "time" : {
-    "start" : 1636533464386,
-    "stop" : 1636533502338,
-    "duration" : 37952
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ec5a6fed673618a1",
-  "name" : "on_Tablet",
-  "time" : {
-    "start" : 1636533663960,
-    "stop" : 1636533695235,
-    "duration" : 31275
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e77795382e22afbf",
-  "name" : "on_Smartphone",
-  "time" : {
-    "start" : 1636533675775,
-    "stop" : 1636533709664,
-    "duration" : 33889
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ee56c93e065ac1e9",
-  "name" : "on_Desktop",
-  "time" : {
-    "start" : 1636533558561,
-    "stop" : 1636533586144,
-    "duration" : 27583
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2eca4eb9a44acc24",
-  "name" : "on_Smartphone",
-  "time" : {
-    "start" : 1636533376486,
-    "stop" : 1636533395933,
-    "duration" : 19447
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "debee8857ed0a612",
-  "name" : "on_Desktop",
-  "time" : {
-    "start" : 1636533644664,
-    "stop" : 1636533675734,
-    "duration" : 31070
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2c31d4c5bca71908",
-  "name" : "on_Smartphone",
-  "time" : {
-    "start" : 1636533524468,
-    "stop" : 1636533558536,
-    "duration" : 34068
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "fd35607a5dd4c5ac",
-  "name" : "on_Desktop",
-  "time" : {
-    "start" : 1636533687462,
-    "stop" : 1636533724085,
-    "duration" : 36623
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "109a7130adebf3c0",
-  "name" : "on_Tablet",
-  "time" : {
-    "start" : 1636533447359,
-    "stop" : 1636533464334,
-    "duration" : 16975
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "f1bf2abd1fc6f605",
-  "name" : "on_Desktop",
-  "time" : {
-    "start" : 1636533464844,
-    "stop" : 1636533501262,
-    "duration" : 36418
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "5f378825c36db291",
-  "name" : "on_Tablet",
-  "time" : {
-    "start" : 1636533416968,
-    "stop" : 1636533471240,
-    "duration" : 54272
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "cf83cafbeadcff9c",
-  "name" : "on_Desktop",
-  "time" : {
-    "start" : 1636533535369,
-    "stop" : 1636533574070,
-    "duration" : 38701
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "617817fffe0b4efe",
-  "name" : "on_Smartphone",
-  "time" : {
-    "start" : 1636533425767,
-    "stop" : 1636533447257,
-    "duration" : 21490
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "f8755d8a82c9dadf",
-  "name" : "on_Smartphone",
-  "time" : {
-    "start" : 1636533558555,
-    "stop" : 1636533580096,
-    "duration" : 21541
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "fa505fe272efb314",
-  "name" : "on_Tablet",
-  "time" : {
-    "start" : 1636533580151,
-    "stop" : 1636533644569,
-    "duration" : 64418
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "81188c5127813ebd",
-  "name" : "getTabletWebDriverConfiguration_Ok",
-  "time" : {
-    "start" : 1636533715349,
-    "stop" : 1636533715361,
-    "duration" : 12
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c2a77e39d5802804",
-  "name" : "getSmartphoneWebDriverConfiguration_Ok",
-  "time" : {
-    "start" : 1636533715159,
-    "stop" : 1636533715249,
-    "duration" : 90
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "f0e25a2791922c40",
-  "name" : "on_Desktop",
-  "time" : {
-    "start" : 1636533319124,
-    "stop" : 1636533354735,
-    "duration" : 35611
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d4595c96095c1335",
-  "name" : "on_Tablet",
-  "time" : {
-    "start" : 1636533355362,
-    "stop" : 1636533380134,
-    "duration" : 24772
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "9b76d4dabbd974f9",
-  "name" : "on_Desktop",
-  "time" : {
-    "start" : 1636533506967,
-    "stop" : 1636533543554,
-    "duration" : 36587
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "96eaf03cc58695f",
-  "name" : "on_Smartphone",
-  "time" : {
-    "start" : 1636533589695,
-    "stop" : 1636533619970,
-    "duration" : 30275
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "fd2ad535f20c1b3d",
-  "name" : "getDesktopWebDriverConfiguration_Ok",
-  "time" : {
-    "start" : 1636533715155,
-    "stop" : 1636533715156,
-    "duration" : 1
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "13d0b4589f00eabd",
-  "name" : "on_Tablet",
-  "time" : {
-    "start" : 1636533395939,
-    "stop" : 1636533425738,
-    "duration" : 29799
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "5ef5ac7ab12dfb9f",
-  "name" : "on_Desktop",
-  "time" : {
-    "start" : 1636533574080,
-    "stop" : 1636533612739,
-    "duration" : 38659
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "5adb1ce533cff49d",
-  "name" : "on_Smartphone",
-  "time" : {
-    "start" : 1636533319105,
-    "stop" : 1636533353156,
-    "duration" : 34051
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "db874b3a890f4d01",
-  "name" : "on_Desktop",
-  "time" : {
-    "start" : 1636533319147,
-    "stop" : 1636533355334,
-    "duration" : 36187
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "115e4ee0eabcda05",
-  "name" : "on_Smartphone",
-  "time" : {
-    "start" : 1636533395852,
-    "stop" : 1636533416934,
-    "duration" : 21082
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "fbb442b8f7364daf",
-  "name" : "on_Smartphone",
-  "time" : {
-    "start" : 1636533639639,
-    "stop" : 1636533671242,
-    "duration" : 31603
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2a890f7b70a50a37",
+  "uid" : "9f1150ab48b29e8d",
   "name" : "getEnvironment_Ok",
   "time" : {
-    "start" : 1636533715563,
-    "stop" : 1636533716842,
-    "duration" : 1279
+    "start" : 1637770204977,
+    "stop" : 1637770205093,
+    "duration" : 116
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "f88a2426c9085e75",
+  "uid" : "8570bc9d9a39dbc5",
   "name" : "on_Tablet",
   "time" : {
-    "start" : 1636533631401,
-    "stop" : 1636533658834,
-    "duration" : 27433
+    "start" : 1637768864905,
+    "stop" : 1637768871800,
+    "duration" : 6895
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "ed57943201d9d5fc",
+  "uid" : "1ae1b2eda8860e78",
   "name" : "on_Smartphone",
   "time" : {
-    "start" : 1636533379854,
-    "stop" : 1636533398875,
-    "duration" : 19021
+    "start" : 1637768647523,
+    "stop" : 1637768654369,
+    "duration" : 6846
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "9c2b22f99004fb77",
+  "uid" : "9f2fd0b87f9e074b",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637765870329,
+    "stop" : 1637765875264,
+    "duration" : 4935
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8fc23f7ee4612568",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637770167361,
+    "stop" : 1637770174439,
+    "duration" : 7078
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3b657ef2d7b93b99",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637765732876,
+    "stop" : 1637765734375,
+    "duration" : 1499
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9bfd862e278b3170",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637768410572,
+    "stop" : 1637768416463,
+    "duration" : 5891
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3ea75498b664ac9",
   "name" : "on_Desktop",
   "time" : {
-    "start" : 1636533353358,
-    "stop" : 1636533376442,
-    "duration" : 23084
+    "start" : 1637768660471,
+    "stop" : 1637768668201,
+    "duration" : 7730
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "3a6313b6b6d08055",
+  "uid" : "3f64ccab02409b72",
   "name" : "on_Smartphone",
   "time" : {
-    "start" : 1636533471440,
-    "stop" : 1636533506963,
-    "duration" : 35523
+    "start" : 1637766040996,
+    "stop" : 1637766058964,
+    "duration" : 17968
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "ddf4348cc89cc916",
-  "name" : "on_Smartphone",
-  "time" : {
-    "start" : 1636533461835,
-    "stop" : 1636533494139,
-    "duration" : 32304
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "29dc5ee0f3c020c4",
-  "name" : "on_Smartphone",
-  "time" : {
-    "start" : 1636533501268,
-    "stop" : 1636533535299,
-    "duration" : 34031
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a90dcb9070e79d24",
-  "name" : "on_Tablet",
-  "time" : {
-    "start" : 1636533612846,
-    "stop" : 1636533634933,
-    "duration" : 22087
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e77f36acb13745f7",
-  "name" : "on_Tablet",
-  "time" : {
-    "start" : 1636533643372,
-    "stop" : 1636533680242,
-    "duration" : 36870
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a8571ace7f9781f6",
-  "name" : "on_Smartphone",
-  "time" : {
-    "start" : 1636533319104,
-    "stop" : 1636533353155,
-    "duration" : 34051
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "aef72d056c7aa1f3",
+  "uid" : "8d18270657d78f96",
   "name" : "on_Desktop",
   "time" : {
-    "start" : 1636533461152,
-    "stop" : 1636533493135,
-    "duration" : 31983
+    "start" : 1637765818726,
+    "stop" : 1637765820174,
+    "duration" : 1448
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "509d7da984a8ef4e",
-  "name" : "click_Ok",
+  "uid" : "50e2d27a1c84ebc6",
+  "name" : "on_Smartphone",
   "time" : {
-    "start" : 1636533714964,
-    "stop" : 1636533714965,
+    "start" : 1637765771071,
+    "stop" : 1637765772363,
+    "duration" : 1292
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f937fad5e0318057",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637765772368,
+    "stop" : 1637765773757,
+    "duration" : 1389
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "29e5d00d145a2de9",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637765835090,
+    "stop" : 1637765836558,
+    "duration" : 1468
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e6b892ed289aa59e",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637768945592,
+    "stop" : 1637768963318,
+    "duration" : 17726
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d9765c0e61e1b00f",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637765778169,
+    "stop" : 1637765779758,
+    "duration" : 1589
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "560675215d3852c7",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637768416466,
+    "stop" : 1637768423725,
+    "duration" : 7259
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e244d1676e7ac973",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637765775319,
+    "stop" : 1637765776841,
+    "duration" : 1522
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "65eff9fbeea44307",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637765814210,
+    "stop" : 1637765815766,
+    "duration" : 1556
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f097f1a3c48f7f69",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637769069117,
+    "stop" : 1637769076806,
+    "duration" : 7689
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4cf9e6afa3a39d8a",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637765919928,
+    "stop" : 1637765924928,
+    "duration" : 5000
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "da697fd187b88f53",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637768857308,
+    "stop" : 1637768864897,
+    "duration" : 7589
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "46e20a5447412956",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637766270519,
+    "stop" : 1637766601423,
+    "duration" : 330904
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fdb011b03b4cbcd8",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637765806846,
+    "stop" : 1637765808243,
+    "duration" : 1397
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f08272ecf4a3273a",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637765791633,
+    "stop" : 1637765793118,
+    "duration" : 1485
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4cbaff77acaf43df",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637765734391,
+    "stop" : 1637765736092,
+    "duration" : 1701
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e977b1b3d2a2b844",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637767305615,
+    "stop" : 1637767312564,
+    "duration" : 6949
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8016e3c130c6477d",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637767290522,
+    "stop" : 1637767298310,
+    "duration" : 7788
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c32a5196fab6e561",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637765859613,
+    "stop" : 1637765864184,
+    "duration" : 4571
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5f2a6c5acc6b5f8e",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637768682229,
+    "stop" : 1637768688618,
+    "duration" : 6389
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b9d400706a3f0e56",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637765980971,
+    "stop" : 1637765986069,
+    "duration" : 5098
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1203757a5e5bce3",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637765753578,
+    "stop" : 1637765755004,
+    "duration" : 1426
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ff747629f49c5b81",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637768817152,
+    "stop" : 1637768824762,
+    "duration" : 7610
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "66b9119ae8e24996",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637766943921,
+    "stop" : 1637767275009,
+    "duration" : 331088
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d3804a12c7c30d8a",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637767346169,
+    "stop" : 1637767362926,
+    "duration" : 16757
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4ba5f91e1c26673f",
+  "name" : "getDesktopWebDriverConfiguration_Ok",
+  "time" : {
+    "start" : 1637770204795,
+    "stop" : 1637770204796,
     "duration" : 1
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "af52c28ceba75362",
+  "uid" : "7e6777ee8e26d5af",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637765751669,
+    "stop" : 1637765753573,
+    "duration" : 1904
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2980729ad28e3191",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637766083836,
+    "stop" : 1637766090564,
+    "duration" : 6728
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a56f01fc8ecddb5a",
   "name" : "on_Tablet",
   "time" : {
-    "start" : 1636533380151,
-    "stop" : 1636533404339,
-    "duration" : 24188
+    "start" : 1637768963322,
+    "stop" : 1637768980542,
+    "duration" : 17220
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "4998cf1de40ae13f",
+  "uid" : "29fdceb55c7efd2d",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637765975594,
+    "stop" : 1637765980967,
+    "duration" : 5373
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3fcde302d661d3a5",
   "name" : "on_Desktop",
   "time" : {
-    "start" : 1636533634940,
-    "stop" : 1636533663935,
-    "duration" : 28995
+    "start" : 1637765759280,
+    "stop" : 1637765760970,
+    "duration" : 1690
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "d027a49941d87f3",
+  "uid" : "bb1cd8697b675fa1",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637765760995,
+    "stop" : 1637765762963,
+    "duration" : 1968
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6b3f67ddaedba0d",
   "name" : "on_Desktop",
   "time" : {
-    "start" : 1636533379664,
-    "stop" : 1636533394634,
-    "duration" : 14970
+    "start" : 1637770118914,
+    "stop" : 1637770126852,
+    "duration" : 7938
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "8f8cfd49208185fd",
-  "name" : "getWebDriverByWebElement_Ok",
-  "time" : {
-    "start" : 1636533715051,
-    "stop" : 1636533715157,
-    "duration" : 106
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "14821c9c7ee79a63",
+  "uid" : "fff9b3339f9a95de",
   "name" : "on_Tablet",
   "time" : {
-    "start" : 1636533529536,
-    "stop" : 1636533558537,
-    "duration" : 29001
+    "start" : 1637765762971,
+    "stop" : 1637765764668,
+    "duration" : 1697
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "34c30ff31e7103f2",
+  "uid" : "d311bc80ba64e900",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637765820191,
+    "stop" : 1637765821659,
+    "duration" : 1468
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f82e3a71de83a480",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637769076810,
+    "stop" : 1637769083667,
+    "duration" : 6857
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6bc4814b04bbd46b",
   "name" : "on_Tablet",
   "time" : {
-    "start" : 1636533502347,
-    "stop" : 1636533536034,
-    "duration" : 33687
+    "start" : 1637767312569,
+    "stop" : 1637767319263,
+    "duration" : 6694
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "550bf6677b42824c",
+  "uid" : "7b04d0f1d599aaf7",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637765994299,
+    "stop" : 1637766002490,
+    "duration" : 8191
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e57dc023fc1adb",
   "name" : "on_Desktop",
   "time" : {
-    "start" : 1636533494152,
-    "stop" : 1636533524443,
-    "duration" : 30291
+    "start" : 1637768789815,
+    "stop" : 1637768796008,
+    "duration" : 6193
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "3cd00d6c31cb0c94",
+  "uid" : "30d7a8d051322edf",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637768044281,
+    "stop" : 1637768374933,
+    "duration" : 330652
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7d0df9fbd74e722b",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637765782595,
+    "stop" : 1637765784189,
+    "duration" : 1594
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "76ebc2646411dbf",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637765808248,
+    "stop" : 1637765809659,
+    "duration" : 1411
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fb042f47d8afe8fc",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637768809032,
+    "stop" : 1637768817144,
+    "duration" : 8112
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dd70715836f013f4",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637768782896,
+    "stop" : 1637768789812,
+    "duration" : 6916
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a81e47f0ec6100b1",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637768937070,
+    "stop" : 1637768945560,
+    "duration" : 8490
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "237c2a1700ba82e8",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637765706748,
+    "stop" : 1637765708424,
+    "duration" : 1676
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b11b0309fad84dc4",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637770126858,
+    "stop" : 1637770134564,
+    "duration" : 7706
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5eb2a8a071c491f9",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637765827760,
+    "stop" : 1637765829259,
+    "duration" : 1499
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e937d59f2a98e8d2",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637770180824,
+    "stop" : 1637770189017,
+    "duration" : 8193
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8c2034624dc4abf5",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637769427289,
+    "stop" : 1637769768421,
+    "duration" : 341132
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d00497b39e7fc79f",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637769055910,
+    "stop" : 1637769062722,
+    "duration" : 6812
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9699a98d14e8f2c1",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637768545528,
+    "stop" : 1637768598906,
+    "duration" : 53378
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b866da9e7de6d563",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637765815773,
+    "stop" : 1637765817168,
+    "duration" : 1395
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1f836505368e9a94",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637770141248,
+    "stop" : 1637770148173,
+    "duration" : 6925
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6a79d4d051007ccc",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637765773761,
+    "stop" : 1637765775314,
+    "duration" : 1553
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "19e5fe1d17a25b2b",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637768844065,
+    "stop" : 1637768849761,
+    "duration" : 5696
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f96e43dc042e44e8",
+  "name" : "getSmartphoneWebDriverConfiguration_Ok",
+  "time" : {
+    "start" : 1637770204807,
+    "stop" : 1637770204808,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7b32f30c4a359a2",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637765757827,
+    "stop" : 1637765759276,
+    "duration" : 1449
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4389f7a5568e482a",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637768382516,
+    "stop" : 1637768390088,
+    "duration" : 7572
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ba7afb1d021e698c",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637770148181,
+    "stop" : 1637770154600,
+    "duration" : 6419
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5851139df9c4c016",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637766097475,
+    "stop" : 1637766152710,
+    "duration" : 55235
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c52f0294450709b2",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637766058968,
+    "stop" : 1637766076347,
+    "duration" : 17379
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "542c3ebfa1cb09dc",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637765737807,
+    "stop" : 1637765739740,
+    "duration" : 1933
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7acda3d65ffb4d32",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637765694609,
+    "stop" : 1637765706738,
+    "duration" : 12129
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a6c3b117b024cb62",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637765787349,
+    "stop" : 1637765788857,
+    "duration" : 1508
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9ce82fb0b6d4239b",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637765969369,
+    "stop" : 1637765975589,
+    "duration" : 6220
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e102327c4b1ce9ad",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637765809665,
+    "stop" : 1637765811172,
+    "duration" : 1507
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1a7acc154a88db26",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637765779762,
+    "stop" : 1637765781175,
+    "duration" : 1413
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cbbebcebf39c36d1",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637768396733,
+    "stop" : 1637768403573,
+    "duration" : 6840
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "867031135b03453f",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637768675639,
+    "stop" : 1637768682224,
+    "duration" : 6585
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b4ac6045adcbea4e",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637765841172,
+    "stop" : 1637765845568,
+    "duration" : 4396
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2d5e386421eda50d",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637768737613,
+    "stop" : 1637768745905,
+    "duration" : 8292
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a676471794e70baf",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637765728038,
+    "stop" : 1637765729578,
+    "duration" : 1540
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b3d951a440fb7ef",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637765715219,
+    "stop" : 1637765717157,
+    "duration" : 1938
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aeec7fd0109e9a3c",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637765781206,
+    "stop" : 1637765782588,
+    "duration" : 1382
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2db10cc3216a98dc",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637768437522,
+    "stop" : 1637768491989,
+    "duration" : 54467
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e54f0996c1e1cd55",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637765797808,
+    "stop" : 1637765799201,
+    "duration" : 1393
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ab0638f68f20d622",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637766032628,
+    "stop" : 1637766040989,
+    "duration" : 8361
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1bdf5768904154d6",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637768824767,
+    "stop" : 1637768832073,
+    "duration" : 7306
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bc53a2ce6a7cdb97",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637765910724,
+    "stop" : 1637765915506,
+    "duration" : 4782
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b7577c2a396026a6",
   "name" : "findElementByXpath_Ok",
   "time" : {
-    "start" : 1636533715038,
-    "stop" : 1636533715039,
-    "duration" : 1
+    "start" : 1637770204767,
+    "stop" : 1637770204772,
+    "duration" : 5
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9d62fef86b5301ba",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637768624113,
+    "stop" : 1637768640650,
+    "duration" : 16537
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "926f918bd96da015",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637765939838,
+    "stop" : 1637765954626,
+    "duration" : 14788
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "331d855322a769cb",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637766090571,
+    "stop" : 1637766097470,
+    "duration" : 6899
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b5ce1931cac8e4c0",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637765833643,
+    "stop" : 1637765835082,
+    "duration" : 1439
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b2682aff173c4931",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637767362944,
+    "stop" : 1637767693541,
+    "duration" : 330597
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a64d86f2a1de6233",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637768832079,
+    "stop" : 1637768838315,
+    "duration" : 6236
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6b1fbfc9c23ff0b6",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637767319268,
+    "stop" : 1637767328488,
+    "duration" : 9220
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b9964c5d3e0244ed",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637768688624,
+    "stop" : 1637768696188,
+    "duration" : 7564
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "79b22f2ad9636a86",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637768374940,
+    "stop" : 1637768382512,
+    "duration" : 7572
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "da1add66db6b310b",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637768880705,
+    "stop" : 1637768908819,
+    "duration" : 28114
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a8737f93a15a2f06",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637765900813,
+    "stop" : 1637765905213,
+    "duration" : 4400
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cb46a49f74eb6e40",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637765884133,
+    "stop" : 1637765888090,
+    "duration" : 3957
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eedd74773d955c65",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637768492005,
+    "stop" : 1637768545519,
+    "duration" : 53514
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e14b0ada933f1ae2",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637765785607,
+    "stop" : 1637765787343,
+    "duration" : 1736
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3961ee0271f53cb1",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637765864189,
+    "stop" : 1637765870323,
+    "duration" : 6134
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "64fb98f9b125ca2f",
+  "name" : "on_Desktop",
+  "time" : {
+    "start" : 1637769048720,
+    "stop" : 1637769055904,
+    "duration" : 7184
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ef177ed52130ba61",
+  "name" : "on_Smartphone",
+  "time" : {
+    "start" : 1637768403577,
+    "stop" : 1637768410567,
+    "duration" : 6990
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f2269dbbcd84df56",
+  "name" : "on_Tablet",
+  "time" : {
+    "start" : 1637766212772,
+    "stop" : 1637766270514,
+    "duration" : 57742
   },
   "status" : "passed",
   "severity" : "normal"
