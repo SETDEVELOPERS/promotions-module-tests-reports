@@ -1,0 +1,145 @@
+{
+  "uid" : "c608893b07622b1a",
+  "name" : "on_Desktop",
+  "fullName" : "PromotionsModule.Given_PromotionsManager.When_CreatePromotionMail.Then_SelectImageMobileButtonApearsTest.on_Desktop",
+  "historyId" : "27592e620585b39b8703f782c9c51311",
+  "time" : {
+    "start" : 1637964758297,
+    "stop" : 1637964759960,
+    "duration" : 1663
+  },
+  "description" : "Como gestor de promociones cuando accedo a crear correo promociones entonces aparece el  botón Seleccionar archivo Imagen para móvil",
+  "descriptionHtml" : "<p>Como gestor de promociones cuando accedo a crear correo promociones entonces aparece el  botón Seleccionar archivo Imagen para móvil</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "testdeployment-pzarixq6-966f6fb85-m6mq5"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "PromotionsModule.Given_PromotionsManager.When_CreatePromotionMail.Then_SelectImageMobileButtonApearsTest"
+  }, {
+    "name" : "testGroup",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "on_Desktop"
+  }, {
+    "name" : "testSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "thread",
+    "value" : "4325@testdeployment-pzarixq6-966f6fb85-m6mq5.TestNG-test=AutomationTests-1(13)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "PromotionsModule.Given_PromotionsManager.When_CreatePromotionMail.Then_SelectImageMobileButtonApearsTest"
+  }, {
+    "name" : "package",
+    "value" : "PromotionsModule.Given_PromotionsManager.When_CreatePromotionMail.Then_SelectImageMobileButtonApearsTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9a85d30a9fe5cfd0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637956370867,
+        "stop" : 1637956372778,
+        "duration" : 1911
+      }
+    }, {
+      "uid" : "18d28f74072c8f1f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637947965233,
+        "stop" : 1637947967305,
+        "duration" : 2072
+      }
+    }, {
+      "uid" : "52a6ab9d42330814",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637939401244,
+        "stop" : 1637939404261,
+        "duration" : 3017
+      }
+    }, {
+      "uid" : "dce641b9ef0a600f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637765739753,
+        "stop" : 1637765741462,
+        "duration" : 1709
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 5,
+        "unknown" : 0,
+        "total" : 5
+      },
+      "items" : [ {
+        "uid" : "4fd3997323ba01ea",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637956370867,
+          "stop" : 1637956372778,
+          "duration" : 1911
+        }
+      }, {
+        "uid" : "16f30cc1ad03f479",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637947965233,
+          "stop" : 1637947967305,
+          "duration" : 2072
+        }
+      }, {
+        "uid" : "60a211059d644ceb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637939401244,
+          "stop" : 1637939404261,
+          "duration" : 3017
+        }
+      }, {
+        "uid" : "a673408d24370d22",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637765739753,
+          "stop" : 1637765741462,
+          "duration" : 1709
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "c608893b07622b1a.json",
+  "parameterValues" : [ ]
+}

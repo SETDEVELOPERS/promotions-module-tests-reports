@@ -1,0 +1,145 @@
+{
+  "uid" : "3f3b1e7f4a7e7a72",
+  "name" : "on_Smartphone",
+  "fullName" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_ButtonVerMasForEachRestaurantAppearsTest.on_Smartphone",
+  "historyId" : "1f225225ec94ef5294bf316dce35ce1d",
+  "time" : {
+    "start" : 1637967525621,
+    "stop" : 1637967581558,
+    "duration" : 55937
+  },
+  "description" : "Como visitante no registrado cuando accedo a una promoción no iniciada y selecciono una a una cada provincia entonces aparece 'Ver más' por cada restaurante",
+  "descriptionHtml" : "<p>Como visitante no registrado cuando accedo a una promoción no iniciada y selecciono una a una cada provincia entonces aparece 'Ver más' por cada restaurante</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "testdeployment-pzarixq6-966f6fb85-m6mq5"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_ButtonVerMasForEachRestaurantAppearsTest"
+  }, {
+    "name" : "testGroup",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "on_Smartphone"
+  }, {
+    "name" : "testSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "thread",
+    "value" : "4325@testdeployment-pzarixq6-966f6fb85-m6mq5.TestNG-test=AutomationTests-1(13)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_ButtonVerMasForEachRestaurantAppearsTest"
+  }, {
+    "name" : "package",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_ButtonVerMasForEachRestaurantAppearsTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6cf0de9d4c99e3a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637959164635,
+        "stop" : 1637959220544,
+        "duration" : 55909
+      }
+    }, {
+      "uid" : "5df2fedde2bd1eb7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637950777359,
+        "stop" : 1637950833109,
+        "duration" : 55750
+      }
+    }, {
+      "uid" : "d36d71b86e47eb27",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637942224642,
+        "stop" : 1637942280333,
+        "duration" : 55691
+      }
+    }, {
+      "uid" : "557bd8f9732e191b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637768492005,
+        "stop" : 1637768545519,
+        "duration" : 53514
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 5,
+        "unknown" : 0,
+        "total" : 5
+      },
+      "items" : [ {
+        "uid" : "968b77ad62750236",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637959164635,
+          "stop" : 1637959220544,
+          "duration" : 55909
+        }
+      }, {
+        "uid" : "6438eb0cacf8f825",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637950777359,
+          "stop" : 1637950833109,
+          "duration" : 55750
+        }
+      }, {
+        "uid" : "fb79c5bb32d61f42",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637942224642,
+          "stop" : 1637942280333,
+          "duration" : 55691
+        }
+      }, {
+        "uid" : "eedd74773d955c65",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637768492005,
+          "stop" : 1637768545519,
+          "duration" : 53514
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "3f3b1e7f4a7e7a72.json",
+  "parameterValues" : [ ]
+}
