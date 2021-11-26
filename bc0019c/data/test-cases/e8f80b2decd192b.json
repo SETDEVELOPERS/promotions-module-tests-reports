@@ -1,0 +1,129 @@
+{
+  "uid" : "e8f80b2decd192b",
+  "name" : "on_Tablet",
+  "fullName" : "PromotionsModule.Given_PromotionsManager.When_CreatePromotionMail.Then_SelectImageMobileButtonApearsTest.on_Tablet",
+  "historyId" : "663e9ccf702b4188128a0ecd1d296a09",
+  "time" : {
+    "start" : 1637956374200,
+    "stop" : 1637956375740,
+    "duration" : 1540
+  },
+  "description" : "Como gestor de promociones cuando accedo a crear correo promociones entonces aparece el  botón Seleccionar archivo Imagen para móvil",
+  "descriptionHtml" : "<p>Como gestor de promociones cuando accedo a crear correo promociones entonces aparece el  botón Seleccionar archivo Imagen para móvil</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "testdeployment-pzarixq6-966f6fb85-m6mq5"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "PromotionsModule.Given_PromotionsManager.When_CreatePromotionMail.Then_SelectImageMobileButtonApearsTest"
+  }, {
+    "name" : "testGroup",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "on_Tablet"
+  }, {
+    "name" : "testSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "thread",
+    "value" : "4324@testdeployment-pzarixq6-966f6fb85-m6mq5.TestNG-test=AutomationTests-1(13)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "PromotionsModule.Given_PromotionsManager.When_CreatePromotionMail.Then_SelectImageMobileButtonApearsTest"
+  }, {
+    "name" : "package",
+    "value" : "PromotionsModule.Given_PromotionsManager.When_CreatePromotionMail.Then_SelectImageMobileButtonApearsTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "cb94d03e1d098278",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637947968794,
+        "stop" : 1637947970183,
+        "duration" : 1389
+      }
+    }, {
+      "uid" : "24532808646f16e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637939405960,
+        "stop" : 1637939407778,
+        "duration" : 1818
+      }
+    }, {
+      "uid" : "7fb58e4ff60d059a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637765743235,
+        "stop" : 1637765744713,
+        "duration" : 1478
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "9fdb5e5c67701278",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637947968794,
+          "stop" : 1637947970183,
+          "duration" : 1389
+        }
+      }, {
+        "uid" : "faaaf29b4bfb1a35",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637939405960,
+          "stop" : 1637939407778,
+          "duration" : 1818
+        }
+      }, {
+        "uid" : "32033ba470b72560",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637765743235,
+          "stop" : 1637765744713,
+          "duration" : 1478
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "e8f80b2decd192b.json",
+  "parameterValues" : [ ]
+}

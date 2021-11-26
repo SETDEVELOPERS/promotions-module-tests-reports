@@ -1,0 +1,131 @@
+{
+  "uid" : "bf2dd9f1f40a3afc",
+  "name" : "on_Desktop",
+  "fullName" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_RestaurantReturnAppearsTest.on_Desktop",
+  "historyId" : "99ca16a9ec95d5b44c9a7740aaad1aca",
+  "time" : {
+    "start" : 1637960791017,
+    "stop" : 1637960799628,
+    "duration" : 8611
+  },
+  "description" : "Como  visitante no registrado cuando accedo al primer restaurante entonces aparece el botón Volver",
+  "descriptionHtml" : "<p>Como  visitante no registrado cuando accedo al primer restaurante entonces aparece el botón Volver</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "testdeployment-pzarixq6-966f6fb85-m6mq5"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_RestaurantReturnAppearsTest"
+  }, {
+    "name" : "testGroup",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "on_Desktop"
+  }, {
+    "name" : "testSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "thread",
+    "value" : "4324@testdeployment-pzarixq6-966f6fb85-m6mq5.TestNG-test=AutomationTests-1(13)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_RestaurantReturnAppearsTest"
+  }, {
+    "name" : "package",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_RestaurantReturnAppearsTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5018da1f922f7cfb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637952412009,
+        "stop" : 1637952420239,
+        "duration" : 8230
+      }
+    }, {
+      "uid" : "139570d858102700",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: expected [true] but found [false]",
+      "time" : {
+        "start" : 1637943848953,
+        "stop" : 1637943869783,
+        "duration" : 20830
+      }
+    }, {
+      "uid" : "33c6830bced67296",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637770118914,
+        "stop" : 1637770126852,
+        "duration" : 7938
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 1,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 3,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "9866de9c07f7a7b9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637952412009,
+          "stop" : 1637952420239,
+          "duration" : 8230
+        }
+      }, {
+        "uid" : "7473fa27d3b4444b",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: expected [true] but found [false]",
+        "time" : {
+          "start" : 1637943848953,
+          "stop" : 1637943869783,
+          "duration" : 20830
+        }
+      }, {
+        "uid" : "6b3f67ddaedba0d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637770118914,
+          "stop" : 1637770126852,
+          "duration" : 7938
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "bf2dd9f1f40a3afc.json",
+  "parameterValues" : [ ]
+}

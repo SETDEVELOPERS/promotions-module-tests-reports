@@ -1,0 +1,243 @@
+{
+  "uid" : "a93df6e8f969d689",
+  "name" : "on_Desktop",
+  "fullName" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_PromotionTitleAppearsTest.on_Desktop",
+  "historyId" : "a8a0c3f5d9c10324842a24ecf737b889",
+  "time" : {
+    "start" : 1637960837286,
+    "stop" : 1637960844957,
+    "duration" : 7671
+  },
+  "description" : "Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece el titulo de la promocion.",
+  "descriptionHtml" : "<p>Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece el titulo de la promocion.</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "testdeployment-pzarixq6-966f6fb85-m6mq5"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_PromotionTitleAppearsTest"
+  }, {
+    "name" : "testGroup",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "on_Desktop"
+  }, {
+    "name" : "testSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "thread",
+    "value" : "4324@testdeployment-pzarixq6-966f6fb85-m6mq5.TestNG-test=AutomationTests-1(13)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_PromotionTitleAppearsTest"
+  }, {
+    "name" : "package",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_PromotionTitleAppearsTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4cea332757e39f0e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637952457917,
+        "stop" : 1637952465483,
+        "duration" : 7566
+      }
+    }, {
+      "uid" : "b16180a41492cc79",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: expected [true] but found [false]",
+      "time" : {
+        "start" : 1637943919367,
+        "stop" : 1637943940406,
+        "duration" : 21039
+      }
+    }, {
+      "uid" : "134f5c92bdf8a3a4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637770160769,
+        "stop" : 1637770167338,
+        "duration" : 6569
+      }
+    }, {
+      "uid" : "762ccc88a98add1c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1636533687462,
+        "stop" : 1636533724085,
+        "duration" : 36623
+      }
+    }, {
+      "uid" : "38e3ffd3e8b338b7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635350776560,
+        "stop" : 1635350808457,
+        "duration" : 31897
+      }
+    }, {
+      "uid" : "83111d7655b996b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635347624102,
+        "stop" : 1635347664061,
+        "duration" : 39959
+      }
+    }, {
+      "uid" : "e8e2b5767c0ef428",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635346854905,
+        "stop" : 1635346881456,
+        "duration" : 26551
+      }
+    }, {
+      "uid" : "2b488aeb6f9b558",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635346226472,
+        "stop" : 1635346276166,
+        "duration" : 49694
+      }
+    }, {
+      "uid" : "b9f4146ecdfa9339",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635345233769,
+        "stop" : 1635345262134,
+        "duration" : 28365
+      }
+    }, {
+      "uid" : "b4698d36c1726675",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635344470675,
+        "stop" : 1635344503606,
+        "duration" : 32931
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 1,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 10,
+        "unknown" : 0,
+        "total" : 11
+      },
+      "items" : [ {
+        "uid" : "f21964cfdd520c9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637952457917,
+          "stop" : 1637952465483,
+          "duration" : 7566
+        }
+      }, {
+        "uid" : "c959a677e70a7b55",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: expected [true] but found [false]",
+        "time" : {
+          "start" : 1637943919367,
+          "stop" : 1637943940406,
+          "duration" : 21039
+        }
+      }, {
+        "uid" : "d409e14170b4fe96",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637770160769,
+          "stop" : 1637770167338,
+          "duration" : 6569
+        }
+      }, {
+        "uid" : "fd35607a5dd4c5ac",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636533687462,
+          "stop" : 1636533724085,
+          "duration" : 36623
+        }
+      }, {
+        "uid" : "be2efc3bfc0b005a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635350776560,
+          "stop" : 1635350808457,
+          "duration" : 31897
+        }
+      }, {
+        "uid" : "4b7afc6a4bad0e04",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635347624102,
+          "stop" : 1635347664061,
+          "duration" : 39959
+        }
+      }, {
+        "uid" : "f5b3446b415ee71",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635346854905,
+          "stop" : 1635346881456,
+          "duration" : 26551
+        }
+      }, {
+        "uid" : "514dcf0febd384f2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635346226472,
+          "stop" : 1635346276166,
+          "duration" : 49694
+        }
+      }, {
+        "uid" : "d5945dc826bc200d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635345233769,
+          "stop" : 1635345262134,
+          "duration" : 28365
+        }
+      }, {
+        "uid" : "30f75d1897292ea5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635344470675,
+          "stop" : 1635344503606,
+          "duration" : 32931
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "a93df6e8f969d689.json",
+  "parameterValues" : [ ]
+}

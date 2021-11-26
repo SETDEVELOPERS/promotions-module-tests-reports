@@ -1,0 +1,129 @@
+{
+  "uid" : "ffc2bbbb2dcfb588",
+  "name" : "on_Desktop",
+  "fullName" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_FirstRestaurantWebsiteAppearsTest.on_Desktop",
+  "historyId" : "868883a2cd9b00bee094c6522681c4",
+  "time" : {
+    "start" : 1637959545982,
+    "stop" : 1637959554296,
+    "duration" : 8314
+  },
+  "description" : "Como  visitante no registrado cuando accedo al primer restaurante entonces aparece la web del restaurante",
+  "descriptionHtml" : "<p>Como  visitante no registrado cuando accedo al primer restaurante entonces aparece la web del restaurante</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "testdeployment-pzarixq6-966f6fb85-m6mq5"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_FirstRestaurantWebsiteAppearsTest"
+  }, {
+    "name" : "testGroup",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "on_Desktop"
+  }, {
+    "name" : "testSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "thread",
+    "value" : "4324@testdeployment-pzarixq6-966f6fb85-m6mq5.TestNG-test=AutomationTests-1(13)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_FirstRestaurantWebsiteAppearsTest"
+  }, {
+    "name" : "package",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_FirstRestaurantWebsiteAppearsTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a4b569ed0dbd8464",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637951159981,
+        "stop" : 1637951168136,
+        "duration" : 8155
+      }
+    }, {
+      "uid" : "bae48cd9e7a95f75",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637942602762,
+        "stop" : 1637942610730,
+        "duration" : 7968
+      }
+    }, {
+      "uid" : "4e03c1bd77b5d113",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637768849769,
+        "stop" : 1637768857303,
+        "duration" : 7534
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "3109057427d93b6e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637951159981,
+          "stop" : 1637951168136,
+          "duration" : 8155
+        }
+      }, {
+        "uid" : "974ae36cab87134e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637942602762,
+          "stop" : 1637942610730,
+          "duration" : 7968
+        }
+      }, {
+        "uid" : "4883ab74401b664a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637768849769,
+          "stop" : 1637768857303,
+          "duration" : 7534
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "ffc2bbbb2dcfb588.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,129 @@
+{
+  "uid" : "e031ca790d3f12a9",
+  "name" : "on_Smartphone",
+  "fullName" : "PromotionsModule.Given_PromotionsManager.When_CreatePromotionReward.Then_ImageBotonOfRewardAppearsTest.on_Smartphone",
+  "historyId" : "eaa10833f8dfecdacc0951ec0be3be6",
+  "time" : {
+    "start" : 1637956420897,
+    "stop" : 1637956422451,
+    "duration" : 1554
+  },
+  "description" : "Como gestor de promociones cuando accedo a crear regalo promoción entonces aparece el botón imagen del premio",
+  "descriptionHtml" : "<p>Como gestor de promociones cuando accedo a crear regalo promoción entonces aparece el botón imagen del premio</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "testdeployment-pzarixq6-966f6fb85-m6mq5"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "PromotionsModule.Given_PromotionsManager.When_CreatePromotionReward.Then_ImageBotonOfRewardAppearsTest"
+  }, {
+    "name" : "testGroup",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "on_Smartphone"
+  }, {
+    "name" : "testSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "thread",
+    "value" : "4324@testdeployment-pzarixq6-966f6fb85-m6mq5.TestNG-test=AutomationTests-1(13)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "PromotionsModule.Given_PromotionsManager.When_CreatePromotionReward.Then_ImageBotonOfRewardAppearsTest"
+  }, {
+    "name" : "package",
+    "value" : "PromotionsModule.Given_PromotionsManager.When_CreatePromotionReward.Then_ImageBotonOfRewardAppearsTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "da2b950fc88914ae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637948013483,
+        "stop" : 1637948015296,
+        "duration" : 1813
+      }
+    }, {
+      "uid" : "96eabad4fa4494f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637939457782,
+        "stop" : 1637939459364,
+        "duration" : 1582
+      }
+    }, {
+      "uid" : "546f64a62f1d7fbc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637765788862,
+        "stop" : 1637765790212,
+        "duration" : 1350
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "c4446157d17d2201",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637948013483,
+          "stop" : 1637948015296,
+          "duration" : 1813
+        }
+      }, {
+        "uid" : "4cbfbf383d2bdf40",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637939457782,
+          "stop" : 1637939459364,
+          "duration" : 1582
+        }
+      }, {
+        "uid" : "ca0d395d8e17ae96",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637765788862,
+          "stop" : 1637765790212,
+          "duration" : 1350
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "e031ca790d3f12a9.json",
+  "parameterValues" : [ ]
+}
