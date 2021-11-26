@@ -1,0 +1,113 @@
+{
+  "uid" : "ce07156f04a7c282",
+  "name" : "on_Tablet",
+  "fullName" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_ButtonVerMasForEachRestaurantAppearsTest.on_Tablet",
+  "historyId" : "c0bd1da38e39375524ec534d60705d47",
+  "time" : {
+    "start" : 1637950833116,
+    "stop" : 1637950889746,
+    "duration" : 56630
+  },
+  "description" : "Como visitante no registrado cuando accedo a una promoción no iniciada y selecciono una a una cada provincia entonces aparece 'Ver más' por cada restaurante",
+  "descriptionHtml" : "<p>Como visitante no registrado cuando accedo a una promoción no iniciada y selecciono una a una cada provincia entonces aparece 'Ver más' por cada restaurante</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "testdeployment-pzarixq6-966f6fb85-m6mq5"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_ButtonVerMasForEachRestaurantAppearsTest"
+  }, {
+    "name" : "testGroup",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "on_Tablet"
+  }, {
+    "name" : "testSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "thread",
+    "value" : "4324@testdeployment-pzarixq6-966f6fb85-m6mq5.TestNG-test=AutomationTests-1(13)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_ButtonVerMasForEachRestaurantAppearsTest"
+  }, {
+    "name" : "package",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_ButtonVerMasForEachRestaurantAppearsTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f1a9cf2682b7b9b5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637942280338,
+        "stop" : 1637942335763,
+        "duration" : 55425
+      }
+    }, {
+      "uid" : "9492278ff76903b6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637768545528,
+        "stop" : 1637768598906,
+        "duration" : 53378
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 3,
+        "unknown" : 0,
+        "total" : 3
+      },
+      "items" : [ {
+        "uid" : "6e54c0022516a6b5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637942280338,
+          "stop" : 1637942335763,
+          "duration" : 55425
+        }
+      }, {
+        "uid" : "9699a98d14e8f2c1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637768545528,
+          "stop" : 1637768598906,
+          "duration" : 53378
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "ce07156f04a7c282.json",
+  "parameterValues" : [ ]
+}

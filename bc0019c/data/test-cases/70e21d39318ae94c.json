@@ -1,0 +1,113 @@
+{
+  "uid" : "70e21d39318ae94c",
+  "name" : "on_Tablet",
+  "fullName" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_RestaurantFirstDishImageAppearsTest.on_Tablet",
+  "historyId" : "f143011838012a7b168bf091f93d1eab",
+  "time" : {
+    "start" : 1637948291076,
+    "stop" : 1637948308472,
+    "duration" : 17396
+  },
+  "description" : "Como  visitante no registrado cuando accedo al primer restaurante y presiono sobre la primera imagen de plato entonces aparece un popup con el plato",
+  "descriptionHtml" : "<p>Como  visitante no registrado cuando accedo al primer restaurante y presiono sobre la primera imagen de plato entonces aparece un popup con el plato</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "testdeployment-pzarixq6-966f6fb85-m6mq5"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_RestaurantFirstDishImageAppearsTest"
+  }, {
+    "name" : "testGroup",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "on_Tablet"
+  }, {
+    "name" : "testSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "thread",
+    "value" : "4324@testdeployment-pzarixq6-966f6fb85-m6mq5.TestNG-test=AutomationTests-1(13)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_RestaurantFirstDishImageAppearsTest"
+  }, {
+    "name" : "package",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_RestaurantFirstDishImageAppearsTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "76fd1e2b8b44d46d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637939755944,
+        "stop" : 1637939773441,
+        "duration" : 17497
+      }
+    }, {
+      "uid" : "f69d2dc4d5f41ed7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637766058968,
+        "stop" : 1637766076347,
+        "duration" : 17379
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 3,
+        "unknown" : 0,
+        "total" : 3
+      },
+      "items" : [ {
+        "uid" : "f3596d6612b3e78d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637939755944,
+          "stop" : 1637939773441,
+          "duration" : 17497
+        }
+      }, {
+        "uid" : "c52f0294450709b2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637766058968,
+          "stop" : 1637766076347,
+          "duration" : 17379
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "70e21d39318ae94c.json",
+  "parameterValues" : [ ]
+}

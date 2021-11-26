@@ -1,0 +1,113 @@
+{
+  "uid" : "b60cf4c8a5fe4a72",
+  "name" : "on_Desktop",
+  "fullName" : "PromotionsModule.Given_PromotionsManager.When_CreatePromotionMail.Then_ListOfEmailTypesAppearsTest.on_Desktop",
+  "historyId" : "5e6dd35b256984b6d29de2d7dbfacc76",
+  "time" : {
+    "start" : 1637947983517,
+    "stop" : 1637947985288,
+    "duration" : 1771
+  },
+  "description" : "Como gestor de promociones cuando accedo a crear correo promociones entonces aparece el listado de tipos de email",
+  "descriptionHtml" : "<p>Como gestor de promociones cuando accedo a crear correo promociones entonces aparece el listado de tipos de email</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "testdeployment-pzarixq6-966f6fb85-m6mq5"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "PromotionsModule.Given_PromotionsManager.When_CreatePromotionMail.Then_ListOfEmailTypesAppearsTest"
+  }, {
+    "name" : "testGroup",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "on_Desktop"
+  }, {
+    "name" : "testSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "thread",
+    "value" : "4324@testdeployment-pzarixq6-966f6fb85-m6mq5.TestNG-test=AutomationTests-1(13)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "PromotionsModule.Given_PromotionsManager.When_CreatePromotionMail.Then_ListOfEmailTypesAppearsTest"
+  }, {
+    "name" : "package",
+    "value" : "PromotionsModule.Given_PromotionsManager.When_CreatePromotionMail.Then_ListOfEmailTypesAppearsTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "913e4d786ba9a713",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637939424435,
+        "stop" : 1637939426377,
+        "duration" : 1942
+      }
+    }, {
+      "uid" : "e0415cc50227cdc3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637765759280,
+        "stop" : 1637765760970,
+        "duration" : 1690
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 3,
+        "unknown" : 0,
+        "total" : 3
+      },
+      "items" : [ {
+        "uid" : "583baccf668c0e5c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637939424435,
+          "stop" : 1637939426377,
+          "duration" : 1942
+        }
+      }, {
+        "uid" : "3fcde302d661d3a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637765759280,
+          "stop" : 1637765760970,
+          "duration" : 1690
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "b60cf4c8a5fe4a72.json",
+  "parameterValues" : [ ]
+}
