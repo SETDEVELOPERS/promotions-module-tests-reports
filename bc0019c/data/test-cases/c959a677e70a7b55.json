@@ -1,0 +1,215 @@
+{
+  "uid" : "c959a677e70a7b55",
+  "name" : "on_Desktop",
+  "fullName" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_PromotionTitleAppearsTest.on_Desktop",
+  "historyId" : "a8a0c3f5d9c10324842a24ecf737b889",
+  "time" : {
+    "start" : 1637943919367,
+    "stop" : 1637943940406,
+    "duration" : 21039
+  },
+  "description" : "Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece el titulo de la promocion.",
+  "descriptionHtml" : "<p>Como nuevo visitante cuando accedo a una promoción no iniciada entonces aparece el titulo de la promocion.</p>\n",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: expected [true] but found [false]",
+  "statusTrace" : "java.lang.AssertionError: expected [true] but found [false]\n\tat org.testng.Assert.fail(Assert.java:99)\n\tat org.testng.Assert.failNotEquals(Assert.java:1037)\n\tat org.testng.Assert.assertTrue(Assert.java:45)\n\tat org.testng.Assert.assertTrue(Assert.java:55)\n\tat PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_PromotionTitleAppearsTest.on_Desktop(Then_PromotionTitleAppearsTest.java:23)\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\n\tat java.lang.reflect.Method.invoke(Method.java:498)\n\tat org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)\n\tat org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)\n\tat org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)\n\tat org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)\n\tat org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)\n\tat org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)\n\tat org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)\n\tat org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)\n\tat java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)\n\tat java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)\n\tat java.lang.Thread.run(Thread.java:748)\n",
+  "flaky" : false,
+  "newFailed" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "testdeployment-pzarixq6-966f6fb85-m6mq5"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_PromotionTitleAppearsTest"
+  }, {
+    "name" : "testGroup",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "on_Desktop"
+  }, {
+    "name" : "testSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "thread",
+    "value" : "4325@testdeployment-pzarixq6-966f6fb85-m6mq5.TestNG-test=AutomationTests-1(13)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_PromotionTitleAppearsTest"
+  }, {
+    "name" : "package",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_PromotionTitleAppearsTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "fac4eb86cfc7e3bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637770160769,
+        "stop" : 1637770167338,
+        "duration" : 6569
+      }
+    }, {
+      "uid" : "fca65d3241f5af90",
+      "status" : "passed",
+      "time" : {
+        "start" : 1636533687462,
+        "stop" : 1636533724085,
+        "duration" : 36623
+      }
+    }, {
+      "uid" : "9e06771a577c5cf1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635350776560,
+        "stop" : 1635350808457,
+        "duration" : 31897
+      }
+    }, {
+      "uid" : "f30b52bb5975c4bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635347624102,
+        "stop" : 1635347664061,
+        "duration" : 39959
+      }
+    }, {
+      "uid" : "131b1118a46c7844",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635346854905,
+        "stop" : 1635346881456,
+        "duration" : 26551
+      }
+    }, {
+      "uid" : "9c6bb45f8cf27b43",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635346226472,
+        "stop" : 1635346276166,
+        "duration" : 49694
+      }
+    }, {
+      "uid" : "f8c53e675524fc47",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635345233769,
+        "stop" : 1635345262134,
+        "duration" : 28365
+      }
+    }, {
+      "uid" : "37fb20e621fd20bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635344470675,
+        "stop" : 1635344503606,
+        "duration" : 32931
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 1,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 8,
+        "unknown" : 0,
+        "total" : 9
+      },
+      "items" : [ {
+        "uid" : "d409e14170b4fe96",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637770160769,
+          "stop" : 1637770167338,
+          "duration" : 6569
+        }
+      }, {
+        "uid" : "fd35607a5dd4c5ac",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636533687462,
+          "stop" : 1636533724085,
+          "duration" : 36623
+        }
+      }, {
+        "uid" : "be2efc3bfc0b005a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635350776560,
+          "stop" : 1635350808457,
+          "duration" : 31897
+        }
+      }, {
+        "uid" : "4b7afc6a4bad0e04",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635347624102,
+          "stop" : 1635347664061,
+          "duration" : 39959
+        }
+      }, {
+        "uid" : "f5b3446b415ee71",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635346854905,
+          "stop" : 1635346881456,
+          "duration" : 26551
+        }
+      }, {
+        "uid" : "514dcf0febd384f2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635346226472,
+          "stop" : 1635346276166,
+          "duration" : 49694
+        }
+      }, {
+        "uid" : "d5945dc826bc200d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635345233769,
+          "stop" : 1635345262134,
+          "duration" : 28365
+        }
+      }, {
+        "uid" : "30f75d1897292ea5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635344470675,
+          "stop" : 1635344503606,
+          "duration" : 32931
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "c959a677e70a7b55.json",
+  "parameterValues" : [ ]
+}
