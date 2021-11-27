@@ -1,0 +1,225 @@
+{
+  "uid" : "d7a3e01b87da63ae",
+  "name" : "on_Tablet",
+  "fullName" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_ForEachProvincesAppearsMinRestaurant.on_Tablet",
+  "historyId" : "c77872927ff941ee2df8ceab00e9ab3f",
+  "time" : {
+    "start" : 1638007051262,
+    "stop" : 1638007107509,
+    "duration" : 56247
+  },
+  "description" : "Como visitante no registrado cuando accedo a una promoción no iniciada y selecciono una a una cada provincia entonces siempre aparece un restaurante como mínimo",
+  "descriptionHtml" : "<p>Como visitante no registrado cuando accedo a una promoción no iniciada y selecciono una a una cada provincia entonces siempre aparece un restaurante como mínimo</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "testdeployment-pzarixq6-966f6fb85-m6mq5"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_ForEachProvincesAppearsMinRestaurant"
+  }, {
+    "name" : "testGroup",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "on_Tablet"
+  }, {
+    "name" : "testSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "thread",
+    "value" : "4324@testdeployment-pzarixq6-966f6fb85-m6mq5.TestNG-test=AutomationTests-1(13)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_ForEachProvincesAppearsMinRestaurant"
+  }, {
+    "name" : "package",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_ForEachProvincesAppearsMinRestaurant"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f90924a8f91ba248",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637998738144,
+        "stop" : 1637998794808,
+        "duration" : 56664
+      }
+    }, {
+      "uid" : "463e402c8382085f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637990407752,
+        "stop" : 1637990464706,
+        "duration" : 56954
+      }
+    }, {
+      "uid" : "5ff161df546dde4a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637982057847,
+        "stop" : 1637982115389,
+        "duration" : 57542
+      }
+    }, {
+      "uid" : "a59096f6bb8c842a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637973681063,
+        "stop" : 1637973738639,
+        "duration" : 57576
+      }
+    }, {
+      "uid" : "f7d3373293f00222",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637965239757,
+        "stop" : 1637965297457,
+        "duration" : 57700
+      }
+    }, {
+      "uid" : "5846deffdeceac1f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637956864842,
+        "stop" : 1637956922447,
+        "duration" : 57605
+      }
+    }, {
+      "uid" : "9e8061679e11694a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637948444325,
+        "stop" : 1637948504821,
+        "duration" : 60496
+      }
+    }, {
+      "uid" : "7ebb8bb2e9835017",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637939909637,
+        "stop" : 1637939966867,
+        "duration" : 57230
+      }
+    }, {
+      "uid" : "616f72489e47a496",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637766212772,
+        "stop" : 1637766270514,
+        "duration" : 57742
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 10,
+        "unknown" : 0,
+        "total" : 10
+      },
+      "items" : [ {
+        "uid" : "3c2dc22d192fb078",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637998738144,
+          "stop" : 1637998794808,
+          "duration" : 56664
+        }
+      }, {
+        "uid" : "c76720bf1dd10563",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637990407752,
+          "stop" : 1637990464706,
+          "duration" : 56954
+        }
+      }, {
+        "uid" : "4acb7ca472ea1adb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637982057847,
+          "stop" : 1637982115389,
+          "duration" : 57542
+        }
+      }, {
+        "uid" : "8afe68908babde40",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637973681063,
+          "stop" : 1637973738639,
+          "duration" : 57576
+        }
+      }, {
+        "uid" : "c27a0f360c88dfc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637965239757,
+          "stop" : 1637965297457,
+          "duration" : 57700
+        }
+      }, {
+        "uid" : "5348ef2d00117e39",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637956864842,
+          "stop" : 1637956922447,
+          "duration" : 57605
+        }
+      }, {
+        "uid" : "203c04e110c0c2e4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637948444325,
+          "stop" : 1637948504821,
+          "duration" : 60496
+        }
+      }, {
+        "uid" : "66f616d909b45741",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637939909637,
+          "stop" : 1637939966867,
+          "duration" : 57230
+        }
+      }, {
+        "uid" : "f2269dbbcd84df56",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637766212772,
+          "stop" : 1637766270514,
+          "duration" : 57742
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "d7a3e01b87da63ae.json",
+  "parameterValues" : [ ]
+}

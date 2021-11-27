@@ -1,0 +1,225 @@
+{
+  "uid" : "6576a402d238f7dc",
+  "name" : "on_Tablet",
+  "fullName" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_RestaurantFirstDishImageAppearsTest.on_Tablet",
+  "historyId" : "f143011838012a7b168bf091f93d1eab",
+  "time" : {
+    "start" : 1638006902963,
+    "stop" : 1638006920072,
+    "duration" : 17109
+  },
+  "description" : "Como  visitante no registrado cuando accedo al primer restaurante y presiono sobre la primera imagen de plato entonces aparece un popup con el plato",
+  "descriptionHtml" : "<p>Como  visitante no registrado cuando accedo al primer restaurante y presiono sobre la primera imagen de plato entonces aparece un popup con el plato</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "testdeployment-pzarixq6-966f6fb85-m6mq5"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_RestaurantFirstDishImageAppearsTest"
+  }, {
+    "name" : "testGroup",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "on_Tablet"
+  }, {
+    "name" : "testSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "thread",
+    "value" : "4324@testdeployment-pzarixq6-966f6fb85-m6mq5.TestNG-test=AutomationTests-1(13)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_RestaurantFirstDishImageAppearsTest"
+  }, {
+    "name" : "package",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_RestaurantFirstDishImageAppearsTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ac798dd55e221067",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637998590086,
+        "stop" : 1637998606846,
+        "duration" : 16760
+      }
+    }, {
+      "uid" : "a03b04fc05eaf278",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637990256142,
+        "stop" : 1637990273533,
+        "duration" : 17391
+      }
+    }, {
+      "uid" : "525fc9001b7193bc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637981904036,
+        "stop" : 1637981921252,
+        "duration" : 17216
+      }
+    }, {
+      "uid" : "80e1bbe5e9c896bc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637973525646,
+        "stop" : 1637973543094,
+        "duration" : 17448
+      }
+    }, {
+      "uid" : "6ac65add9480976a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637965085917,
+        "stop" : 1637965103534,
+        "duration" : 17617
+      }
+    }, {
+      "uid" : "5524a08b9fa3a836",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637956709337,
+        "stop" : 1637956727350,
+        "duration" : 18013
+      }
+    }, {
+      "uid" : "e2fc8083da304ccf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637948291076,
+        "stop" : 1637948308472,
+        "duration" : 17396
+      }
+    }, {
+      "uid" : "4ede1c864dd49867",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637939755944,
+        "stop" : 1637939773441,
+        "duration" : 17497
+      }
+    }, {
+      "uid" : "1eae0624def8557e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637766058968,
+        "stop" : 1637766076347,
+        "duration" : 17379
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 10,
+        "unknown" : 0,
+        "total" : 10
+      },
+      "items" : [ {
+        "uid" : "ea1d4571943963a2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637998590086,
+          "stop" : 1637998606846,
+          "duration" : 16760
+        }
+      }, {
+        "uid" : "9cc2c4a49671d6e7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637990256142,
+          "stop" : 1637990273533,
+          "duration" : 17391
+        }
+      }, {
+        "uid" : "dc16690d251217cd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637981904036,
+          "stop" : 1637981921252,
+          "duration" : 17216
+        }
+      }, {
+        "uid" : "73eebc7309ef1d2d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637973525646,
+          "stop" : 1637973543094,
+          "duration" : 17448
+        }
+      }, {
+        "uid" : "75ed80b18ad721db",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637965085917,
+          "stop" : 1637965103534,
+          "duration" : 17617
+        }
+      }, {
+        "uid" : "9fb4aa99f65908bb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637956709337,
+          "stop" : 1637956727350,
+          "duration" : 18013
+        }
+      }, {
+        "uid" : "70e21d39318ae94c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637948291076,
+          "stop" : 1637948308472,
+          "duration" : 17396
+        }
+      }, {
+        "uid" : "f3596d6612b3e78d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637939755944,
+          "stop" : 1637939773441,
+          "duration" : 17497
+        }
+      }, {
+        "uid" : "c52f0294450709b2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637766058968,
+          "stop" : 1637766076347,
+          "duration" : 17379
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "6576a402d238f7dc.json",
+  "parameterValues" : [ ]
+}

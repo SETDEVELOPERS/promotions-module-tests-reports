@@ -1,0 +1,225 @@
+{
+  "uid" : "1174714f1d892741",
+  "name" : "on_Desktop",
+  "fullName" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_RestaurantFirstDishImageAppearsTest.on_Desktop",
+  "historyId" : "92050ac7c06499f572113346dfd6edf5",
+  "time" : {
+    "start" : 1638006876538,
+    "stop" : 1638006885120,
+    "duration" : 8582
+  },
+  "description" : "Como  visitante no registrado cuando accedo al primer restaurante y presiono sobre la primera imagen de plato entonces aparece un popup con el plato",
+  "descriptionHtml" : "<p>Como  visitante no registrado cuando accedo al primer restaurante y presiono sobre la primera imagen de plato entonces aparece un popup con el plato</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "testdeployment-pzarixq6-966f6fb85-m6mq5"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_RestaurantFirstDishImageAppearsTest"
+  }, {
+    "name" : "testGroup",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "on_Desktop"
+  }, {
+    "name" : "testSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "thread",
+    "value" : "4324@testdeployment-pzarixq6-966f6fb85-m6mq5.TestNG-test=AutomationTests-1(13)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_RestaurantFirstDishImageAppearsTest"
+  }, {
+    "name" : "package",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_RestaurantFirstDishImageAppearsTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "84b0d0ecc40eb31d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637998563092,
+        "stop" : 1637998571878,
+        "duration" : 8786
+      }
+    }, {
+      "uid" : "96cddaa071278534",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637990229630,
+        "stop" : 1637990237977,
+        "duration" : 8347
+      }
+    }, {
+      "uid" : "1790028810f8904e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637981876847,
+        "stop" : 1637981886022,
+        "duration" : 9175
+      }
+    }, {
+      "uid" : "ee10253ae62a0e21",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637973498557,
+        "stop" : 1637973507672,
+        "duration" : 9115
+      }
+    }, {
+      "uid" : "a85cc3948f5acd5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637965058502,
+        "stop" : 1637965067527,
+        "duration" : 9025
+      }
+    }, {
+      "uid" : "34480cab6870430f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637956681935,
+        "stop" : 1637956691068,
+        "duration" : 9133
+      }
+    }, {
+      "uid" : "223fb30cf5399136",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637948262740,
+        "stop" : 1637948271901,
+        "duration" : 9161
+      }
+    }, {
+      "uid" : "73ab3fff8b856bbf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637939728889,
+        "stop" : 1637939737482,
+        "duration" : 8593
+      }
+    }, {
+      "uid" : "3a3ec3b5768fc647",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637766032628,
+        "stop" : 1637766040989,
+        "duration" : 8361
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 10,
+        "unknown" : 0,
+        "total" : 10
+      },
+      "items" : [ {
+        "uid" : "75c31ebd338d61de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637998563092,
+          "stop" : 1637998571878,
+          "duration" : 8786
+        }
+      }, {
+        "uid" : "6d0f96afbec626fb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637990229630,
+          "stop" : 1637990237977,
+          "duration" : 8347
+        }
+      }, {
+        "uid" : "5e164d6f36694616",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637981876847,
+          "stop" : 1637981886022,
+          "duration" : 9175
+        }
+      }, {
+        "uid" : "6b7cfe8ca9b7c0a2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637973498557,
+          "stop" : 1637973507672,
+          "duration" : 9115
+        }
+      }, {
+        "uid" : "1d5dfccbd5dda6c0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637965058502,
+          "stop" : 1637965067527,
+          "duration" : 9025
+        }
+      }, {
+        "uid" : "7c3d15f2541be684",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637956681935,
+          "stop" : 1637956691068,
+          "duration" : 9133
+        }
+      }, {
+        "uid" : "fa63e2f1d2c516f1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637948262740,
+          "stop" : 1637948271901,
+          "duration" : 9161
+        }
+      }, {
+        "uid" : "28fcbbc0231c3e61",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637939728889,
+          "stop" : 1637939737482,
+          "duration" : 8593
+        }
+      }, {
+        "uid" : "ab0638f68f20d622",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637766032628,
+          "stop" : 1637766040989,
+          "duration" : 8361
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "1174714f1d892741.json",
+  "parameterValues" : [ ]
+}
