@@ -1,0 +1,241 @@
+{
+  "uid" : "17379b9146510208",
+  "name" : "on_Smartphone",
+  "fullName" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_ProvinceWithOneRestaurantNotAppersButtonVerMas.on_Smartphone",
+  "historyId" : "509a163893f013bd478a7904f4a0efb4",
+  "time" : {
+    "start" : 1638018046864,
+    "stop" : 1638018074869,
+    "duration" : 28005
+  },
+  "description" : "Como visitante no registrado cuando accedo a una promoción no iniciada y selecciono una provincia con 1 restaurante no aparece el botón (flecha) 'Ver más'",
+  "descriptionHtml" : "<p>Como visitante no registrado cuando accedo a una promoción no iniciada y selecciono una provincia con 1 restaurante no aparece el botón (flecha) 'Ver más'</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "testdeployment-pzarixq6-966f6fb85-m6mq5"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_ProvinceWithOneRestaurantNotAppersButtonVerMas"
+  }, {
+    "name" : "testGroup",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "on_Smartphone"
+  }, {
+    "name" : "testSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "thread",
+    "value" : "4324@testdeployment-pzarixq6-966f6fb85-m6mq5.TestNG-test=AutomationTests-1(13)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_ProvinceWithOneRestaurantNotAppersButtonVerMas"
+  }, {
+    "name" : "package",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_ProvinceWithOneRestaurantNotAppersButtonVerMas"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "edc0bba3d8d9a996",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638009722636,
+        "stop" : 1638009750833,
+        "duration" : 28197
+      }
+    }, {
+      "uid" : "f33a094fcf508311",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638001428960,
+        "stop" : 1638001457457,
+        "duration" : 28497
+      }
+    }, {
+      "uid" : "84bfa77313a3a4ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637993124675,
+        "stop" : 1637993152836,
+        "duration" : 28161
+      }
+    }, {
+      "uid" : "d1a457aa9a08141b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637984779508,
+        "stop" : 1637984807728,
+        "duration" : 28220
+      }
+    }, {
+      "uid" : "60e897343c1170fa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637976401169,
+        "stop" : 1637976429871,
+        "duration" : 28702
+      }
+    }, {
+      "uid" : "a2130efef95d4b25",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637967940937,
+        "stop" : 1637967969713,
+        "duration" : 28776
+      }
+    }, {
+      "uid" : "6ddd408ffb6cfb92",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637959579948,
+        "stop" : 1637959608352,
+        "duration" : 28404
+      }
+    }, {
+      "uid" : "f133d6e2db476ffb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637951193638,
+        "stop" : 1637951222206,
+        "duration" : 28568
+      }
+    }, {
+      "uid" : "69e48e038e87261",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637942635375,
+        "stop" : 1637942663739,
+        "duration" : 28364
+      }
+    }, {
+      "uid" : "e9ccd7cf653ddcdd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637768880705,
+        "stop" : 1637768908819,
+        "duration" : 28114
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 11,
+        "unknown" : 0,
+        "total" : 11
+      },
+      "items" : [ {
+        "uid" : "576862bca8c23982",
+        "status" : "passed",
+        "time" : {
+          "start" : 1638009722636,
+          "stop" : 1638009750833,
+          "duration" : 28197
+        }
+      }, {
+        "uid" : "71f223e15cd9a584",
+        "status" : "passed",
+        "time" : {
+          "start" : 1638001428960,
+          "stop" : 1638001457457,
+          "duration" : 28497
+        }
+      }, {
+        "uid" : "3370594b58e043ec",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637993124675,
+          "stop" : 1637993152836,
+          "duration" : 28161
+        }
+      }, {
+        "uid" : "837593bc08f195f0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637984779508,
+          "stop" : 1637984807728,
+          "duration" : 28220
+        }
+      }, {
+        "uid" : "18bb02eebce53aea",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637976401169,
+          "stop" : 1637976429871,
+          "duration" : 28702
+        }
+      }, {
+        "uid" : "927c49531aae521b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637967940937,
+          "stop" : 1637967969713,
+          "duration" : 28776
+        }
+      }, {
+        "uid" : "a2054816c94904e3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637959579948,
+          "stop" : 1637959608352,
+          "duration" : 28404
+        }
+      }, {
+        "uid" : "8bf26afa5f783a3b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637951193638,
+          "stop" : 1637951222206,
+          "duration" : 28568
+        }
+      }, {
+        "uid" : "83f3b3813da801dc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637942635375,
+          "stop" : 1637942663739,
+          "duration" : 28364
+        }
+      }, {
+        "uid" : "da1add66db6b310b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637768880705,
+          "stop" : 1637768908819,
+          "duration" : 28114
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "17379b9146510208.json",
+  "parameterValues" : [ ]
+}
