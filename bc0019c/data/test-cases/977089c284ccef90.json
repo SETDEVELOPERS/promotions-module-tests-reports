@@ -1,0 +1,177 @@
+{
+  "uid" : "977089c284ccef90",
+  "name" : "on_Tablet",
+  "fullName" : "PromotionsModule.Given_PromotionsManager.When_CreatePromotionReward.Then_TextboxRewardInfoAppearsTest.on_Tablet",
+  "historyId" : "5c04a1eaab2bcb48b8a9b5a8b3b0c895",
+  "time" : {
+    "start" : 1637981654880,
+    "stop" : 1637981656369,
+    "duration" : 1489
+  },
+  "description" : "Como gestor de promociones cuando accedo a crear regalo promoción entonces aparece el textbox reward info",
+  "descriptionHtml" : "<p>Como gestor de promociones cuando accedo a crear regalo promoción entonces aparece el textbox reward info</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "testdeployment-pzarixq6-966f6fb85-m6mq5"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "PromotionsModule.Given_PromotionsManager.When_CreatePromotionReward.Then_TextboxRewardInfoAppearsTest"
+  }, {
+    "name" : "testGroup",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "on_Tablet"
+  }, {
+    "name" : "testSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "thread",
+    "value" : "4324@testdeployment-pzarixq6-966f6fb85-m6mq5.TestNG-test=AutomationTests-1(13)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "PromotionsModule.Given_PromotionsManager.When_CreatePromotionReward.Then_TextboxRewardInfoAppearsTest"
+  }, {
+    "name" : "package",
+    "value" : "PromotionsModule.Given_PromotionsManager.When_CreatePromotionReward.Then_TextboxRewardInfoAppearsTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "34d5390ad0fa63e1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637973253758,
+        "stop" : 1637973255590,
+        "duration" : 1832
+      }
+    }, {
+      "uid" : "1cda8a70e5009a83",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637964833018,
+        "stop" : 1637964834476,
+        "duration" : 1458
+      }
+    }, {
+      "uid" : "4e9316061cc1c07a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637956446292,
+        "stop" : 1637956447784,
+        "duration" : 1492
+      }
+    }, {
+      "uid" : "a1ed76323b117f07",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637948038341,
+        "stop" : 1637948039956,
+        "duration" : 1615
+      }
+    }, {
+      "uid" : "1b917a90cad74bf8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637939484948,
+        "stop" : 1637939487193,
+        "duration" : 2245
+      }
+    }, {
+      "uid" : "e10073ca447734ff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637765812738,
+        "stop" : 1637765814191,
+        "duration" : 1453
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 7,
+        "unknown" : 0,
+        "total" : 7
+      },
+      "items" : [ {
+        "uid" : "2595648d31360f3d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637973253758,
+          "stop" : 1637973255590,
+          "duration" : 1832
+        }
+      }, {
+        "uid" : "6f7b1e8effafab1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637964833018,
+          "stop" : 1637964834476,
+          "duration" : 1458
+        }
+      }, {
+        "uid" : "f34c2eec79fa2699",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637956446292,
+          "stop" : 1637956447784,
+          "duration" : 1492
+        }
+      }, {
+        "uid" : "65dc2acb5a53eccb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637948038341,
+          "stop" : 1637948039956,
+          "duration" : 1615
+        }
+      }, {
+        "uid" : "80f85be0f8dfd882",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637939484948,
+          "stop" : 1637939487193,
+          "duration" : 2245
+        }
+      }, {
+        "uid" : "efe461825938c2f3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637765812738,
+          "stop" : 1637765814191,
+          "duration" : 1453
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "977089c284ccef90.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,68 @@
+{
+  "uid" : "853097f9ebb322ef",
+  "name" : "on_Smartphone",
+  "fullName" : "PromotionsModule.Given_NotRegisteredUser.When_FinishedPromotion.Then_RestrictionAgeDeniedAppearsTest.on_Smartphone",
+  "historyId" : "a5fdfd9fd3c4905678f20b1b324dc74f",
+  "time" : {
+    "start" : 1636533319104,
+    "stop" : 1636533353155,
+    "duration" : 34051
+  },
+  "description" : "Como nuevo visitante cuando se muestra la restricción de edad y deniego entonces no accedo a una promoción finalizada",
+  "descriptionHtml" : "<p>Como nuevo visitante cuando se muestra la restricción de edad y deniego entonces no accedo a una promoción finalizada</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "testdeployment-430r4eaw-6dbff4f8cf-x8nw5"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_FinishedPromotion.Then_RestrictionAgeDeniedAppearsTest"
+  }, {
+    "name" : "testGroup",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "on_Smartphone"
+  }, {
+    "name" : "testSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "thread",
+    "value" : "4324@testdeployment-430r4eaw-6dbff4f8cf-x8nw5.TestNG-test=AutomationTests-2(14)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Damm"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationTests"
+  }, {
+    "name" : "subSuite",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_FinishedPromotion.Then_RestrictionAgeDeniedAppearsTest"
+  }, {
+    "name" : "package",
+    "value" : "PromotionsModule.Given_NotRegisteredUser.When_FinishedPromotion.Then_RestrictionAgeDeniedAppearsTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "853097f9ebb322ef.json",
+  "parameterValues" : [ ]
+}
