@@ -1,6 +1,5 @@
 {
   "uid" : "98d3104e051c652961429bf95fa0b5d6",
-  "name" : "suites",
   "children" : [ {
     "name" : "Damm",
     "children" : [ {
@@ -9,7 +8,7 @@
         "name" : "Core.Application.WebElementApplicationServiceTests",
         "children" : [ {
           "name" : "isDisplayed_Ok",
-          "uid" : "6e4d1aeb6ec171af",
+          "uid" : "13bb2049d2eb8750",
           "parentUid" : "deaf639435dd67982116c3cdad109dd5",
           "status" : "passed",
           "time" : {
@@ -22,12 +21,12 @@
           "parameters" : [ ]
         }, {
           "name" : "click_Ok",
-          "uid" : "9ecd845a683c8b8",
+          "uid" : "784f8738f05288ed",
           "parentUid" : "deaf639435dd67982116c3cdad109dd5",
           "status" : "passed",
           "time" : {
-            "start" : 1638187888986,
-            "stop" : 1638187888987,
+            "start" : 1638196227636,
+            "stop" : 1638196227637,
             "duration" : 1
           },
           "flaky" : false,
@@ -35,12 +34,12 @@
           "parameters" : [ ]
         }, {
           "name" : "disposeWebDriverByWebElement_Ok",
-          "uid" : "2fd5eb42c92bec6e",
+          "uid" : "a7d814ae20fbb386",
           "parentUid" : "deaf639435dd67982116c3cdad109dd5",
           "status" : "passed",
           "time" : {
-            "start" : 1638187888989,
-            "stop" : 1638187888990,
+            "start" : 1638196227639,
+            "stop" : 1638196227640,
             "duration" : 1
           },
           "flaky" : false,
@@ -48,25 +47,25 @@
           "parameters" : [ ]
         }, {
           "name" : "findElementByXpath_Ok",
-          "uid" : "9222f6810d4c3bdb",
+          "uid" : "5d524b17b6311f7e",
           "parentUid" : "deaf639435dd67982116c3cdad109dd5",
           "status" : "passed",
           "time" : {
-            "start" : 1638187888992,
-            "stop" : 1638187888995,
-            "duration" : 3
+            "start" : 1638196227642,
+            "stop" : 1638196227644,
+            "duration" : 2
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "getWebDriverByWebElement_Ok",
-          "uid" : "9b263968f5fb63c7",
+          "uid" : "678857dd434c4dc2",
           "parentUid" : "deaf639435dd67982116c3cdad109dd5",
           "status" : "passed",
           "time" : {
-            "start" : 1638187888997,
-            "stop" : 1638187888998,
+            "start" : 1638196227646,
+            "stop" : 1638196227647,
             "duration" : 1
           },
           "flaky" : false,
@@ -78,39 +77,39 @@
         "name" : "PromotionsModule.Given_PromotionsManager.When_CreatePromotionMail.Then_TextBoxHeaderAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "1b5bc769a29f9fea",
+          "uid" : "aee1668d23778958",
           "parentUid" : "ec3643c2edc0a6d7e36ccb5bed2904b6",
           "status" : "passed",
           "time" : {
-            "start" : 1638183502662,
-            "stop" : 1638183512728,
-            "duration" : 10066
+            "start" : 1638191703528,
+            "stop" : 1638191713727,
+            "duration" : 10199
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "6d255c347af52502",
+          "uid" : "482f666083fd7ab9",
           "parentUid" : "ec3643c2edc0a6d7e36ccb5bed2904b6",
           "status" : "passed",
           "time" : {
-            "start" : 1638183512822,
-            "stop" : 1638183514685,
-            "duration" : 1863
+            "start" : 1638191713765,
+            "stop" : 1638191715490,
+            "duration" : 1725
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "a087dad55d3699f3",
+          "uid" : "d3840a2530911524",
           "parentUid" : "ec3643c2edc0a6d7e36ccb5bed2904b6",
           "status" : "passed",
           "time" : {
-            "start" : 1638183514692,
-            "stop" : 1638183516185,
-            "duration" : 1493
+            "start" : 1638191715523,
+            "stop" : 1638191716992,
+            "duration" : 1469
           },
           "flaky" : false,
           "newFailed" : false,
@@ -121,39 +120,39 @@
         "name" : "PromotionsModule.Given_PromotionsManager.When_CreatePromotionMail.Then_TypeEmailDropDrownAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "6d0ceb97906e54ff",
+          "uid" : "a033798ccb89f9b4",
           "parentUid" : "bed9fdde29a7e6e372b018968abbd683",
           "status" : "passed",
           "time" : {
-            "start" : 1638183516192,
-            "stop" : 1638183517729,
-            "duration" : 1537
+            "start" : 1638191717041,
+            "stop" : 1638191718808,
+            "duration" : 1767
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "5b849087ce72dc85",
+          "uid" : "c881763a168f4dee",
           "parentUid" : "bed9fdde29a7e6e372b018968abbd683",
           "status" : "passed",
           "time" : {
-            "start" : 1638183517735,
-            "stop" : 1638183519182,
-            "duration" : 1447
+            "start" : 1638191718819,
+            "stop" : 1638191720232,
+            "duration" : 1413
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "c561657b85746baa",
+          "uid" : "13d6834772e5e1a",
           "parentUid" : "bed9fdde29a7e6e372b018968abbd683",
           "status" : "passed",
           "time" : {
-            "start" : 1638183519195,
-            "stop" : 1638183520744,
-            "duration" : 1549
+            "start" : 1638191720238,
+            "stop" : 1638191721815,
+            "duration" : 1577
           },
           "flaky" : false,
           "newFailed" : false,
@@ -164,39 +163,39 @@
         "name" : "PromotionsModule.Given_PromotionsManager.When_CreatePromotionMail.Then_TextBoxTextCTAAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "b1524869f205a417",
+          "uid" : "cbdaab11fde34c31",
           "parentUid" : "cc8330126d2ba8932e6ca97d6d022d59",
           "status" : "passed",
           "time" : {
-            "start" : 1638183520755,
-            "stop" : 1638183522186,
-            "duration" : 1431
+            "start" : 1638191721828,
+            "stop" : 1638191723371,
+            "duration" : 1543
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "b26d15adf407a93d",
+          "uid" : "760434662ca03145",
           "parentUid" : "cc8330126d2ba8932e6ca97d6d022d59",
           "status" : "passed",
           "time" : {
-            "start" : 1638183522192,
-            "stop" : 1638183523528,
-            "duration" : 1336
+            "start" : 1638191723379,
+            "stop" : 1638191724704,
+            "duration" : 1325
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "ae7d74c79735fc50",
+          "uid" : "32f92a1c4449d718",
           "parentUid" : "cc8330126d2ba8932e6ca97d6d022d59",
           "status" : "passed",
           "time" : {
-            "start" : 1638183523534,
-            "stop" : 1638183524875,
-            "duration" : 1341
+            "start" : 1638191724726,
+            "stop" : 1638191726095,
+            "duration" : 1369
           },
           "flaky" : false,
           "newFailed" : false,
@@ -207,39 +206,39 @@
         "name" : "PromotionsModule.Given_PromotionsManager.When_CreatePromotionMail.Then_TextBoxBodySecondAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "6c2cd204400f8c66",
+          "uid" : "19b5539009db3658",
           "parentUid" : "ba2d88f049d842380c81e423b153e19d",
           "status" : "passed",
           "time" : {
-            "start" : 1638183524880,
-            "stop" : 1638183526413,
-            "duration" : 1533
+            "start" : 1638191726099,
+            "stop" : 1638191727585,
+            "duration" : 1486
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "2baf23ba33cb969f",
+          "uid" : "281c4ea16195401d",
           "parentUid" : "ba2d88f049d842380c81e423b153e19d",
           "status" : "passed",
           "time" : {
-            "start" : 1638183526435,
-            "stop" : 1638183527743,
-            "duration" : 1308
+            "start" : 1638191727590,
+            "stop" : 1638191728934,
+            "duration" : 1344
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "b69d6393a1967183",
+          "uid" : "41cdb7762edfc6e8",
           "parentUid" : "ba2d88f049d842380c81e423b153e19d",
           "status" : "passed",
           "time" : {
-            "start" : 1638183527756,
-            "stop" : 1638183529041,
-            "duration" : 1285
+            "start" : 1638191728939,
+            "stop" : 1638191730594,
+            "duration" : 1655
           },
           "flaky" : false,
           "newFailed" : false,
@@ -250,39 +249,39 @@
         "name" : "PromotionsModule.Given_PromotionsManager.When_CreatePromotionMail.Then_SelectImageButtonAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "4e672b656b4f6b07",
+          "uid" : "ccbb2f35ae47b48c",
           "parentUid" : "ef05256fca746dfd881d6abb55e3694d",
           "status" : "passed",
           "time" : {
-            "start" : 1638183529052,
-            "stop" : 1638183530567,
-            "duration" : 1515
+            "start" : 1638191730617,
+            "stop" : 1638191732045,
+            "duration" : 1428
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "3d648f8e2bc37b99",
+          "uid" : "47010128786f233e",
           "parentUid" : "ef05256fca746dfd881d6abb55e3694d",
           "status" : "passed",
           "time" : {
-            "start" : 1638183530572,
-            "stop" : 1638183531816,
-            "duration" : 1244
+            "start" : 1638191732049,
+            "stop" : 1638191733345,
+            "duration" : 1296
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "6bb6e528baf5de33",
+          "uid" : "c0ebbc8309495043",
           "parentUid" : "ef05256fca746dfd881d6abb55e3694d",
           "status" : "passed",
           "time" : {
-            "start" : 1638183531822,
-            "stop" : 1638183533183,
-            "duration" : 1361
+            "start" : 1638191733350,
+            "stop" : 1638191734825,
+            "duration" : 1475
           },
           "flaky" : false,
           "newFailed" : false,
@@ -293,39 +292,39 @@
         "name" : "PromotionsModule.Given_PromotionsManager.When_CreatePromotionMail.Then_SaveButtonAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "3da807118ca28a71",
+          "uid" : "9638bc89a1413ea8",
           "parentUid" : "cfe2baca0be140d6abc8606c370f9e0a",
           "status" : "passed",
           "time" : {
-            "start" : 1638183533188,
-            "stop" : 1638183534595,
-            "duration" : 1407
+            "start" : 1638191734849,
+            "stop" : 1638191736393,
+            "duration" : 1544
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "4c82abb06727855d",
+          "uid" : "21508910f48c7328",
           "parentUid" : "cfe2baca0be140d6abc8606c370f9e0a",
           "status" : "passed",
           "time" : {
-            "start" : 1638183534600,
-            "stop" : 1638183535890,
-            "duration" : 1290
+            "start" : 1638191736409,
+            "stop" : 1638191737784,
+            "duration" : 1375
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "dd1d7192d1f166f6",
+          "uid" : "4669e24e75d07fa4",
           "parentUid" : "cfe2baca0be140d6abc8606c370f9e0a",
           "status" : "passed",
           "time" : {
-            "start" : 1638183535894,
-            "stop" : 1638183537277,
-            "duration" : 1383
+            "start" : 1638191737788,
+            "stop" : 1638191739204,
+            "duration" : 1416
           },
           "flaky" : false,
           "newFailed" : false,
@@ -336,39 +335,39 @@
         "name" : "PromotionsModule.Given_PromotionsManager.When_CreatePromotionMail.Then_TextBoxSubjectAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "1014659737a2c9cb",
+          "uid" : "9bf6cee5e7d77789",
           "parentUid" : "3b6cb080f9898a4fd3b580eed52cbae2",
           "status" : "passed",
           "time" : {
-            "start" : 1638183537285,
-            "stop" : 1638183538614,
-            "duration" : 1329
+            "start" : 1638191739210,
+            "stop" : 1638191740786,
+            "duration" : 1576
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "f634592d66e590a",
+          "uid" : "1149e1f0005c6730",
           "parentUid" : "3b6cb080f9898a4fd3b580eed52cbae2",
           "status" : "passed",
           "time" : {
-            "start" : 1638183538621,
-            "stop" : 1638183540013,
-            "duration" : 1392
+            "start" : 1638191740792,
+            "stop" : 1638191742190,
+            "duration" : 1398
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "f60313bcc6e9b1fa",
+          "uid" : "2bb0a8ac1b23ba42",
           "parentUid" : "3b6cb080f9898a4fd3b580eed52cbae2",
           "status" : "passed",
           "time" : {
-            "start" : 1638183540049,
-            "stop" : 1638183541791,
-            "duration" : 1742
+            "start" : 1638191742221,
+            "stop" : 1638191743995,
+            "duration" : 1774
           },
           "flaky" : false,
           "newFailed" : false,
@@ -379,39 +378,39 @@
         "name" : "PromotionsModule.Given_PromotionsManager.When_CreatePromotionMail.Then_SelectImageMobileButtonApearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "aad6e4a0404b6228",
+          "uid" : "c90bee79562aa5e0",
           "parentUid" : "151c863f1b5b0ce81246790c3043038c",
           "status" : "passed",
           "time" : {
-            "start" : 1638183541800,
-            "stop" : 1638183543139,
-            "duration" : 1339
+            "start" : 1638191744019,
+            "stop" : 1638191745514,
+            "duration" : 1495
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "f84cc62896893cf3",
+          "uid" : "c1c8fdb1ed09848c",
           "parentUid" : "151c863f1b5b0ce81246790c3043038c",
           "status" : "passed",
           "time" : {
-            "start" : 1638183543145,
-            "stop" : 1638183544581,
-            "duration" : 1436
+            "start" : 1638191745520,
+            "stop" : 1638191746986,
+            "duration" : 1466
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "bf36367e80944400",
+          "uid" : "65f2eff53924a651",
           "parentUid" : "151c863f1b5b0ce81246790c3043038c",
           "status" : "passed",
           "time" : {
-            "start" : 1638183544586,
-            "stop" : 1638183545831,
-            "duration" : 1245
+            "start" : 1638191746990,
+            "stop" : 1638191748391,
+            "duration" : 1401
           },
           "flaky" : false,
           "newFailed" : false,
@@ -422,39 +421,39 @@
         "name" : "PromotionsModule.Given_PromotionsManager.When_CreatePromotionMail.Then_PreviewButtonAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "2adcb260ed9b8da4",
+          "uid" : "8ec41e64502eac70",
           "parentUid" : "076a19ed8cb363a22e4b9bb628780e9f",
           "status" : "passed",
           "time" : {
-            "start" : 1638183545836,
-            "stop" : 1638183547714,
-            "duration" : 1878
+            "start" : 1638191748415,
+            "stop" : 1638191750097,
+            "duration" : 1682
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "faab12b01b6675c",
+          "uid" : "21e6a673906035b1",
           "parentUid" : "076a19ed8cb363a22e4b9bb628780e9f",
           "status" : "passed",
           "time" : {
-            "start" : 1638183547720,
-            "stop" : 1638183548933,
-            "duration" : 1213
+            "start" : 1638191750104,
+            "stop" : 1638191751449,
+            "duration" : 1345
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "92b8ae3a02a7d81",
+          "uid" : "67755c4dd7199647",
           "parentUid" : "076a19ed8cb363a22e4b9bb628780e9f",
           "status" : "passed",
           "time" : {
-            "start" : 1638183548937,
-            "stop" : 1638183550235,
-            "duration" : 1298
+            "start" : 1638191751453,
+            "stop" : 1638191752782,
+            "duration" : 1329
           },
           "flaky" : false,
           "newFailed" : false,
@@ -465,39 +464,39 @@
         "name" : "PromotionsModule.Given_PromotionsManager.When_CreatePromotionMail.Then_TextBoxBodyThirdAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "c841223c8a5b052a",
+          "uid" : "a2abad7d0446541c",
           "parentUid" : "336a630e4540b824db3504261a0326c4",
           "status" : "passed",
           "time" : {
-            "start" : 1638183550240,
-            "stop" : 1638183551577,
-            "duration" : 1337
+            "start" : 1638191752788,
+            "stop" : 1638191754183,
+            "duration" : 1395
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "c9c5c9096295f25f",
+          "uid" : "7bd8d341629cf40",
           "parentUid" : "336a630e4540b824db3504261a0326c4",
           "status" : "passed",
           "time" : {
-            "start" : 1638183551581,
-            "stop" : 1638183552935,
-            "duration" : 1354
+            "start" : 1638191754216,
+            "stop" : 1638191755658,
+            "duration" : 1442
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "1438aa4080299680",
+          "uid" : "50d19f0abb0eaa69",
           "parentUid" : "336a630e4540b824db3504261a0326c4",
           "status" : "passed",
           "time" : {
-            "start" : 1638183552939,
-            "stop" : 1638183554231,
-            "duration" : 1292
+            "start" : 1638191755662,
+            "stop" : 1638191757030,
+            "duration" : 1368
           },
           "flaky" : false,
           "newFailed" : false,
@@ -508,39 +507,39 @@
         "name" : "PromotionsModule.Given_PromotionsManager.When_CreatePromotionMail.Then_LanguageDropDrownAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "18cf601bfb03dd3",
+          "uid" : "96019c587d9d8dad",
           "parentUid" : "8a480e2321593e3b32ab69b949f33c1c",
           "status" : "passed",
           "time" : {
-            "start" : 1638183554236,
-            "stop" : 1638183555533,
-            "duration" : 1297
+            "start" : 1638191757036,
+            "stop" : 1638191758394,
+            "duration" : 1358
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "dd33be12e5b3eccc",
+          "uid" : "cbb177c69db7370c",
           "parentUid" : "8a480e2321593e3b32ab69b949f33c1c",
           "status" : "passed",
           "time" : {
-            "start" : 1638183555539,
-            "stop" : 1638183556788,
-            "duration" : 1249
+            "start" : 1638191758399,
+            "stop" : 1638191759688,
+            "duration" : 1289
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "5d565e70925269ac",
+          "uid" : "d3c445e9e17ee664",
           "parentUid" : "8a480e2321593e3b32ab69b949f33c1c",
           "status" : "passed",
           "time" : {
-            "start" : 1638183556793,
-            "stop" : 1638183558081,
-            "duration" : 1288
+            "start" : 1638191759699,
+            "stop" : 1638191760935,
+            "duration" : 1236
           },
           "flaky" : false,
           "newFailed" : false,
@@ -551,39 +550,39 @@
         "name" : "PromotionsModule.Given_PromotionsManager.When_CreatePromotionMail.Then_ListOfEmailTypesAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "919dd107dbed41de",
+          "uid" : "10c7d46359e3e4bd",
           "parentUid" : "0d9209e5aa203cdf04525c698b663af0",
           "status" : "passed",
           "time" : {
-            "start" : 1638183558086,
-            "stop" : 1638183559583,
-            "duration" : 1497
+            "start" : 1638191760939,
+            "stop" : 1638191762543,
+            "duration" : 1604
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "ddbd006ff5b2f80",
+          "uid" : "a808a92318f289b4",
           "parentUid" : "0d9209e5aa203cdf04525c698b663af0",
           "status" : "passed",
           "time" : {
-            "start" : 1638183559589,
-            "stop" : 1638183561439,
-            "duration" : 1850
+            "start" : 1638191762548,
+            "stop" : 1638191764090,
+            "duration" : 1542
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "2ef82585352af026",
+          "uid" : "2623690d8345bfbd",
           "parentUid" : "0d9209e5aa203cdf04525c698b663af0",
           "status" : "passed",
           "time" : {
-            "start" : 1638183561450,
-            "stop" : 1638183562916,
-            "duration" : 1466
+            "start" : 1638191764095,
+            "stop" : 1638191765681,
+            "duration" : 1586
           },
           "flaky" : false,
           "newFailed" : false,
@@ -594,39 +593,39 @@
         "name" : "PromotionsModule.Given_PromotionsManager.When_CreatePromotionMail.Then_TextBoxTitleEmailAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "671f662e859239d0",
+          "uid" : "630c9e376b12ab52",
           "parentUid" : "343c76ab443862e4b8f72e40b3afe12d",
           "status" : "passed",
           "time" : {
-            "start" : 1638183562920,
-            "stop" : 1638183564229,
-            "duration" : 1309
+            "start" : 1638191765687,
+            "stop" : 1638191767089,
+            "duration" : 1402
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "f0aaa671d8c497aa",
+          "uid" : "4824db0800bec6a3",
           "parentUid" : "343c76ab443862e4b8f72e40b3afe12d",
           "status" : "passed",
           "time" : {
-            "start" : 1638183564233,
-            "stop" : 1638183565415,
-            "duration" : 1182
+            "start" : 1638191767099,
+            "stop" : 1638191768390,
+            "duration" : 1291
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "93a55ff801f284bb",
+          "uid" : "65822520630d833a",
           "parentUid" : "343c76ab443862e4b8f72e40b3afe12d",
           "status" : "passed",
           "time" : {
-            "start" : 1638183565421,
-            "stop" : 1638183566833,
-            "duration" : 1412
+            "start" : 1638191768397,
+            "stop" : 1638191770041,
+            "duration" : 1644
           },
           "flaky" : false,
           "newFailed" : false,
@@ -637,39 +636,39 @@
         "name" : "PromotionsModule.Given_PromotionsManager.When_CreatePromotionMail.Then_TextBoxURLCTAAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "5f0d2af3ed6c32cf",
+          "uid" : "1cc05af37c65fad5",
           "parentUid" : "0387da2f12ceadd07ce23b4f2e331f8b",
           "status" : "passed",
           "time" : {
-            "start" : 1638183566841,
-            "stop" : 1638183568234,
-            "duration" : 1393
+            "start" : 1638191770046,
+            "stop" : 1638191771483,
+            "duration" : 1437
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "32d8a6b03cd21949",
+          "uid" : "ede003babb7d382e",
           "parentUid" : "0387da2f12ceadd07ce23b4f2e331f8b",
           "status" : "passed",
           "time" : {
-            "start" : 1638183568238,
-            "stop" : 1638183569430,
-            "duration" : 1192
+            "start" : 1638191771488,
+            "stop" : 1638191772729,
+            "duration" : 1241
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "ff52046a66898eb8",
+          "uid" : "fcf530d4ecb8f2a3",
           "parentUid" : "0387da2f12ceadd07ce23b4f2e331f8b",
           "status" : "passed",
           "time" : {
-            "start" : 1638183569436,
-            "stop" : 1638183570684,
-            "duration" : 1248
+            "start" : 1638191772733,
+            "stop" : 1638191774188,
+            "duration" : 1455
           },
           "flaky" : false,
           "newFailed" : false,
@@ -680,39 +679,39 @@
         "name" : "PromotionsModule.Given_PromotionsManager.When_CreatePromotionMail.Then_TextBoxGreettingAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "1c316591523a460a",
+          "uid" : "8a9b44130ee501f8",
           "parentUid" : "ad5e273b83f830928184d2a5dbdac8b3",
           "status" : "passed",
           "time" : {
-            "start" : 1638183570688,
-            "stop" : 1638183572095,
-            "duration" : 1407
+            "start" : 1638191774202,
+            "stop" : 1638191775433,
+            "duration" : 1231
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "8973966ef12ce578",
+          "uid" : "7125360acc951d57",
           "parentUid" : "ad5e273b83f830928184d2a5dbdac8b3",
           "status" : "passed",
           "time" : {
-            "start" : 1638183572104,
-            "stop" : 1638183573384,
-            "duration" : 1280
+            "start" : 1638191775438,
+            "stop" : 1638191776642,
+            "duration" : 1204
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "ead696715acc23d7",
+          "uid" : "399a0ec345d13418",
           "parentUid" : "ad5e273b83f830928184d2a5dbdac8b3",
           "status" : "passed",
           "time" : {
-            "start" : 1638183573388,
-            "stop" : 1638183574595,
-            "duration" : 1207
+            "start" : 1638191776647,
+            "stop" : 1638191777959,
+            "duration" : 1312
           },
           "flaky" : false,
           "newFailed" : false,
@@ -723,39 +722,39 @@
         "name" : "PromotionsModule.Given_PromotionsManager.When_CreatePromotionMail.Then_TextBoxBodyAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "6cfe5c8e3d4a5c81",
+          "uid" : "9565bcfd94e99ea6",
           "parentUid" : "d639d656d4cc682cbac086b7bd9cc1cb",
           "status" : "passed",
           "time" : {
-            "start" : 1638183574616,
-            "stop" : 1638183575981,
-            "duration" : 1365
+            "start" : 1638191777962,
+            "stop" : 1638191779286,
+            "duration" : 1324
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "1e55349f95f986be",
+          "uid" : "a3c1d3d2cbfe85c2",
           "parentUid" : "d639d656d4cc682cbac086b7bd9cc1cb",
           "status" : "passed",
           "time" : {
-            "start" : 1638183575986,
-            "stop" : 1638183577256,
-            "duration" : 1270
+            "start" : 1638191779290,
+            "stop" : 1638191780541,
+            "duration" : 1251
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "b92e03feda5ad164",
+          "uid" : "33687da65e68444d",
           "parentUid" : "d639d656d4cc682cbac086b7bd9cc1cb",
           "status" : "passed",
           "time" : {
-            "start" : 1638183577272,
-            "stop" : 1638183578651,
-            "duration" : 1379
+            "start" : 1638191780546,
+            "stop" : 1638191781902,
+            "duration" : 1356
           },
           "flaky" : false,
           "newFailed" : false,
@@ -766,39 +765,39 @@
         "name" : "PromotionsModule.Given_PromotionsManager.When_CreatePromotionReward.Then_AddOtherElementButtonAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "6e21452106f9058b",
+          "uid" : "af12810551f620eb",
           "parentUid" : "711b12996b8fdb18f578a206ab050b11",
           "status" : "passed",
           "time" : {
-            "start" : 1638183578657,
-            "stop" : 1638183580215,
-            "duration" : 1558
+            "start" : 1638191781907,
+            "stop" : 1638191783527,
+            "duration" : 1620
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "ef553bfcc1153d29",
+          "uid" : "6c4c5892cae41e1a",
           "parentUid" : "711b12996b8fdb18f578a206ab050b11",
           "status" : "passed",
           "time" : {
-            "start" : 1638183580228,
-            "stop" : 1638183581576,
-            "duration" : 1348
+            "start" : 1638191783532,
+            "stop" : 1638191784844,
+            "duration" : 1312
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "f6d2100a43f2c6a0",
+          "uid" : "6e06d9b08418c2f",
           "parentUid" : "711b12996b8fdb18f578a206ab050b11",
           "status" : "passed",
           "time" : {
-            "start" : 1638183581580,
-            "stop" : 1638183582837,
-            "duration" : 1257
+            "start" : 1638191784849,
+            "stop" : 1638191786191,
+            "duration" : 1342
           },
           "flaky" : false,
           "newFailed" : false,
@@ -809,39 +808,39 @@
         "name" : "PromotionsModule.Given_PromotionsManager.When_CreatePromotionReward.Then_ImageBotonOfRewardAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "a41ed01b6d16b093",
+          "uid" : "23f88b4ff0df70fa",
           "parentUid" : "8fa5b7b159c4dfe083bea1f3c3be93c0",
           "status" : "passed",
           "time" : {
-            "start" : 1638183582841,
-            "stop" : 1638183584229,
-            "duration" : 1388
+            "start" : 1638191786197,
+            "stop" : 1638191787629,
+            "duration" : 1432
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "730498c52ad59d4d",
+          "uid" : "6b8a4371ccb93b05",
           "parentUid" : "8fa5b7b159c4dfe083bea1f3c3be93c0",
           "status" : "passed",
           "time" : {
-            "start" : 1638183584237,
-            "stop" : 1638183585486,
-            "duration" : 1249
+            "start" : 1638191787633,
+            "stop" : 1638191788894,
+            "duration" : 1261
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "31c60464df34dab6",
+          "uid" : "d0f559dff2ea3c9f",
           "parentUid" : "8fa5b7b159c4dfe083bea1f3c3be93c0",
           "status" : "passed",
           "time" : {
-            "start" : 1638183585490,
-            "stop" : 1638183586783,
-            "duration" : 1293
+            "start" : 1638191788899,
+            "stop" : 1638191790236,
+            "duration" : 1337
           },
           "flaky" : false,
           "newFailed" : false,
@@ -852,39 +851,39 @@
         "name" : "PromotionsModule.Given_PromotionsManager.When_CreatePromotionReward.Then_TextBoxSubtitleAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "e29081233496a61b",
+          "uid" : "199efe8aaebd4641",
           "parentUid" : "348f3dd73d6fea1f2ef6d639614f3e4c",
           "status" : "passed",
           "time" : {
-            "start" : 1638183586787,
-            "stop" : 1638183588091,
-            "duration" : 1304
+            "start" : 1638191790243,
+            "stop" : 1638191791689,
+            "duration" : 1446
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "e1d4d6bc8e8ddcfe",
+          "uid" : "8bf2ad768ec6bac4",
           "parentUid" : "348f3dd73d6fea1f2ef6d639614f3e4c",
           "status" : "passed",
           "time" : {
-            "start" : 1638183588095,
-            "stop" : 1638183589296,
-            "duration" : 1201
+            "start" : 1638191791694,
+            "stop" : 1638191793082,
+            "duration" : 1388
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "1a0442e4ee92d9f2",
+          "uid" : "80438bbaceec66ee",
           "parentUid" : "348f3dd73d6fea1f2ef6d639614f3e4c",
           "status" : "passed",
           "time" : {
-            "start" : 1638183589318,
-            "stop" : 1638183590736,
-            "duration" : 1418
+            "start" : 1638191793086,
+            "stop" : 1638191794639,
+            "duration" : 1553
           },
           "flaky" : false,
           "newFailed" : false,
@@ -895,39 +894,39 @@
         "name" : "PromotionsModule.Given_PromotionsManager.When_CreatePromotionReward.Then_TextBoxDescriptiveTextAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "646366c7c55855f6",
+          "uid" : "6b425e9a082de5e5",
           "parentUid" : "39d72ffca8d56169626eac38b6c3d962",
           "status" : "passed",
           "time" : {
-            "start" : 1638183590743,
-            "stop" : 1638183592089,
-            "duration" : 1346
+            "start" : 1638191794643,
+            "stop" : 1638191796031,
+            "duration" : 1388
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "926b3a8ceadb8373",
+          "uid" : "27bedc93d86a185",
           "parentUid" : "39d72ffca8d56169626eac38b6c3d962",
           "status" : "passed",
           "time" : {
-            "start" : 1638183592093,
-            "stop" : 1638183593337,
-            "duration" : 1244
+            "start" : 1638191796037,
+            "stop" : 1638191797314,
+            "duration" : 1277
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "2a7da8f54be61dac",
+          "uid" : "be8e80723fb7ff3e",
           "parentUid" : "39d72ffca8d56169626eac38b6c3d962",
           "status" : "passed",
           "time" : {
-            "start" : 1638183593343,
-            "stop" : 1638183594601,
-            "duration" : 1258
+            "start" : 1638191797321,
+            "stop" : 1638191798631,
+            "duration" : 1310
           },
           "flaky" : false,
           "newFailed" : false,
@@ -938,39 +937,39 @@
         "name" : "PromotionsModule.Given_PromotionsManager.When_CreatePromotionReward.Then_LanguageDropDrownAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "c0c550a8ea0e2984",
+          "uid" : "16d00706e326419",
           "parentUid" : "0b2ade718e5c5ea30dd6e1da16bc0c23",
           "status" : "passed",
           "time" : {
-            "start" : 1638183594607,
-            "stop" : 1638183596079,
-            "duration" : 1472
+            "start" : 1638191798637,
+            "stop" : 1638191800114,
+            "duration" : 1477
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "fa36c00b3f85d2a",
+          "uid" : "e9cfd28a648c0bca",
           "parentUid" : "0b2ade718e5c5ea30dd6e1da16bc0c23",
           "status" : "passed",
           "time" : {
-            "start" : 1638183596082,
-            "stop" : 1638183597375,
-            "duration" : 1293
+            "start" : 1638191800119,
+            "stop" : 1638191801496,
+            "duration" : 1377
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "340c56b36ccac4cf",
+          "uid" : "a106872b43a56b91",
           "parentUid" : "0b2ade718e5c5ea30dd6e1da16bc0c23",
           "status" : "passed",
           "time" : {
-            "start" : 1638183597382,
-            "stop" : 1638183598593,
-            "duration" : 1211
+            "start" : 1638191801517,
+            "stop" : 1638191802839,
+            "duration" : 1322
           },
           "flaky" : false,
           "newFailed" : false,
@@ -981,39 +980,39 @@
         "name" : "PromotionsModule.Given_PromotionsManager.When_CreatePromotionReward.Then_TextboxRewardLocationAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "ad13b059b9d079f3",
+          "uid" : "1ceb67af4bcf3af2",
           "parentUid" : "8660e741aaa50944ff91912579d2ece7",
           "status" : "passed",
           "time" : {
-            "start" : 1638183598598,
-            "stop" : 1638183599983,
-            "duration" : 1385
+            "start" : 1638191802845,
+            "stop" : 1638191804160,
+            "duration" : 1315
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "713553b2c6b8a438",
+          "uid" : "79681ce61bcfdb96",
           "parentUid" : "8660e741aaa50944ff91912579d2ece7",
           "status" : "passed",
           "time" : {
-            "start" : 1638183599988,
-            "stop" : 1638183601365,
-            "duration" : 1377
+            "start" : 1638191804164,
+            "stop" : 1638191805533,
+            "duration" : 1369
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "7928a9becd4f09bd",
+          "uid" : "77a6281cd15ec42f",
           "parentUid" : "8660e741aaa50944ff91912579d2ece7",
           "status" : "passed",
           "time" : {
-            "start" : 1638183601369,
-            "stop" : 1638183602648,
-            "duration" : 1279
+            "start" : 1638191805537,
+            "stop" : 1638191806888,
+            "duration" : 1351
           },
           "flaky" : false,
           "newFailed" : false,
@@ -1024,39 +1023,39 @@
         "name" : "PromotionsModule.Given_PromotionsManager.When_CreatePromotionReward.Then_TextboxRewardInfoAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "1a967068bb37f585",
+          "uid" : "c32a381af3159f08",
           "parentUid" : "73e75ed4b193c68fae6bce3d9a92374b",
           "status" : "passed",
           "time" : {
-            "start" : 1638183602653,
-            "stop" : 1638183603975,
-            "duration" : 1322
+            "start" : 1638191806892,
+            "stop" : 1638191808227,
+            "duration" : 1335
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "5a2c3ee0e25a8c9a",
+          "uid" : "a578b2fa8f18d847",
           "parentUid" : "73e75ed4b193c68fae6bce3d9a92374b",
           "status" : "passed",
           "time" : {
-            "start" : 1638183603991,
-            "stop" : 1638183605183,
-            "duration" : 1192
+            "start" : 1638191808231,
+            "stop" : 1638191809603,
+            "duration" : 1372
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "c585ab5ff048f754",
+          "uid" : "eda78d01dcde058c",
           "parentUid" : "73e75ed4b193c68fae6bce3d9a92374b",
           "status" : "passed",
           "time" : {
-            "start" : 1638183605188,
-            "stop" : 1638183606433,
-            "duration" : 1245
+            "start" : 1638191809607,
+            "stop" : 1638191810981,
+            "duration" : 1374
           },
           "flaky" : false,
           "newFailed" : false,
@@ -1067,39 +1066,39 @@
         "name" : "PromotionsModule.Given_PromotionsManager.When_CreatePromotionReward.Then_RewardInfoMenuAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "ff18a45a84280c1e",
+          "uid" : "20dbc5eb53c17e73",
           "parentUid" : "fc9199cd3dec221c2db9bf0b9dc34596",
           "status" : "passed",
           "time" : {
-            "start" : 1638183606437,
-            "stop" : 1638183607787,
-            "duration" : 1350
+            "start" : 1638191810985,
+            "stop" : 1638191812286,
+            "duration" : 1301
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "af600224ae09a0fd",
+          "uid" : "44d270e1baa70232",
           "parentUid" : "fc9199cd3dec221c2db9bf0b9dc34596",
           "status" : "passed",
           "time" : {
-            "start" : 1638183607793,
-            "stop" : 1638183609072,
-            "duration" : 1279
+            "start" : 1638191812291,
+            "stop" : 1638191813683,
+            "duration" : 1392
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "9bafb512ad0d7c09",
+          "uid" : "5ccf2629666a8a1b",
           "parentUid" : "fc9199cd3dec221c2db9bf0b9dc34596",
           "status" : "passed",
           "time" : {
-            "start" : 1638183609076,
-            "stop" : 1638183610480,
-            "duration" : 1404
+            "start" : 1638191813688,
+            "stop" : 1638191814989,
+            "duration" : 1301
           },
           "flaky" : false,
           "newFailed" : false,
@@ -1110,39 +1109,39 @@
         "name" : "PromotionsModule.Given_PromotionsManager.When_CreatePromotionReward.Then_TextboxRewardInfoTwoAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "85670778cc10dd42",
+          "uid" : "42166de10e096f37",
           "parentUid" : "1288f625ab9ebf115f5e517f501515db",
           "status" : "passed",
           "time" : {
-            "start" : 1638183610488,
-            "stop" : 1638183611815,
-            "duration" : 1327
+            "start" : 1638191814993,
+            "stop" : 1638191816382,
+            "duration" : 1389
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "51d821690c1fd02",
+          "uid" : "9007204fae214c36",
           "parentUid" : "1288f625ab9ebf115f5e517f501515db",
           "status" : "passed",
           "time" : {
-            "start" : 1638183611820,
-            "stop" : 1638183612997,
-            "duration" : 1177
+            "start" : 1638191816388,
+            "stop" : 1638191817647,
+            "duration" : 1259
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "c274965d0c49e8f2",
+          "uid" : "9b68899ee42e13c3",
           "parentUid" : "1288f625ab9ebf115f5e517f501515db",
           "status" : "passed",
           "time" : {
-            "start" : 1638183613002,
-            "stop" : 1638183614310,
-            "duration" : 1308
+            "start" : 1638191817651,
+            "stop" : 1638191818915,
+            "duration" : 1264
           },
           "flaky" : false,
           "newFailed" : false,
@@ -1153,39 +1152,39 @@
         "name" : "PromotionsModule.Given_PromotionsManager.When_CreatePromotionReward.Then_TextboxRewardAddressAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "49454230b64297c",
+          "uid" : "a9be707ff3ace163",
           "parentUid" : "e4a0c6955390ff0a3d207511c4784677",
           "status" : "passed",
           "time" : {
-            "start" : 1638183614314,
-            "stop" : 1638183615534,
-            "duration" : 1220
+            "start" : 1638191818920,
+            "stop" : 1638191820228,
+            "duration" : 1308
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "2d39427523346e26",
+          "uid" : "5d07468220c2d443",
           "parentUid" : "e4a0c6955390ff0a3d207511c4784677",
           "status" : "passed",
           "time" : {
-            "start" : 1638183615538,
-            "stop" : 1638183616735,
-            "duration" : 1197
+            "start" : 1638191820238,
+            "stop" : 1638191821530,
+            "duration" : 1292
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "40f376f449857c60",
+          "uid" : "d51f5e340be94783",
           "parentUid" : "e4a0c6955390ff0a3d207511c4784677",
           "status" : "passed",
           "time" : {
-            "start" : 1638183616740,
-            "stop" : 1638183618013,
-            "duration" : 1273
+            "start" : 1638191821534,
+            "stop" : 1638191822794,
+            "duration" : 1260
           },
           "flaky" : false,
           "newFailed" : false,
@@ -1196,39 +1195,39 @@
         "name" : "PromotionsModule.Given_PromotionsManager.When_CreatePromotionReward.Then_TextBoxTitleAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "73a50291c68d22f5",
+          "uid" : "238238595838bf33",
           "parentUid" : "c4843fbce15cbf778b20263d00ca312d",
           "status" : "passed",
           "time" : {
-            "start" : 1638183618023,
-            "stop" : 1638183619282,
-            "duration" : 1259
+            "start" : 1638191822799,
+            "stop" : 1638191824281,
+            "duration" : 1482
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "5b8ebfc94b5a1c1e",
+          "uid" : "93d07f8828db420c",
           "parentUid" : "c4843fbce15cbf778b20263d00ca312d",
           "status" : "passed",
           "time" : {
-            "start" : 1638183619286,
-            "stop" : 1638183620699,
-            "duration" : 1413
+            "start" : 1638191824287,
+            "stop" : 1638191825590,
+            "duration" : 1303
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "2f56deb38ca82e8d",
+          "uid" : "a5f89daae2668258",
           "parentUid" : "c4843fbce15cbf778b20263d00ca312d",
           "status" : "passed",
           "time" : {
-            "start" : 1638183620704,
-            "stop" : 1638183621972,
-            "duration" : 1268
+            "start" : 1638191825594,
+            "stop" : 1638191826882,
+            "duration" : 1288
           },
           "flaky" : false,
           "newFailed" : false,
@@ -1239,39 +1238,39 @@
         "name" : "PromotionsModule.Given_PromotionsManager.When_CreatePromotionReward.Then_ImageBotonOfRewardMobileAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "2aefd54dcb90f3c0",
+          "uid" : "ef41b5df8be66c8c",
           "parentUid" : "cf0d81638177c7dac8d6ae4e2e086709",
           "status" : "passed",
           "time" : {
-            "start" : 1638183621978,
-            "stop" : 1638183623282,
-            "duration" : 1304
+            "start" : 1638191826886,
+            "stop" : 1638191828229,
+            "duration" : 1343
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "de06e17ef60a4976",
+          "uid" : "81c51230e1a76b3e",
           "parentUid" : "cf0d81638177c7dac8d6ae4e2e086709",
           "status" : "passed",
           "time" : {
-            "start" : 1638183623289,
-            "stop" : 1638183624573,
-            "duration" : 1284
+            "start" : 1638191828233,
+            "stop" : 1638191829530,
+            "duration" : 1297
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "556a841f40092c54",
+          "uid" : "ed56a1411b2dd8f7",
           "parentUid" : "cf0d81638177c7dac8d6ae4e2e086709",
           "status" : "passed",
           "time" : {
-            "start" : 1638183624577,
-            "stop" : 1638183625888,
-            "duration" : 1311
+            "start" : 1638191829537,
+            "stop" : 1638191830896,
+            "duration" : 1359
           },
           "flaky" : false,
           "newFailed" : false,
@@ -1282,39 +1281,39 @@
         "name" : "PromotionsModule.Given_NotRegisteredUser.When_FinishedPromotion.Then_RestrictionAgeDeniedAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "da8f7cbd38977de3",
+          "uid" : "249f8639d6756137",
           "parentUid" : "ef63fb5fbe705262501c71195f2166d3",
           "status" : "passed",
           "time" : {
-            "start" : 1638183625893,
-            "stop" : 1638183630645,
-            "duration" : 4752
+            "start" : 1638191830905,
+            "stop" : 1638191836415,
+            "duration" : 5510
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "c61ce070f941b700",
+          "uid" : "2b091516f1f48d63",
           "parentUid" : "ef63fb5fbe705262501c71195f2166d3",
           "status" : "passed",
           "time" : {
-            "start" : 1638183630649,
-            "stop" : 1638183635149,
-            "duration" : 4500
+            "start" : 1638191836421,
+            "stop" : 1638191840718,
+            "duration" : 4297
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "bdaf34d303bdee82",
+          "uid" : "1b5867b049b17abc",
           "parentUid" : "ef63fb5fbe705262501c71195f2166d3",
           "status" : "passed",
           "time" : {
-            "start" : 1638183635153,
-            "stop" : 1638183639290,
-            "duration" : 4137
+            "start" : 1638191840726,
+            "stop" : 1638191845666,
+            "duration" : 4940
           },
           "flaky" : false,
           "newFailed" : false,
@@ -1325,39 +1324,39 @@
         "name" : "PromotionsModule.Given_NotRegisteredUser.When_FinishedPromotion.Then_PromotionInstructionsAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "575001c466a9beea",
+          "uid" : "921884971e76fd98",
           "parentUid" : "039a13aa0b77ef52efd8b3bd217076fb",
           "status" : "passed",
           "time" : {
-            "start" : 1638183639294,
-            "stop" : 1638183643450,
-            "duration" : 4156
+            "start" : 1638191845671,
+            "stop" : 1638191850196,
+            "duration" : 4525
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "bfc9228d086c8cf9",
+          "uid" : "77836ba214783927",
           "parentUid" : "039a13aa0b77ef52efd8b3bd217076fb",
           "status" : "passed",
           "time" : {
-            "start" : 1638183643455,
-            "stop" : 1638183647487,
-            "duration" : 4032
+            "start" : 1638191850216,
+            "stop" : 1638191854691,
+            "duration" : 4475
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "7bf95ee29379d",
+          "uid" : "bc4a9344632eed7e",
           "parentUid" : "039a13aa0b77ef52efd8b3bd217076fb",
           "status" : "passed",
           "time" : {
-            "start" : 1638183647491,
-            "stop" : 1638183652265,
-            "duration" : 4774
+            "start" : 1638191854696,
+            "stop" : 1638191858889,
+            "duration" : 4193
           },
           "flaky" : false,
           "newFailed" : false,
@@ -1368,39 +1367,39 @@
         "name" : "PromotionsModule.Given_NotRegisteredUser.When_FinishedPromotion.Then_HeaderImageAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "d954b8681a799f70",
+          "uid" : "87f0662ff03b38ff",
           "parentUid" : "33f0507438d0348d0d684372e38bd2b9",
           "status" : "passed",
           "time" : {
-            "start" : 1638183652270,
-            "stop" : 1638183656888,
-            "duration" : 4618
+            "start" : 1638191858892,
+            "stop" : 1638191863357,
+            "duration" : 4465
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "1016d88e46cf73f1",
+          "uid" : "9af29e8f747c89c5",
           "parentUid" : "33f0507438d0348d0d684372e38bd2b9",
           "status" : "passed",
           "time" : {
-            "start" : 1638183656893,
-            "stop" : 1638183661070,
-            "duration" : 4177
+            "start" : 1638191863421,
+            "stop" : 1638191867815,
+            "duration" : 4394
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "a16d76502810af41",
+          "uid" : "b3fd1d24ed49d22e",
           "parentUid" : "33f0507438d0348d0d684372e38bd2b9",
           "status" : "passed",
           "time" : {
-            "start" : 1638183661091,
-            "stop" : 1638183665594,
-            "duration" : 4503
+            "start" : 1638191867819,
+            "stop" : 1638191871992,
+            "duration" : 4173
           },
           "flaky" : false,
           "newFailed" : false,
@@ -1411,39 +1410,39 @@
         "name" : "PromotionsModule.Given_NotRegisteredUser.When_FinishedPromotion.Then_CookiesAcceptanceAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "a77d3aeb07295832",
+          "uid" : "1267e630bad103cb",
           "parentUid" : "2ad61b0fc3beb10b4c746a509b3690b8",
           "status" : "passed",
           "time" : {
-            "start" : 1638183665597,
-            "stop" : 1638183669196,
-            "duration" : 3599
+            "start" : 1638191871996,
+            "stop" : 1638191875429,
+            "duration" : 3433
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "7c3674c826896368",
+          "uid" : "e48bcd3866c5f21a",
           "parentUid" : "2ad61b0fc3beb10b4c746a509b3690b8",
           "status" : "passed",
           "time" : {
-            "start" : 1638183669200,
-            "stop" : 1638183672788,
-            "duration" : 3588
+            "start" : 1638191875433,
+            "stop" : 1638191879240,
+            "duration" : 3807
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "b0b6a11fd9f9017f",
+          "uid" : "3ff9ce838123d2eb",
           "parentUid" : "2ad61b0fc3beb10b4c746a509b3690b8",
           "status" : "passed",
           "time" : {
-            "start" : 1638183672792,
-            "stop" : 1638183676239,
-            "duration" : 3447
+            "start" : 1638191879245,
+            "stop" : 1638191882949,
+            "duration" : 3704
           },
           "flaky" : false,
           "newFailed" : false,
@@ -1454,39 +1453,39 @@
         "name" : "PromotionsModule.Given_NotRegisteredUser.When_FinishedPromotion.Then_AgeRestrictionAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "39b1a3cc6efb1b6e",
+          "uid" : "f4fbde1c58825b45",
           "parentUid" : "83b07eba451e1bb28ae1c9add7237e45",
           "status" : "passed",
           "time" : {
-            "start" : 1638183676249,
-            "stop" : 1638183680148,
-            "duration" : 3899
+            "start" : 1638191882955,
+            "stop" : 1638191887753,
+            "duration" : 4798
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "2ac4ba5f95626270",
+          "uid" : "a0cc3f1bad4590a",
           "parentUid" : "83b07eba451e1bb28ae1c9add7237e45",
           "status" : "passed",
           "time" : {
-            "start" : 1638183680151,
-            "stop" : 1638183684265,
-            "duration" : 4114
+            "start" : 1638191887757,
+            "stop" : 1638191892030,
+            "duration" : 4273
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "a287706aa610d8ac",
+          "uid" : "21c838f82e1eb55c",
           "parentUid" : "83b07eba451e1bb28ae1c9add7237e45",
           "status" : "passed",
           "time" : {
-            "start" : 1638183684268,
-            "stop" : 1638183688087,
-            "duration" : 3819
+            "start" : 1638191892035,
+            "stop" : 1638191896007,
+            "duration" : 3972
           },
           "flaky" : false,
           "newFailed" : false,
@@ -1497,39 +1496,39 @@
         "name" : "PromotionsModule.Given_NotRegisteredUser.When_FinishedPromotion.Then_FinishedPromotionTextAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "b100bf77793566bd",
+          "uid" : "cf9028dac5eea6e9",
           "parentUid" : "4868c5b840ce2621ffd951e3bd6c3d33",
           "status" : "passed",
           "time" : {
-            "start" : 1638183688091,
-            "stop" : 1638183691948,
-            "duration" : 3857
+            "start" : 1638191896025,
+            "stop" : 1638191900388,
+            "duration" : 4363
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "17cd9878cd069c14",
+          "uid" : "dc5e52596115798a",
           "parentUid" : "4868c5b840ce2621ffd951e3bd6c3d33",
           "status" : "passed",
           "time" : {
-            "start" : 1638183691955,
-            "stop" : 1638183696287,
-            "duration" : 4332
+            "start" : 1638191900396,
+            "stop" : 1638191904798,
+            "duration" : 4402
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "bd1d831e1a385184",
+          "uid" : "12f8a02cdd1c2e7f",
           "parentUid" : "4868c5b840ce2621ffd951e3bd6c3d33",
           "status" : "passed",
           "time" : {
-            "start" : 1638183696291,
-            "stop" : 1638183700689,
-            "duration" : 4398
+            "start" : 1638191904814,
+            "stop" : 1638191908905,
+            "duration" : 4091
           },
           "flaky" : false,
           "newFailed" : false,
@@ -1540,39 +1539,39 @@
         "name" : "PromotionsModule.Given_NotRegisteredUser.When_FinishedPromotion.Then_FooterAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "fccab4d8cd72e409",
+          "uid" : "be2298754bdceb11",
           "parentUid" : "58641716ae761cb14055d8823c5ddb4a",
           "status" : "passed",
           "time" : {
-            "start" : 1638183700717,
-            "stop" : 1638183704890,
-            "duration" : 4173
+            "start" : 1638191908910,
+            "stop" : 1638191914089,
+            "duration" : 5179
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "41d121f8313a7fb2",
+          "uid" : "e768748d7ef18ca4",
           "parentUid" : "58641716ae761cb14055d8823c5ddb4a",
           "status" : "passed",
           "time" : {
-            "start" : 1638183704895,
-            "stop" : 1638183719069,
-            "duration" : 14174
+            "start" : 1638191914092,
+            "stop" : 1638191928287,
+            "duration" : 14195
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "c6c41c4043272e76",
+          "uid" : "2601fec5748d6f0c",
           "parentUid" : "58641716ae761cb14055d8823c5ddb4a",
           "status" : "passed",
           "time" : {
-            "start" : 1638183719073,
-            "stop" : 1638183733349,
-            "duration" : 14276
+            "start" : 1638191928290,
+            "stop" : 1638191942538,
+            "duration" : 14248
           },
           "flaky" : false,
           "newFailed" : false,
@@ -1583,39 +1582,39 @@
         "name" : "PromotionsModule.Given_NotRegisteredUser.When_FinishedPromotion.Then_PromotionTitleAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "a809986027f755e0",
+          "uid" : "2b6d9dd477715e95",
           "parentUid" : "231805691a4563021b07379dca2e30a0",
           "status" : "passed",
           "time" : {
-            "start" : 1638183733353,
-            "stop" : 1638183737946,
-            "duration" : 4593
+            "start" : 1638191942542,
+            "stop" : 1638191947897,
+            "duration" : 5355
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "3545781328859141",
+          "uid" : "4649078b4b1142cf",
           "parentUid" : "231805691a4563021b07379dca2e30a0",
           "status" : "passed",
           "time" : {
-            "start" : 1638183737950,
-            "stop" : 1638183742588,
-            "duration" : 4638
+            "start" : 1638191947902,
+            "stop" : 1638191952192,
+            "duration" : 4290
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "adc1d6920fec6ca0",
+          "uid" : "6217bcd781339198",
           "parentUid" : "231805691a4563021b07379dca2e30a0",
           "status" : "passed",
           "time" : {
-            "start" : 1638183742591,
-            "stop" : 1638183746590,
-            "duration" : 3999
+            "start" : 1638191952224,
+            "stop" : 1638191956516,
+            "duration" : 4292
           },
           "flaky" : false,
           "newFailed" : false,
@@ -1626,39 +1625,39 @@
         "name" : "PromotionsModule.Given_NotRegisteredUser.When_FinishedPromotion.Then_PromotionLegalBasesTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "7993062646643853",
+          "uid" : "885f3252f0affea5",
           "parentUid" : "250ab6826798fcf5cf4f9dc8c75995ec",
           "status" : "passed",
           "time" : {
-            "start" : 1638183746597,
-            "stop" : 1638183751772,
-            "duration" : 5175
+            "start" : 1638191956520,
+            "stop" : 1638191961431,
+            "duration" : 4911
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "ec413583776e1b95",
+          "uid" : "4ee6d34268613732",
           "parentUid" : "250ab6826798fcf5cf4f9dc8c75995ec",
           "status" : "passed",
           "time" : {
-            "start" : 1638183751776,
-            "stop" : 1638183756516,
-            "duration" : 4740
+            "start" : 1638191961437,
+            "stop" : 1638191966166,
+            "duration" : 4729
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "82af0a89c2664807",
+          "uid" : "6900d44f9c0df91a",
           "parentUid" : "250ab6826798fcf5cf4f9dc8c75995ec",
           "status" : "passed",
           "time" : {
-            "start" : 1638183756520,
-            "stop" : 1638183761231,
-            "duration" : 4711
+            "start" : 1638191966171,
+            "stop" : 1638191970692,
+            "duration" : 4521
           },
           "flaky" : false,
           "newFailed" : false,
@@ -1669,39 +1668,39 @@
         "name" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_RestaurantNameAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "fb31c66ecfad202f",
+          "uid" : "6ca9198c18ead308",
           "parentUid" : "a2e3ff40390e833aa9da48e9c66fce0c",
           "status" : "passed",
           "time" : {
-            "start" : 1638183761235,
-            "stop" : 1638183768646,
-            "duration" : 7411
+            "start" : 1638191970695,
+            "stop" : 1638191978531,
+            "duration" : 7836
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "d48cece67619cd9d",
+          "uid" : "ee444d2709802eb4",
           "parentUid" : "a2e3ff40390e833aa9da48e9c66fce0c",
           "status" : "passed",
           "time" : {
-            "start" : 1638183768650,
-            "stop" : 1638183777087,
-            "duration" : 8437
+            "start" : 1638191978535,
+            "stop" : 1638191985952,
+            "duration" : 7417
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "5ab6baa20fd91923",
+          "uid" : "4d2da33d459e9bea",
           "parentUid" : "a2e3ff40390e833aa9da48e9c66fce0c",
           "status" : "passed",
           "time" : {
-            "start" : 1638183777096,
-            "stop" : 1638183783547,
-            "duration" : 6451
+            "start" : 1638191985975,
+            "stop" : 1638191992736,
+            "duration" : 6761
           },
           "flaky" : false,
           "newFailed" : false,
@@ -1712,39 +1711,39 @@
         "name" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_FirstRestaurantWebsiteAppersTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "117b3d550418a751",
+          "uid" : "d2b7ce1dfab2c9de",
           "parentUid" : "2c896b45488e1cd94f8ddab7587a8c03",
           "status" : "passed",
           "time" : {
-            "start" : 1638183783558,
-            "stop" : 1638183791344,
-            "duration" : 7786
+            "start" : 1638191992741,
+            "stop" : 1638191999841,
+            "duration" : 7100
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "7846fc8bc794ad9f",
+          "uid" : "8862d2105bb7d160",
           "parentUid" : "2c896b45488e1cd94f8ddab7587a8c03",
           "status" : "passed",
           "time" : {
-            "start" : 1638183791350,
-            "stop" : 1638183798486,
-            "duration" : 7136
+            "start" : 1638191999849,
+            "stop" : 1638192007114,
+            "duration" : 7265
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "4b1118d67700db75",
+          "uid" : "eda24e9b7b83b150",
           "parentUid" : "2c896b45488e1cd94f8ddab7587a8c03",
           "status" : "passed",
           "time" : {
-            "start" : 1638183798490,
-            "stop" : 1638183805239,
-            "duration" : 6749
+            "start" : 1638192007118,
+            "stop" : 1638192014487,
+            "duration" : 7369
           },
           "flaky" : false,
           "newFailed" : false,
@@ -1755,39 +1754,39 @@
         "name" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_RestaurantFirstDishImageAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "703cbdce74416e0c",
+          "uid" : "5a103e9ac1c6ee21",
           "parentUid" : "c1d3d802c6af1aecfa9ed07c253aaa10",
           "status" : "passed",
           "time" : {
-            "start" : 1638183805243,
-            "stop" : 1638183812966,
-            "duration" : 7723
+            "start" : 1638192014518,
+            "stop" : 1638192022645,
+            "duration" : 8127
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "cf5a6dc4685b67b2",
+          "uid" : "35e4b61307184022",
           "parentUid" : "c1d3d802c6af1aecfa9ed07c253aaa10",
           "status" : "passed",
           "time" : {
-            "start" : 1638183812973,
-            "stop" : 1638183830357,
-            "duration" : 17384
+            "start" : 1638192022650,
+            "stop" : 1638192040054,
+            "duration" : 17404
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "91e5f2de62da0b36",
+          "uid" : "344fa5df1c0c8897",
           "parentUid" : "c1d3d802c6af1aecfa9ed07c253aaa10",
           "status" : "passed",
           "time" : {
-            "start" : 1638183830362,
-            "stop" : 1638183847280,
-            "duration" : 16918
+            "start" : 1638192040059,
+            "stop" : 1638192056874,
+            "duration" : 16815
           },
           "flaky" : false,
           "newFailed" : false,
@@ -1798,39 +1797,39 @@
         "name" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_DateEffectiveAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "d0f0a3d1817bfc5c",
+          "uid" : "f3afaa19ae88fb5c",
           "parentUid" : "560fa75aaf7ab20f0daf8aa48b072b81",
           "status" : "passed",
           "time" : {
-            "start" : 1638183847286,
-            "stop" : 1638183854026,
-            "duration" : 6740
+            "start" : 1638192056880,
+            "stop" : 1638192063136,
+            "duration" : 6256
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "1fd574cef95c83f6",
+          "uid" : "600d1881cdf37ac",
           "parentUid" : "560fa75aaf7ab20f0daf8aa48b072b81",
           "status" : "passed",
           "time" : {
-            "start" : 1638183854030,
-            "stop" : 1638183860589,
-            "duration" : 6559
+            "start" : 1638192063140,
+            "stop" : 1638192069456,
+            "duration" : 6316
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "2e6a98406b4d94ff",
+          "uid" : "de7523d1506bc61c",
           "parentUid" : "560fa75aaf7ab20f0daf8aa48b072b81",
           "status" : "passed",
           "time" : {
-            "start" : 1638183860594,
-            "stop" : 1638183866429,
-            "duration" : 5835
+            "start" : 1638192069460,
+            "stop" : 1638192075406,
+            "duration" : 5946
           },
           "flaky" : false,
           "newFailed" : false,
@@ -1841,39 +1840,39 @@
         "name" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_ForEachProvincesAppearsMinRestaurant",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "fd3e985346cf9805",
+          "uid" : "faf7c9ab1b3ac39f",
           "parentUid" : "938edc7035f75b1c9e0dbfb052be4433",
           "status" : "passed",
           "time" : {
-            "start" : 1638183866432,
-            "stop" : 1638183920022,
-            "duration" : 53590
+            "start" : 1638192075410,
+            "stop" : 1638192130232,
+            "duration" : 54822
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "c2e45338494caebe",
+          "uid" : "52e1fcc3ca7522ab",
           "parentUid" : "938edc7035f75b1c9e0dbfb052be4433",
           "status" : "passed",
           "time" : {
-            "start" : 1638183920039,
-            "stop" : 1638183975649,
-            "duration" : 55610
+            "start" : 1638192130237,
+            "stop" : 1638192187248,
+            "duration" : 57011
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "5e624f8516be4c77",
+          "uid" : "dbfe1f8dc9b4b894",
           "parentUid" : "938edc7035f75b1c9e0dbfb052be4433",
           "status" : "passed",
           "time" : {
-            "start" : 1638183975653,
-            "stop" : 1638184031244,
-            "duration" : 55591
+            "start" : 1638192187257,
+            "stop" : 1638192243619,
+            "duration" : 56362
           },
           "flaky" : false,
           "newFailed" : false,
@@ -1884,39 +1883,39 @@
         "name" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_ImageForEachRestaurantAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "850b501f260429d9",
+          "uid" : "a2e230d755399bbd",
           "parentUid" : "bd2b08fec3aeed6894f535aa7d6d17cd",
           "status" : "passed",
           "time" : {
-            "start" : 1638184031248,
-            "stop" : 1638184358368,
-            "duration" : 327120
+            "start" : 1638192243630,
+            "stop" : 1638192570852,
+            "duration" : 327222
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "6d175071c6abd626",
+          "uid" : "8cb98b8601ca0abc",
           "parentUid" : "bd2b08fec3aeed6894f535aa7d6d17cd",
           "status" : "passed",
           "time" : {
-            "start" : 1638184358377,
-            "stop" : 1638184687250,
-            "duration" : 328873
+            "start" : 1638192570921,
+            "stop" : 1638192922151,
+            "duration" : 351230
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "33865f8bc2927b8e",
+          "uid" : "a53f314578757083",
           "parentUid" : "bd2b08fec3aeed6894f535aa7d6d17cd",
           "status" : "passed",
           "time" : {
-            "start" : 1638184687317,
-            "stop" : 1638185025537,
-            "duration" : 338220
+            "start" : 1638192922219,
+            "stop" : 1638193272144,
+            "duration" : 349925
           },
           "flaky" : false,
           "newFailed" : false,
@@ -1927,39 +1926,39 @@
         "name" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_FirstRestaurantPageTownAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "8ed465397db5c069",
+          "uid" : "d88968da8d040704",
           "parentUid" : "0930b11c3e0bba5bbd9bfb2f51497f3a",
           "status" : "passed",
           "time" : {
-            "start" : 1638185025541,
-            "stop" : 1638185032786,
-            "duration" : 7245
+            "start" : 1638193272149,
+            "stop" : 1638193280534,
+            "duration" : 8385
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "2c44e0b52eb0c33b",
+          "uid" : "593c660ee6c1bd17",
           "parentUid" : "0930b11c3e0bba5bbd9bfb2f51497f3a",
           "status" : "passed",
           "time" : {
-            "start" : 1638185032789,
-            "stop" : 1638185039767,
-            "duration" : 6978
+            "start" : 1638193280539,
+            "stop" : 1638193288288,
+            "duration" : 7749
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "ab7a74da05a53bb7",
+          "uid" : "130b3c62d725bb5c",
           "parentUid" : "0930b11c3e0bba5bbd9bfb2f51497f3a",
           "status" : "passed",
           "time" : {
-            "start" : 1638185039770,
-            "stop" : 1638185046427,
-            "duration" : 6657
+            "start" : 1638193288292,
+            "stop" : 1638193294886,
+            "duration" : 6594
           },
           "flaky" : false,
           "newFailed" : false,
@@ -1970,39 +1969,39 @@
         "name" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_PromotionLegalBases",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "ee795faed51de540",
+          "uid" : "396f88b86585b4c6",
           "parentUid" : "df482215ea872a8a3c52357a7d049ba8",
           "status" : "passed",
           "time" : {
-            "start" : 1638185046432,
-            "stop" : 1638185053840,
-            "duration" : 7408
+            "start" : 1638193294890,
+            "stop" : 1638193302844,
+            "duration" : 7954
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "811e1ddae5cb18f7",
+          "uid" : "5aefecd0459a8a0c",
           "parentUid" : "df482215ea872a8a3c52357a7d049ba8",
           "status" : "passed",
           "time" : {
-            "start" : 1638185053845,
-            "stop" : 1638185061107,
-            "duration" : 7262
+            "start" : 1638193302848,
+            "stop" : 1638193310558,
+            "duration" : 7710
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "531c189feb466d43",
+          "uid" : "34bdc44a62ce1d95",
           "parentUid" : "df482215ea872a8a3c52357a7d049ba8",
           "status" : "passed",
           "time" : {
-            "start" : 1638185061111,
-            "stop" : 1638185067344,
-            "duration" : 6233
+            "start" : 1638193310563,
+            "stop" : 1638193317395,
+            "duration" : 6832
           },
           "flaky" : false,
           "newFailed" : false,
@@ -2013,39 +2012,39 @@
         "name" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_RestaurantSecondDishImageAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "e4c877cb96213dd0",
+          "uid" : "c784d25bf5988f91",
           "parentUid" : "b2cfe6b2f9d8d12915370c630ec03723",
           "status" : "passed",
           "time" : {
-            "start" : 1638185067349,
-            "stop" : 1638185075430,
-            "duration" : 8081
+            "start" : 1638193317403,
+            "stop" : 1638193325440,
+            "duration" : 8037
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "70896439e0199db8",
+          "uid" : "d316de61649c120b",
           "parentUid" : "b2cfe6b2f9d8d12915370c630ec03723",
           "status" : "passed",
           "time" : {
-            "start" : 1638185075435,
-            "stop" : 1638185092633,
-            "duration" : 17198
+            "start" : 1638193325446,
+            "stop" : 1638193344173,
+            "duration" : 18727
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "cf53d9814c6d424a",
+          "uid" : "c688f6c3cf65a582",
           "parentUid" : "b2cfe6b2f9d8d12915370c630ec03723",
           "status" : "passed",
           "time" : {
-            "start" : 1638185092638,
-            "stop" : 1638185109244,
-            "duration" : 16606
+            "start" : 1638193344177,
+            "stop" : 1638193361194,
+            "duration" : 17017
           },
           "flaky" : false,
           "newFailed" : false,
@@ -2056,39 +2055,39 @@
         "name" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_TitleForEachRestaurantAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "5a2154028ddd2e5b",
+          "uid" : "850eac7604f63e7c",
           "parentUid" : "896df49e66c8bda9d94109aa39e23bc3",
           "status" : "passed",
           "time" : {
-            "start" : 1638185109248,
-            "stop" : 1638185447845,
-            "duration" : 338597
+            "start" : 1638193361198,
+            "stop" : 1638193691127,
+            "duration" : 329929
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "6ecfb77e455fd8bd",
+          "uid" : "5fa5b973d909bfa",
           "parentUid" : "896df49e66c8bda9d94109aa39e23bc3",
           "status" : "passed",
           "time" : {
-            "start" : 1638185447849,
-            "stop" : 1638185777614,
-            "duration" : 329765
+            "start" : 1638193691132,
+            "stop" : 1638194041633,
+            "duration" : 350501
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "6a3ff6c5eb176f47",
+          "uid" : "4234b556bbc53299",
           "parentUid" : "896df49e66c8bda9d94109aa39e23bc3",
           "status" : "passed",
           "time" : {
-            "start" : 1638185777618,
-            "stop" : 1638186106967,
-            "duration" : 329349
+            "start" : 1638194041638,
+            "stop" : 1638194371809,
+            "duration" : 330171
           },
           "flaky" : false,
           "newFailed" : false,
@@ -2099,39 +2098,39 @@
         "name" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_ThreeImagesOfDishesAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "91093608930624a4",
+          "uid" : "ca35de6192617fe4",
           "parentUid" : "7da56bac999971f023c8f19b30f39c22",
           "status" : "passed",
           "time" : {
-            "start" : 1638186107018,
-            "stop" : 1638186115492,
-            "duration" : 8474
+            "start" : 1638194371815,
+            "stop" : 1638194379952,
+            "duration" : 8137
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "f004e73ae33bee7e",
+          "uid" : "fb7dc27412e48567",
           "parentUid" : "7da56bac999971f023c8f19b30f39c22",
           "status" : "passed",
           "time" : {
-            "start" : 1638186115498,
-            "stop" : 1638186122738,
-            "duration" : 7240
+            "start" : 1638194379960,
+            "stop" : 1638194387638,
+            "duration" : 7678
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "40cda73c6e10b545",
+          "uid" : "2f2f411e0d39c782",
           "parentUid" : "7da56bac999971f023c8f19b30f39c22",
           "status" : "passed",
           "time" : {
-            "start" : 1638186122742,
-            "stop" : 1638186129572,
-            "duration" : 6830
+            "start" : 1638194387645,
+            "stop" : 1638194394136,
+            "duration" : 6491
           },
           "flaky" : false,
           "newFailed" : false,
@@ -2142,39 +2141,39 @@
         "name" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_ParticipateSectionAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "31c46fc2b157ab06",
+          "uid" : "dc80b488a3204a0d",
           "parentUid" : "fc1cbb22ab0a8c9e57e94571705e8972",
           "status" : "passed",
           "time" : {
-            "start" : 1638186129576,
-            "stop" : 1638186136286,
-            "duration" : 6710
+            "start" : 1638194394139,
+            "stop" : 1638194400330,
+            "duration" : 6191
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "ab7ee61ad8daf760",
+          "uid" : "a896f288ba2b8a5c",
           "parentUid" : "fc1cbb22ab0a8c9e57e94571705e8972",
           "status" : "passed",
           "time" : {
-            "start" : 1638186136294,
-            "stop" : 1638186142586,
-            "duration" : 6292
+            "start" : 1638194400341,
+            "stop" : 1638194406690,
+            "duration" : 6349
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "9f45ffb9df4a5cc3",
+          "uid" : "1b65dcae2da06b3",
           "parentUid" : "fc1cbb22ab0a8c9e57e94571705e8972",
           "status" : "passed",
           "time" : {
-            "start" : 1638186142590,
-            "stop" : 1638186148614,
-            "duration" : 6024
+            "start" : 1638194406695,
+            "stop" : 1638194413191,
+            "duration" : 6496
           },
           "flaky" : false,
           "newFailed" : false,
@@ -2185,39 +2184,39 @@
         "name" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_AboutRestaurantContentAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "a047248f16726814",
+          "uid" : "c5f7cb325e4eaa57",
           "parentUid" : "43a18af6c6efb721bae2267991aade04",
           "status" : "passed",
           "time" : {
-            "start" : 1638186148626,
-            "stop" : 1638186155688,
-            "duration" : 7062
+            "start" : 1638194413197,
+            "stop" : 1638194420691,
+            "duration" : 7494
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "e05a303ca9342b1d",
+          "uid" : "71623c14c0e01f44",
           "parentUid" : "43a18af6c6efb721bae2267991aade04",
           "status" : "passed",
           "time" : {
-            "start" : 1638186155718,
-            "stop" : 1638186162830,
-            "duration" : 7112
+            "start" : 1638194420697,
+            "stop" : 1638194427788,
+            "duration" : 7091
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "5e705837ed7c8dd8",
+          "uid" : "bbf39007e49fd0da",
           "parentUid" : "43a18af6c6efb721bae2267991aade04",
           "status" : "passed",
           "time" : {
-            "start" : 1638186162840,
-            "stop" : 1638186169015,
-            "duration" : 6175
+            "start" : 1638194427791,
+            "stop" : 1638194434389,
+            "duration" : 6598
           },
           "flaky" : false,
           "newFailed" : false,
@@ -2228,39 +2227,39 @@
         "name" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_ButtonVerMasForEachRestaurantAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "b1846425120cf13e",
+          "uid" : "77af28416eecd609",
           "parentUid" : "ed8cdc3bc1f48438163527d750f89b3b",
           "status" : "passed",
           "time" : {
-            "start" : 1638186169022,
-            "stop" : 1638186221946,
-            "duration" : 52924
+            "start" : 1638194434393,
+            "stop" : 1638194489089,
+            "duration" : 54696
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "f9b7d48cb5b69819",
+          "uid" : "671ade0456c55039",
           "parentUid" : "ed8cdc3bc1f48438163527d750f89b3b",
           "status" : "passed",
           "time" : {
-            "start" : 1638186221950,
-            "stop" : 1638186275445,
-            "duration" : 53495
+            "start" : 1638194489095,
+            "stop" : 1638194543031,
+            "duration" : 53936
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "97aea18a8e6c304",
+          "uid" : "8dc6f6be1f664e96",
           "parentUid" : "ed8cdc3bc1f48438163527d750f89b3b",
           "status" : "passed",
           "time" : {
-            "start" : 1638186275449,
-            "stop" : 1638186328654,
-            "duration" : 53205
+            "start" : 1638194543041,
+            "stop" : 1638194598439,
+            "duration" : 55398
           },
           "flaky" : false,
           "newFailed" : false,
@@ -2271,39 +2270,39 @@
         "name" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_RestaurantThirdDishImageAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "1eb2e8f53b1e3720",
+          "uid" : "aa41c8a5b6b9d705",
           "parentUid" : "e5aa8cd8626355e43d6cac497869fd63",
           "status" : "passed",
           "time" : {
-            "start" : 1638186328719,
-            "stop" : 1638186337395,
-            "duration" : 8676
+            "start" : 1638194598443,
+            "stop" : 1638194606739,
+            "duration" : 8296
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "399dbf0dfe12910c",
+          "uid" : "9baacfbb4fba1a4c",
           "parentUid" : "e5aa8cd8626355e43d6cac497869fd63",
           "status" : "passed",
           "time" : {
-            "start" : 1638186337398,
-            "stop" : 1638186354662,
-            "duration" : 17264
+            "start" : 1638194606745,
+            "stop" : 1638194624341,
+            "duration" : 17596
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "50f3b7f05c4bfa34",
+          "uid" : "c549e2cbbdbe6850",
           "parentUid" : "e5aa8cd8626355e43d6cac497869fd63",
           "status" : "passed",
           "time" : {
-            "start" : 1638186354665,
-            "stop" : 1638186371463,
-            "duration" : 16798
+            "start" : 1638194624345,
+            "stop" : 1638194641584,
+            "duration" : 17239
           },
           "flaky" : false,
           "newFailed" : false,
@@ -2314,39 +2313,39 @@
         "name" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_HeaderImageAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "ba1a38c1601b4df3",
+          "uid" : "dc84d393869a702c",
           "parentUid" : "643cf81d09c5a567b8e80c2fb31a31b7",
           "status" : "passed",
           "time" : {
-            "start" : 1638186371470,
-            "stop" : 1638186378237,
-            "duration" : 6767
+            "start" : 1638194641616,
+            "stop" : 1638194648132,
+            "duration" : 6516
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "480e77135c2f2db3",
+          "uid" : "f70a3af8e080b4f9",
           "parentUid" : "643cf81d09c5a567b8e80c2fb31a31b7",
           "status" : "passed",
           "time" : {
-            "start" : 1638186378243,
-            "stop" : 1638186384741,
-            "duration" : 6498
+            "start" : 1638194648142,
+            "stop" : 1638194654740,
+            "duration" : 6598
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "2366257d1d2faf",
+          "uid" : "d3415c2efaa053c9",
           "parentUid" : "643cf81d09c5a567b8e80c2fb31a31b7",
           "status" : "passed",
           "time" : {
-            "start" : 1638186384745,
-            "stop" : 1638186390788,
-            "duration" : 6043
+            "start" : 1638194654744,
+            "stop" : 1638194660933,
+            "duration" : 6189
           },
           "flaky" : false,
           "newFailed" : false,
@@ -2357,39 +2356,39 @@
         "name" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_AboutRestaurantTextAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "a4f222e5f8708e9f",
+          "uid" : "c067bec2d0e00488",
           "parentUid" : "61b522c48039f36de0fc1ed64b8fb7d5",
           "status" : "passed",
           "time" : {
-            "start" : 1638186390816,
-            "stop" : 1638186398149,
-            "duration" : 7333
+            "start" : 1638194660937,
+            "stop" : 1638194668260,
+            "duration" : 7323
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "4866ab8194085087",
+          "uid" : "af3423ecd37f0c6",
           "parentUid" : "61b522c48039f36de0fc1ed64b8fb7d5",
           "status" : "passed",
           "time" : {
-            "start" : 1638186398155,
-            "stop" : 1638186405597,
-            "duration" : 7442
+            "start" : 1638194668264,
+            "stop" : 1638194675317,
+            "duration" : 7053
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "dffa4596005934d2",
+          "uid" : "bd05ef0a66b43e26",
           "parentUid" : "61b522c48039f36de0fc1ed64b8fb7d5",
           "status" : "passed",
           "time" : {
-            "start" : 1638186405602,
-            "stop" : 1638186412185,
-            "duration" : 6583
+            "start" : 1638194675328,
+            "stop" : 1638194682112,
+            "duration" : 6784
           },
           "flaky" : false,
           "newFailed" : false,
@@ -2400,39 +2399,39 @@
         "name" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_BreadcrumbAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "44c468ef30447579",
+          "uid" : "eba38f3181d3bd54",
           "parentUid" : "c78c514558e375ca94c916bf989ba74c",
           "status" : "passed",
           "time" : {
-            "start" : 1638186412219,
-            "stop" : 1638186419128,
-            "duration" : 6909
+            "start" : 1638194682117,
+            "stop" : 1638194688840,
+            "duration" : 6723
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "4ff2823399d13486",
+          "uid" : "75508d3122099448",
           "parentUid" : "c78c514558e375ca94c916bf989ba74c",
           "status" : "passed",
           "time" : {
-            "start" : 1638186419133,
-            "stop" : 1638186425691,
-            "duration" : 6558
+            "start" : 1638194688844,
+            "stop" : 1638194696589,
+            "duration" : 7745
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "2ff3bb33ad2e58e5",
+          "uid" : "5b70633439d2ebbd",
           "parentUid" : "c78c514558e375ca94c916bf989ba74c",
           "status" : "passed",
           "time" : {
-            "start" : 1638186425714,
-            "stop" : 1638186431789,
-            "duration" : 6075
+            "start" : 1638194696593,
+            "stop" : 1638194702390,
+            "duration" : 5797
           },
           "flaky" : false,
           "newFailed" : false,
@@ -2443,39 +2442,39 @@
         "name" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_CookiesAcceptanceAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "b09e839525344b55",
+          "uid" : "df9e3c68baceb45f",
           "parentUid" : "82329210b7b7837c358b341d0d91d1b0",
           "status" : "passed",
           "time" : {
-            "start" : 1638186431795,
-            "stop" : 1638186437066,
-            "duration" : 5271
+            "start" : 1638194702394,
+            "stop" : 1638194707841,
+            "duration" : 5447
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "867f45e445d43ea1",
+          "uid" : "e9039b3d400daba9",
           "parentUid" : "82329210b7b7837c358b341d0d91d1b0",
           "status" : "passed",
           "time" : {
-            "start" : 1638186437071,
-            "stop" : 1638186442487,
-            "duration" : 5416
+            "start" : 1638194707845,
+            "stop" : 1638194713667,
+            "duration" : 5822
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "dcc3bd18696c52e6",
+          "uid" : "c8dd055e848bbe2a",
           "parentUid" : "82329210b7b7837c358b341d0d91d1b0",
           "status" : "passed",
           "time" : {
-            "start" : 1638186442491,
-            "stop" : 1638186447615,
-            "duration" : 5124
+            "start" : 1638194713672,
+            "stop" : 1638194718884,
+            "duration" : 5212
           },
           "flaky" : false,
           "newFailed" : false,
@@ -2486,39 +2485,39 @@
         "name" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_ButtonVerMasNotAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "c17e9ef797b73eea",
+          "uid" : "93e84b270624330b",
           "parentUid" : "c8508646349b616e4162d762e7141fa6",
           "status" : "passed",
           "time" : {
-            "start" : 1638186447620,
-            "stop" : 1638186456136,
-            "duration" : 8516
+            "start" : 1638194718888,
+            "stop" : 1638194727436,
+            "duration" : 8548
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "eb5fd6397fdb7300",
+          "uid" : "53e42c2a484d2a23",
           "parentUid" : "c8508646349b616e4162d762e7141fa6",
           "status" : "passed",
           "time" : {
-            "start" : 1638186456142,
-            "stop" : 1638186464540,
-            "duration" : 8398
+            "start" : 1638194727440,
+            "stop" : 1638194736088,
+            "duration" : 8648
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "78dd2094ffd4060e",
+          "uid" : "affd8f3d2b048385",
           "parentUid" : "c8508646349b616e4162d762e7141fa6",
           "status" : "passed",
           "time" : {
-            "start" : 1638186464549,
-            "stop" : 1638186472549,
-            "duration" : 8000
+            "start" : 1638194736093,
+            "stop" : 1638194743763,
+            "duration" : 7670
           },
           "flaky" : false,
           "newFailed" : false,
@@ -2529,39 +2528,39 @@
         "name" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_FirstRestaurantMenuAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "f1d6825eb6ff7239",
+          "uid" : "caf59096d6dfd16d",
           "parentUid" : "0cbf5c5d6b8ae9e1d1f1f87b3d09fb4d",
           "status" : "passed",
           "time" : {
-            "start" : 1638186472552,
-            "stop" : 1638186479940,
-            "duration" : 7388
+            "start" : 1638194743768,
+            "stop" : 1638194750987,
+            "duration" : 7219
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "3a9b8bb68d74478e",
+          "uid" : "fdd74f6f96c72e36",
           "parentUid" : "0cbf5c5d6b8ae9e1d1f1f87b3d09fb4d",
           "status" : "passed",
           "time" : {
-            "start" : 1638186479944,
-            "stop" : 1638186486740,
-            "duration" : 6796
+            "start" : 1638194750991,
+            "stop" : 1638194758156,
+            "duration" : 7165
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "a9c0106c2ba06f59",
+          "uid" : "fc85a70a51dbda9a",
           "parentUid" : "0cbf5c5d6b8ae9e1d1f1f87b3d09fb4d",
           "status" : "passed",
           "time" : {
-            "start" : 1638186486744,
-            "stop" : 1638186493338,
-            "duration" : 6594
+            "start" : 1638194758167,
+            "stop" : 1638194764685,
+            "duration" : 6518
           },
           "flaky" : false,
           "newFailed" : false,
@@ -2572,39 +2571,39 @@
         "name" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_FirstRestaurantTelephoneNumberAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "bc410cde8f06f309",
+          "uid" : "cb94712c7219b49c",
           "parentUid" : "f633f78eba284c5f236011f32aa7344c",
           "status" : "passed",
           "time" : {
-            "start" : 1638186493342,
-            "stop" : 1638186500520,
-            "duration" : 7178
+            "start" : 1638194764690,
+            "stop" : 1638194771228,
+            "duration" : 6538
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "50cbbf1160090097",
+          "uid" : "7a0e008700625507",
           "parentUid" : "f633f78eba284c5f236011f32aa7344c",
           "status" : "passed",
           "time" : {
-            "start" : 1638186500524,
-            "stop" : 1638186507346,
-            "duration" : 6822
+            "start" : 1638194771235,
+            "stop" : 1638194778439,
+            "duration" : 7204
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "6a7bec35486a5d94",
+          "uid" : "414aacc83e1ba3ec",
           "parentUid" : "f633f78eba284c5f236011f32aa7344c",
           "status" : "passed",
           "time" : {
-            "start" : 1638186507352,
-            "stop" : 1638186513887,
-            "duration" : 6535
+            "start" : 1638194778443,
+            "stop" : 1638194784886,
+            "duration" : 6443
           },
           "flaky" : false,
           "newFailed" : false,
@@ -2615,39 +2614,39 @@
         "name" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_PromotionInstructionsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "c969fb1b02acad4d",
+          "uid" : "2ef6a46e64ebfb4b",
           "parentUid" : "50b857a2352e914706100b5d02788216",
           "status" : "passed",
           "time" : {
-            "start" : 1638186513891,
-            "stop" : 1638186520535,
-            "duration" : 6644
+            "start" : 1638194784889,
+            "stop" : 1638194791440,
+            "duration" : 6551
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "9499dade51b06107",
+          "uid" : "235e41e0ec51b167",
           "parentUid" : "50b857a2352e914706100b5d02788216",
           "status" : "passed",
           "time" : {
-            "start" : 1638186520551,
-            "stop" : 1638186526989,
-            "duration" : 6438
+            "start" : 1638194791450,
+            "stop" : 1638194797829,
+            "duration" : 6379
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "cd770f75abc5b922",
+          "uid" : "4e0fe1174f732176",
           "parentUid" : "50b857a2352e914706100b5d02788216",
           "status" : "passed",
           "time" : {
-            "start" : 1638186526995,
-            "stop" : 1638186533116,
-            "duration" : 6121
+            "start" : 1638194797839,
+            "stop" : 1638194803794,
+            "duration" : 5955
           },
           "flaky" : false,
           "newFailed" : false,
@@ -2658,39 +2657,39 @@
         "name" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_ViewMoreButtonAllAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "bcdeff5876fed415",
+          "uid" : "9df43e92425abb5e",
           "parentUid" : "d4e40d564fc0526e0708c8676e1f8997",
           "status" : "passed",
           "time" : {
-            "start" : 1638186533120,
-            "stop" : 1638186540539,
-            "duration" : 7419
+            "start" : 1638194803799,
+            "stop" : 1638194812030,
+            "duration" : 8231
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "4955cef2cf9ab4e8",
+          "uid" : "80826c06f459e623",
           "parentUid" : "d4e40d564fc0526e0708c8676e1f8997",
           "status" : "passed",
           "time" : {
-            "start" : 1638186540544,
-            "stop" : 1638186547395,
-            "duration" : 6851
+            "start" : 1638194812035,
+            "stop" : 1638194819139,
+            "duration" : 7104
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "f3c95b31db44b69e",
+          "uid" : "a1133e3041a94375",
           "parentUid" : "d4e40d564fc0526e0708c8676e1f8997",
           "status" : "passed",
           "time" : {
-            "start" : 1638186547398,
-            "stop" : 1638186554139,
-            "duration" : 6741
+            "start" : 1638194819143,
+            "stop" : 1638194825788,
+            "duration" : 6645
           },
           "flaky" : false,
           "newFailed" : false,
@@ -2701,39 +2700,39 @@
         "name" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_AgeRestrictionAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "f32bd56864f72fc6",
+          "uid" : "89f9192e323a5471",
           "parentUid" : "ad0133186df23541d11038d17a395f9a",
           "status" : "passed",
           "time" : {
-            "start" : 1638186554145,
-            "stop" : 1638186559769,
-            "duration" : 5624
+            "start" : 1638194825792,
+            "stop" : 1638194831387,
+            "duration" : 5595
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "5aa07b4328e208d1",
+          "uid" : "2649f2573b2b5231",
           "parentUid" : "ad0133186df23541d11038d17a395f9a",
           "status" : "passed",
           "time" : {
-            "start" : 1638186559781,
-            "stop" : 1638186565833,
-            "duration" : 6052
+            "start" : 1638194831391,
+            "stop" : 1638194837189,
+            "duration" : 5798
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "8cec2ddb7d6d67c",
+          "uid" : "9e26f5cd3f0ceccf",
           "parentUid" : "ad0133186df23541d11038d17a395f9a",
           "status" : "passed",
           "time" : {
-            "start" : 1638186565845,
-            "stop" : 1638186571514,
-            "duration" : 5669
+            "start" : 1638194837193,
+            "stop" : 1638194842588,
+            "duration" : 5395
           },
           "flaky" : false,
           "newFailed" : false,
@@ -2744,39 +2743,39 @@
         "name" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_FirstRestaurantWebsiteAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "7abe1671bc40a31b",
+          "uid" : "ca4d812f29a39880",
           "parentUid" : "744fa4325ee094d81dedf88db98f0556",
           "status" : "passed",
           "time" : {
-            "start" : 1638186571519,
-            "stop" : 1638186578838,
-            "duration" : 7319
+            "start" : 1638194842592,
+            "stop" : 1638194850741,
+            "duration" : 8149
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "b1984dc89156e1be",
+          "uid" : "2c01bd9f89ce735e",
           "parentUid" : "744fa4325ee094d81dedf88db98f0556",
           "status" : "passed",
           "time" : {
-            "start" : 1638186578846,
-            "stop" : 1638186586066,
-            "duration" : 7220
+            "start" : 1638194850749,
+            "stop" : 1638194858046,
+            "duration" : 7297
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "fed5322abacc4d40",
+          "uid" : "974487627cf38734",
           "parentUid" : "744fa4325ee094d81dedf88db98f0556",
           "status" : "passed",
           "time" : {
-            "start" : 1638186586071,
-            "stop" : 1638186592386,
-            "duration" : 6315
+            "start" : 1638194858049,
+            "stop" : 1638194864695,
+            "duration" : 6646
           },
           "flaky" : false,
           "newFailed" : false,
@@ -2787,39 +2786,39 @@
         "name" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_ProvinceWithOneRestaurantNotAppersButtonVerMas",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "6bd72fd90318800f",
+          "uid" : "7e84365918707432",
           "parentUid" : "78234b6b5b869afec1ce67f144d1616b",
           "status" : "passed",
           "time" : {
-            "start" : 1638186592395,
-            "stop" : 1638186600140,
-            "duration" : 7745
+            "start" : 1638194864714,
+            "stop" : 1638194874538,
+            "duration" : 9824
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "b12e764571789ac7",
+          "uid" : "a39f99c84d3a6983",
           "parentUid" : "78234b6b5b869afec1ce67f144d1616b",
           "status" : "passed",
           "time" : {
-            "start" : 1638186600145,
-            "stop" : 1638186627858,
-            "duration" : 27713
+            "start" : 1638194874543,
+            "stop" : 1638194902945,
+            "duration" : 28402
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "4d221bb10a32551f",
+          "uid" : "2c1d027c98b47364",
           "parentUid" : "78234b6b5b869afec1ce67f144d1616b",
           "status" : "passed",
           "time" : {
-            "start" : 1638186627863,
-            "stop" : 1638186655560,
-            "duration" : 27697
+            "start" : 1638194902952,
+            "stop" : 1638194930659,
+            "duration" : 27707
           },
           "flaky" : false,
           "newFailed" : false,
@@ -2830,39 +2829,39 @@
         "name" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_RestaurantFirstDishImageCloseButtonAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "10d0907059990266",
+          "uid" : "e6461d00bc80329",
           "parentUid" : "6ecf093ced39b0c5c1daa3fb3299787f",
           "status" : "passed",
           "time" : {
-            "start" : 1638186655573,
-            "stop" : 1638186663565,
-            "duration" : 7992
+            "start" : 1638194930669,
+            "stop" : 1638194938539,
+            "duration" : 7870
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "ffc9c7fb707604b4",
+          "uid" : "8823cee73842ff39",
           "parentUid" : "6ecf093ced39b0c5c1daa3fb3299787f",
           "status" : "passed",
           "time" : {
-            "start" : 1638186663570,
-            "stop" : 1638186680729,
-            "duration" : 17159
+            "start" : 1638194938545,
+            "stop" : 1638194956165,
+            "duration" : 17620
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "39aeb2bc79625d7d",
+          "uid" : "e1cf182ad198f958",
           "parentUid" : "6ecf093ced39b0c5c1daa3fb3299787f",
           "status" : "passed",
           "time" : {
-            "start" : 1638186680734,
-            "stop" : 1638186698442,
-            "duration" : 17708
+            "start" : 1638194956169,
+            "stop" : 1638194973065,
+            "duration" : 16896
           },
           "flaky" : false,
           "newFailed" : false,
@@ -2873,39 +2872,39 @@
         "name" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_ViewMoreButtonAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "f087b45f446e2d89",
+          "uid" : "287bc9abfa8c6be9",
           "parentUid" : "38cecace4077f5695fb40e87dcc7d0c3",
           "status" : "passed",
           "time" : {
-            "start" : 1638186698447,
-            "stop" : 1638186721242,
-            "duration" : 22795
+            "start" : 1638194973070,
+            "stop" : 1638194995229,
+            "duration" : 22159
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "b78185277148c00f",
+          "uid" : "4944bc706caac0c",
           "parentUid" : "38cecace4077f5695fb40e87dcc7d0c3",
           "status" : "passed",
           "time" : {
-            "start" : 1638186721248,
-            "stop" : 1638186743075,
-            "duration" : 21827
+            "start" : 1638194995246,
+            "stop" : 1638195018145,
+            "duration" : 22899
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "dbfbaab82a80a146",
+          "uid" : "fcc6160198624cf0",
           "parentUid" : "38cecace4077f5695fb40e87dcc7d0c3",
           "status" : "passed",
           "time" : {
-            "start" : 1638186743078,
-            "stop" : 1638186763474,
-            "duration" : 20396
+            "start" : 1638195018149,
+            "stop" : 1638195039670,
+            "duration" : 21521
           },
           "flaky" : false,
           "newFailed" : false,
@@ -2916,39 +2915,39 @@
         "name" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_ProvincesDropdownAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "f81714b5578c6877",
+          "uid" : "e72e538fa466f24f",
           "parentUid" : "a1b07f62f3da219a5279c8213a44a101",
           "status" : "passed",
           "time" : {
-            "start" : 1638186763518,
-            "stop" : 1638186770235,
-            "duration" : 6717
+            "start" : 1638195039677,
+            "stop" : 1638195046848,
+            "duration" : 7171
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "c5fd4e630f7caf38",
+          "uid" : "39800117baac2517",
           "parentUid" : "a1b07f62f3da219a5279c8213a44a101",
           "status" : "passed",
           "time" : {
-            "start" : 1638186770239,
-            "stop" : 1638186776516,
-            "duration" : 6277
+            "start" : 1638195046852,
+            "stop" : 1638195053696,
+            "duration" : 6844
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "b4683d5869dc7d8b",
+          "uid" : "c24e1e46fac9e356",
           "parentUid" : "a1b07f62f3da219a5279c8213a44a101",
           "status" : "passed",
           "time" : {
-            "start" : 1638186776527,
-            "stop" : 1638186782444,
-            "duration" : 5917
+            "start" : 1638195053701,
+            "stop" : 1638195059689,
+            "duration" : 5988
           },
           "flaky" : false,
           "newFailed" : false,
@@ -2959,39 +2958,39 @@
         "name" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_FooterAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "b143126c0f88a972",
+          "uid" : "91953bc34446fe7c",
           "parentUid" : "a15ad873077a64ebfbd83c7734b81208",
           "status" : "passed",
           "time" : {
-            "start" : 1638186782451,
-            "stop" : 1638186788732,
-            "duration" : 6281
+            "start" : 1638195059695,
+            "stop" : 1638195066430,
+            "duration" : 6735
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "f05e8ae8292b6850",
+          "uid" : "75a132961a9ed664",
           "parentUid" : "a15ad873077a64ebfbd83c7734b81208",
           "status" : "passed",
           "time" : {
-            "start" : 1638186788735,
-            "stop" : 1638186795296,
-            "duration" : 6561
+            "start" : 1638195066435,
+            "stop" : 1638195072889,
+            "duration" : 6454
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "76e6fb11699a2597",
+          "uid" : "8b0ee17f8eb943bd",
           "parentUid" : "a15ad873077a64ebfbd83c7734b81208",
           "status" : "passed",
           "time" : {
-            "start" : 1638186795299,
-            "stop" : 1638186801601,
-            "duration" : 6302
+            "start" : 1638195072893,
+            "stop" : 1638195079185,
+            "duration" : 6292
           },
           "flaky" : false,
           "newFailed" : false,
@@ -3002,39 +3001,39 @@
         "name" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_ForEachRestaurantTownAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "f8af6bdec49503a8",
+          "uid" : "a2f8fb1645564bb1",
           "parentUid" : "ee2fbfe98f09d2b325292073f35d3f26",
           "status" : "passed",
           "time" : {
-            "start" : 1638186801605,
-            "stop" : 1638187128444,
-            "duration" : 326839
+            "start" : 1638195079193,
+            "stop" : 1638195406049,
+            "duration" : 326856
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "c7e10c6656463334",
+          "uid" : "271aae1efc63add",
           "parentUid" : "ee2fbfe98f09d2b325292073f35d3f26",
           "status" : "passed",
           "time" : {
-            "start" : 1638187128453,
-            "stop" : 1638187467215,
-            "duration" : 338762
+            "start" : 1638195406060,
+            "stop" : 1638195800848,
+            "duration" : 394788
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "9bf589fdd003dd62",
+          "uid" : "c5fd968b933c44b4",
           "parentUid" : "ee2fbfe98f09d2b325292073f35d3f26",
           "status" : "passed",
           "time" : {
-            "start" : 1638187467221,
-            "stop" : 1638187806114,
-            "duration" : 338893
+            "start" : 1638195800853,
+            "stop" : 1638196143852,
+            "duration" : 342999
           },
           "flaky" : false,
           "newFailed" : false,
@@ -3045,39 +3044,39 @@
         "name" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_RestaurantReturnAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "391af115dde09809",
+          "uid" : "6ca137e259ea2f0",
           "parentUid" : "dcc30e5f91e13bdad6d4f29da2b466ef",
           "status" : "passed",
           "time" : {
-            "start" : 1638187806127,
-            "stop" : 1638187813514,
-            "duration" : 7387
+            "start" : 1638196143858,
+            "stop" : 1638196151147,
+            "duration" : 7289
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "8e5f8ae566cc22c4",
+          "uid" : "d812d2fbec113438",
           "parentUid" : "dcc30e5f91e13bdad6d4f29da2b466ef",
           "status" : "passed",
           "time" : {
-            "start" : 1638187813518,
-            "stop" : 1638187820615,
-            "duration" : 7097
+            "start" : 1638196151154,
+            "stop" : 1638196158786,
+            "duration" : 7632
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "d27bc25236eb626",
+          "uid" : "d8f4133e9dc42a0c",
           "parentUid" : "dcc30e5f91e13bdad6d4f29da2b466ef",
           "status" : "passed",
           "time" : {
-            "start" : 1638187820618,
-            "stop" : 1638187827142,
-            "duration" : 6524
+            "start" : 1638196158789,
+            "stop" : 1638196165528,
+            "duration" : 6739
           },
           "flaky" : false,
           "newFailed" : false,
@@ -3088,39 +3087,39 @@
         "name" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_AwardSelectionAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "c6c5e123628e2cb0",
+          "uid" : "91f2b358781348b4",
           "parentUid" : "87af0070842c37a895ed60087a33a8d9",
           "status" : "passed",
           "time" : {
-            "start" : 1638187827146,
-            "stop" : 1638187833728,
-            "duration" : 6582
+            "start" : 1638196165532,
+            "stop" : 1638196172638,
+            "duration" : 7106
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "b5a5c2e660a1c415",
+          "uid" : "734058ca1898f413",
           "parentUid" : "87af0070842c37a895ed60087a33a8d9",
           "status" : "passed",
           "time" : {
-            "start" : 1638187833734,
-            "stop" : 1638187840695,
-            "duration" : 6961
+            "start" : 1638196172643,
+            "stop" : 1638196179332,
+            "duration" : 6689
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "90849bee9b839fb0",
+          "uid" : "9c0ed546d04ecb9a",
           "parentUid" : "87af0070842c37a895ed60087a33a8d9",
           "status" : "passed",
           "time" : {
-            "start" : 1638187840699,
-            "stop" : 1638187846685,
-            "duration" : 5986
+            "start" : 1638196179336,
+            "stop" : 1638196185516,
+            "duration" : 6180
           },
           "flaky" : false,
           "newFailed" : false,
@@ -3131,39 +3130,39 @@
         "name" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_PromotionTitleAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "3f19604111458e3",
+          "uid" : "848dd8d45006836d",
           "parentUid" : "95aef89ae68e2b59c536860d8cf507e7",
           "status" : "passed",
           "time" : {
-            "start" : 1638187846719,
-            "stop" : 1638187853943,
-            "duration" : 7224
+            "start" : 1638196185520,
+            "stop" : 1638196192444,
+            "duration" : 6924
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "83fa778dae93cccd",
+          "uid" : "fca0bf401370706e",
           "parentUid" : "95aef89ae68e2b59c536860d8cf507e7",
           "status" : "passed",
           "time" : {
-            "start" : 1638187853949,
-            "stop" : 1638187860632,
-            "duration" : 6683
+            "start" : 1638196192451,
+            "stop" : 1638196199089,
+            "duration" : 6638
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "ae1a68127261a8a6",
+          "uid" : "a2469a4080d8e5ac",
           "parentUid" : "95aef89ae68e2b59c536860d8cf507e7",
           "status" : "passed",
           "time" : {
-            "start" : 1638187860636,
-            "stop" : 1638187866688,
-            "duration" : 6052
+            "start" : 1638196199092,
+            "stop" : 1638196205138,
+            "duration" : 6046
           },
           "flaky" : false,
           "newFailed" : false,
@@ -3174,39 +3173,39 @@
         "name" : "PromotionsModule.Given_NotRegisteredUser.When_NotStartedPromotion.Then_RestaurantImageAppearsTest",
         "children" : [ {
           "name" : "on_Desktop",
-          "uid" : "148b4a0f3fd01ce0",
+          "uid" : "15cd58894d65d3e3",
           "parentUid" : "bd5a4346b3aac3d1ffd10872d2f02160",
           "status" : "passed",
           "time" : {
-            "start" : 1638187866691,
-            "stop" : 1638187874208,
-            "duration" : 7517
+            "start" : 1638196205142,
+            "stop" : 1638196212434,
+            "duration" : 7292
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Smartphone",
-          "uid" : "e447b7f90049e3a3",
+          "uid" : "767221b9ad2a864d",
           "parentUid" : "bd5a4346b3aac3d1ffd10872d2f02160",
           "status" : "passed",
           "time" : {
-            "start" : 1638187874212,
-            "stop" : 1638187881388,
-            "duration" : 7176
+            "start" : 1638196212437,
+            "stop" : 1638196219515,
+            "duration" : 7078
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "on_Tablet",
-          "uid" : "c8934646571a9084",
+          "uid" : "8ca66614e7916120",
           "parentUid" : "bd5a4346b3aac3d1ffd10872d2f02160",
           "status" : "passed",
           "time" : {
-            "start" : 1638187881393,
-            "stop" : 1638187888002,
-            "duration" : 6609
+            "start" : 1638196219518,
+            "stop" : 1638196226590,
+            "duration" : 7072
           },
           "flaky" : false,
           "newFailed" : false,
@@ -3217,26 +3216,26 @@
         "name" : "Core.Application.WebDriverApplicationServiceTests",
         "children" : [ {
           "name" : "disposeWebDriver_Ok",
-          "uid" : "21f569a3f85b91ed",
+          "uid" : "9fc5fe0f6f3a5d44",
           "parentUid" : "854943c4b9a50dc034a37c0c3e2b18c4",
           "status" : "passed",
           "time" : {
-            "start" : 1638187888006,
-            "stop" : 1638187888978,
-            "duration" : 972
+            "start" : 1638196226592,
+            "stop" : 1638196227630,
+            "duration" : 1038
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "getWebDriver_Ok",
-          "uid" : "4be3ff1dbd466b02",
+          "uid" : "cbf022b641fb754c",
           "parentUid" : "854943c4b9a50dc034a37c0c3e2b18c4",
           "status" : "passed",
           "time" : {
-            "start" : 1638187888982,
-            "stop" : 1638187888983,
-            "duration" : 1
+            "start" : 1638196227632,
+            "stop" : 1638196227634,
+            "duration" : 2
           },
           "flaky" : false,
           "newFailed" : false,
@@ -3247,38 +3246,38 @@
         "name" : "Core.Application.WebDriverConfigurationApplicationServiceTests",
         "children" : [ {
           "name" : "getDesktopWebDriverConfiguration_Ok",
-          "uid" : "130b1fe8da162711",
+          "uid" : "4be0137f972cdf8c",
           "parentUid" : "48b02b41e3f1bde0d6a41eb607b6b995",
           "status" : "passed",
           "time" : {
-            "start" : 1638187889017,
-            "stop" : 1638187889018,
-            "duration" : 1
+            "start" : 1638196227649,
+            "stop" : 1638196227649,
+            "duration" : 0
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "getSmartphoneWebDriverConfiguration_Ok",
-          "uid" : "33efda0357b40dcb",
+          "uid" : "b899527ee352c66c",
           "parentUid" : "48b02b41e3f1bde0d6a41eb607b6b995",
           "status" : "passed",
           "time" : {
-            "start" : 1638187889021,
-            "stop" : 1638187889023,
-            "duration" : 2
+            "start" : 1638196227651,
+            "stop" : 1638196227652,
+            "duration" : 1
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         }, {
           "name" : "getTabletWebDriverConfiguration_Ok",
-          "uid" : "8a4f868a26d9b3f0",
+          "uid" : "7b61417bcfca63a6",
           "parentUid" : "48b02b41e3f1bde0d6a41eb607b6b995",
           "status" : "passed",
           "time" : {
-            "start" : 1638187889026,
-            "stop" : 1638187889027,
+            "start" : 1638196227653,
+            "stop" : 1638196227654,
             "duration" : 1
           },
           "flaky" : false,
@@ -3290,13 +3289,13 @@
         "name" : "Core.Application.ConfigurationApplicationServiceTests",
         "children" : [ {
           "name" : "getConfiguration_Ok",
-          "uid" : "4b2ae8ae6b9de4b8",
+          "uid" : "d497bf8a356c5a32",
           "parentUid" : "af4316637ea7ab64bab02eb77656390a",
           "status" : "passed",
           "time" : {
-            "start" : 1638187889030,
-            "stop" : 1638187889148,
-            "duration" : 118
+            "start" : 1638196227656,
+            "stop" : 1638196227760,
+            "duration" : 104
           },
           "flaky" : false,
           "newFailed" : false,
@@ -3307,13 +3306,13 @@
         "name" : "Core.Application.EnvironmentApplicationServiceTests",
         "children" : [ {
           "name" : "getEnvironment_Ok",
-          "uid" : "8d4dd75c384ba759",
+          "uid" : "651f3fa66b149ec9",
           "parentUid" : "592a3c0e3b4767f8525954374f5036f8",
           "status" : "passed",
           "time" : {
-            "start" : 1638187889150,
-            "stop" : 1638187889232,
-            "duration" : 82
+            "start" : 1638196227763,
+            "stop" : 1638196227858,
+            "duration" : 95
           },
           "flaky" : false,
           "newFailed" : false,
@@ -3324,5 +3323,6 @@
       "uid" : "f62a837d0601ab22750a574889f40e83"
     } ],
     "uid" : "576117a66f88e279d3007a870431f49a"
-  } ]
+  } ],
+  "name" : "suites"
 }
